@@ -1,0 +1,512 @@
+Topic,Link,Owner,Reply Count,View Count,Activity Date
+ELECTRA training reimplementation and discussion,https://discuss.huggingface.co/t/electra-training-reimplementation-and-discussion/1004,RichardWang,14,6.6k,"Created: Sep 6, 2020 9:38 am
+Latest: Sep 17, 2023 1:08 am"
+Hugging Face Reads - 01/2021 - Sparsity and Pruning,https://discuss.huggingface.co/t/hugging-face-reads-01-2021-sparsity-and-pruning/3144,yjernite,13,7.5k,"Created: Jan 12, 2021 2:36 pm
+Latest: Mar 8, 2021 5:47 pm"
+ASR spell correction,https://discuss.huggingface.co/t/asr-spell-correction/5103,flozi00,29,8.6k,"Created: Mar 25, 2021 9:59 pm
+Latest: Apr 24, 2024 11:48 am"
+Guide: The best way to calculate the perplexity of fixed-length models,https://discuss.huggingface.co/t/guide-the-best-way-to-calculate-the-perplexity-of-fixed-length-models/193,joeddav,9,9.2k,"Created: Jul 10, 2020 5:07 pm
+Latest: Dec 16, 2021 3:36 am"
+Significance of the [CLS] token,https://discuss.huggingface.co/t/significance-of-the-cls-token/3180,sudarshan85,16,26.9k,"Created: Jan 13, 2021 2:04 pm
+Latest: Sep 13, 2024 8:01 am"
+Pre-Train BERT (from scratch),https://discuss.huggingface.co/t/pre-train-bert-from-scratch/1245,prajjwal1,43,18.8k,"Created: Sep 24, 2020 1:01 pm
+Latest: Jun 27, 2022 2:08 pm"
+Forward-Forward algorithm by Geoffrey Hinton,https://discuss.huggingface.co/t/forward-forward-algorithm-by-geoffrey-hinton/30656,fraktall,10,4.8k,"Created: Jan 29, 2023 1:21 am
+Latest: Jun 17, 2023 3:23 pm"
+GPT2 for QA Pair Generation,https://discuss.huggingface.co/t/gpt2-for-qa-pair-generation/759,aclifton314,9,8.6k,"Created: Aug 18, 2020 9:59 pm
+Latest: Mar 23, 2022 5:27 pm"
+Copying mechanism for transformer,https://discuss.huggingface.co/t/copying-mechanism-for-transformer/5025,lifelongeek,9,6.4k,"Created: Mar 24, 2021 2:39 am
+Latest: Feb 23, 2024 4:23 am"
+EMNLP Picks from the Hugging Face Science Team,https://discuss.huggingface.co/t/emnlp-picks-from-the-hugging-face-science-team/2424,joeddav,1,4.1k,"Created: Dec 2, 2020 3:01 pm
+Latest: Dec 2, 2020 4:37 pm"
+Bart-base rouge scores,https://discuss.huggingface.co/t/bart-base-rouge-scores/683,sshleifer,11,1.7k,"Created: Aug 11, 2020 7:00 pm
+Latest: Oct 27, 2020 4:56 pm"
+FDA Label Document Embedding,https://discuss.huggingface.co/t/fda-label-document-embedding/3654,FL33TW00D,9,1.5k,"Created: Feb 15, 2021 10:01 pm
+Latest: Feb 19, 2021 10:30 pm"
+Science Tuesday: MARGE,https://discuss.huggingface.co/t/science-tuesday-marge/685,sshleifer,7,3.7k,"Created: Aug 11, 2020 10:51 pm
+Latest: Feb 8, 2021 10:52 pm"
+Does quantization compress the model weights?,https://discuss.huggingface.co/t/does-quantization-compress-the-model-weights/108109,neeraj1909,16,311,"Created: Sep 23, 2024 10:23 am
+Latest: Sep 25, 2024 3:31 pm"
+Fine-tuned MLM based RoBERTa not improving performance,https://discuss.huggingface.co/t/fine-tuned-mlm-based-roberta-not-improving-performance/36913,sachinkalsi,2,937,"Created: Apr 18, 2023 4:27 am
+Latest: Apr 20, 2023 4:17 pm"
+ICLR 2020 highlights - Yacine,https://discuss.huggingface.co/t/iclr-2020-highlights-yacine/37,yjernite,1,1.7k,"Created: Jul 7, 2020 5:44 pm
+Latest: Jul 11, 2020 11:59 pm"
+Collaborative Training Experiment of an Albert Model for Bengali,https://discuss.huggingface.co/t/collaborative-training-experiment-of-an-albert-model-for-bengali/5991,tanmoyio,1,1.3k,"Created: May 5, 2021 6:15 am
+Latest: May 6, 2021 9:43 am"
+Multi-GPU Machine Setup Guide and QnA,https://discuss.huggingface.co/t/multi-gpu-machine-setup-guide-and-qna/5891,boris,6,6.4k,"Created: Apr 30, 2021 7:51 pm
+Latest: May 13, 2023 12:03 pm"
+Why are huge batch sizes used for pretraining and small ones for finetuning?,https://discuss.huggingface.co/t/why-are-huge-batch-sizes-used-for-pretraining-and-small-ones-for-finetuning/10836,BramVanroy,3,9.8k,"Created: Oct 17, 2021 12:10 am
+Latest: Jan 10, 2023 3:11 pm"
+Online/streaming speech recognition,https://discuss.huggingface.co/t/online-streaming-speech-recognition/4456,arkadyark,2,3.0k,"Created: Mar 17, 2021 12:22 am
+Latest: Oct 26, 2022 8:19 am"
+ACL 2020 highlights - Yacine,https://discuss.huggingface.co/t/acl-2020-highlights-yacine/186,yjernite,0,1.4k,"Created: Jul 10, 2020 3:55 pm"
+ACL 2020 - Some personal highlights - Victor,https://discuss.huggingface.co/t/acl-2020-some-personal-highlights-victor/202,VictorSanh,4,1.4k,"Created: Jul 10, 2020 6:46 pm
+Latest: Jul 14, 2020 2:24 pm"
+Paper Notes: Deepspeed Mixture of Experts,https://discuss.huggingface.co/t/paper-notes-deepspeed-mixture-of-experts/13908,sshleifer,2,2.2k,"Created: Jan 19, 2022 9:19 pm
+Latest: Jan 20, 2022 4:42 pm"
+From Crypto Mining to LLM Fine-tuning: Unlocking Large Language Model Fine-tuning through Collaborative Compute Pools,https://discuss.huggingface.co/t/from-crypto-mining-to-llm-fine-tuning-unlocking-large-language-model-fine-tuning-through-collaborative-compute-pools/66982,ash001,3,1.8k,"Created: Dec 25, 2023 4:03 pm
+Latest: Jan 26, 2025 5:40 am"
+The (hidden) meaning behind the embedding of the padding token?,https://discuss.huggingface.co/t/the-hidden-meaning-behind-the-embedding-of-the-padding-token/3212,KennethEnevoldsen,2,6.1k,"Created: Jan 15, 2021 9:22 am
+Latest: Jul 14, 2021 11:13 am"
+Using Google’s Gemini for scientific literature,https://discuss.huggingface.co/t/using-googles-gemini-for-scientific-literature/65804,grey-neutral,0,1.4k,"Created: Dec 14, 2023 10:08 am"
+ACL 2020 highlights – Canwen,https://discuss.huggingface.co/t/acl-2020-highlights-canwen/183,canwenxu,1,913,"Created: Jul 10, 2020 2:25 pm
+Latest: Jul 10, 2020 5:01 pm"
+Rust applications,https://discuss.huggingface.co/t/rust-applications/23060,saied,6,4.8k,"Created: Sep 13, 2022 5:54 am
+Latest: Nov 21, 2023 10:33 pm"
+ACL 2020 highlights – Joe,https://discuss.huggingface.co/t/acl-2020-highlights-joe/188,joeddav,3,1.6k,"Created: Jul 10, 2020 4:08 pm
+Latest: Jul 30, 2020 5:57 am"
+Adding features to a pretrained language model,https://discuss.huggingface.co/t/adding-features-to-a-pretrained-language-model/770,BramVanroy,3,3.9k,"Created: Aug 19, 2020 3:58 pm
+Latest: Oct 28, 2020 8:24 pm"
+"Grouphug: multi-task, multi-dataset training with transformers/datasets",https://discuss.huggingface.co/t/grouphug-multi-task-multi-dataset-training-with-transformers-datasets/19177,Sanderbaduk,0,2.4k,"Created: Jun 15, 2022 7:26 am"
+Paper Discussion: Weight Poisoning Attacks on Pre-trained Models,https://discuss.huggingface.co/t/paper-discussion-weight-poisoning-attacks-on-pre-trained-models/129,joeddav,0,1.0k,"Created: Jul 8, 2020 8:19 pm"
+Question about loss calculation on LLM finetuning,https://discuss.huggingface.co/t/question-about-loss-calculation-on-llm-finetuning/46825,imone,0,6.9k,"Created: Jul 14, 2023 1:06 pm"
+What does it mean to prime a GPT model?,https://discuss.huggingface.co/t/what-does-it-mean-to-prime-a-gpt-model/446,radek,5,4.1k,"Created: Jul 23, 2020 4:17 pm
+Latest: Jul 27, 2020 2:47 pm"
+Adding domain knowledge in LLMs via fine tuning,https://discuss.huggingface.co/t/adding-domain-knowledge-in-llms-via-fine-tuning/43811,xander71988,2,5.2k,"Created: Jun 19, 2023 3:41 pm
+Latest: Jul 23, 2023 6:19 pm"
+Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity,https://discuss.huggingface.co/t/switch-transformers-scaling-to-trillion-parameter-models-with-simple-and-efficient-sparsity/3137,FL33TW00D,1,1.6k,"Created: Jan 12, 2021 8:13 am
+Latest: Jan 20, 2021 7:45 pm"
+Not all BLEU scores were created equal,https://discuss.huggingface.co/t/not-all-bleu-scores-were-created-equal/1154,stas,0,312,"Created: Sep 15, 2020 11:45 pm
+Latest: Sep 15, 2020 11:45 pm"
+Citing/Crediting Language Models,https://discuss.huggingface.co/t/citing-crediting-language-models/8877,Secret,6,14.4k,"Created: Jul 31, 2021 4:51 pm
+Latest: Jan 30, 2025 4:30 am"
+Confidence Scores / Self-Training for Wav2Vec2 / CTC models,https://discuss.huggingface.co/t/confidence-scores-self-training-for-wav2vec2-ctc-models/17050,patrickvonplaten,1,3.6k,"Created: Apr 21, 2022 10:57 am
+Latest: Apr 21, 2022 11:14 am"
+Discovery of Unsafe Models on Hugging Face Platform,https://discuss.huggingface.co/t/discovery-of-unsafe-models-on-hugging-face-platform/51036,Raytsang,0,1.5k,"Created: Aug 17, 2023 1:09 am"
+What can transformers learn without position encoding?,https://discuss.huggingface.co/t/what-can-transformers-learn-without-position-encoding/6554,thecity2,1,3.0k,"Created: Jun 3, 2021 3:52 pm
+Latest: Jun 10, 2021 8:18 am"
+How to use T5 for sentence embedding?,https://discuss.huggingface.co/t/how-to-use-t5-for-sentence-embedding/1097,banucool,6,15.8k,"Created: Sep 12, 2020 12:11 pm
+Latest: May 27, 2023 2:25 am"
+How to fine tune fine tune GitHub Copilot?,https://discuss.huggingface.co/t/how-to-fine-tune-fine-tune-github-copilot/18889,neo-benjamin,3,3.6k,"Created: Jun 9, 2022 4:26 am
+Latest: Jun 24, 2022 1:40 pm"
+Confidence Scores / Self-Training for Wav2Vec2 / CTC models With LM (PyCTCDecode),https://discuss.huggingface.co/t/confidence-scores-self-training-for-wav2vec2-ctc-models-with-lm-pyctcdecode/17052,patrickvonplaten,1,2.8k,"Created: Apr 21, 2022 11:13 am
+Latest: Apr 21, 2022 1:35 pm"
+More expressive attention with negative weights,https://discuss.huggingface.co/t/more-expressive-attention-with-negative-weights/119667,AngLv,1,279,"Created: Nov 14, 2024 8:06 am
+Latest: Nov 14, 2024 8:53 am"
+Understanding FLOPs-per-token estimates from OpenAI’s scaling laws,https://discuss.huggingface.co/t/understanding-flops-per-token-estimates-from-openais-scaling-laws/23133,lewtun,6,14.4k,"Created: Sep 14, 2022 1:19 pm
+Latest: Sep 20, 2023 3:41 pm"
+"Looking for a Translation Model for English to 100+ Languages, Comparable to DeepL or Google, for Local Deployment",https://discuss.huggingface.co/t/looking-for-a-translation-model-for-english-to-100-languages-comparable-to-deepl-or-google-for-local-deployment/55065,Miroslaw,4,17.0k,"Created: Sep 14, 2023 9:02 pm
+Latest: Sep 6, 2024 12:58 pm"
+Using mixup on RoBERTa,https://discuss.huggingface.co/t/using-mixup-on-roberta/306,franborjavalero,7,2.3k,"Created: Jul 15, 2020 1:44 pm
+Latest: Dec 18, 2024 3:06 pm"
+XLSR-Wav2Vec2 with punctuation,https://discuss.huggingface.co/t/xlsr-wav2vec2-with-punctuation/5775,boris,1,1.4k,"Created: Apr 26, 2021 2:07 pm
+Latest: Oct 12, 2022 5:24 pm"
+A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?,https://discuss.huggingface.co/t/a-complete-survey-on-generative-ai-aigc-is-chatgpt-from-gpt-4-to-gpt-5-all-you-need/35606,lch934007581,3,3.0k,"Created: Apr 5, 2023 4:54 am
+Latest: Sep 23, 2024 3:09 pm"
+How can I replicate the research paper?,https://discuss.huggingface.co/t/how-can-i-replicate-the-research-paper/66616,JaiSurya,1,638,"Created: Dec 21, 2023 1:00 pm
+Latest: Dec 22, 2023 5:57 pm"
+Text to Speech Alignment with Transformers,https://discuss.huggingface.co/t/text-to-speech-alignment-with-transformers/16166,simonschoe,2,5.1k,"Created: Mar 28, 2022 2:00 pm
+Latest: Apr 20, 2022 7:17 am"
+New seq2seq tool: search hparam space with run_eval.py,https://discuss.huggingface.co/t/new-seq2seq-tool-search-hparam-space-with-run-eval-py/1166,stas,5,347,"Created: Sep 16, 2020 8:21 pm
+Latest: Sep 17, 2020 12:11 pm"
+Merry Christmas & We have released “Awesome-Neuro-Symbolic-Learning-with-LLM”,https://discuss.huggingface.co/t/merry-christmas-we-have-released-awesome-neuro-symbolic-learning-with-llm/133045,Guolz,0,84,"Created: Dec 26, 2024 2:00 am"
+Using NLP for People On Low Income in the UK,https://discuss.huggingface.co/t/using-nlp-for-people-on-low-income-in-the-uk/10268,woisme,0,836,"Created: Sep 24, 2021 8:46 am
+Latest: Sep 27, 2023 10:19 pm"
+Translation model to 100+ Languages,https://discuss.huggingface.co/t/translation-model-to-100-languages/109193,Danny28,4,1.1k,"Created: Sep 28, 2024 5:32 pm
+Latest: Jan 25, 2025 5:07 pm"
+[Call for participation] Interactive Grounded Language Understanding in a Collaborative Environment (IGLU) Competition@NeurIPS2021,https://discuss.huggingface.co/t/call-for-participation-interactive-grounded-language-understanding-in-a-collaborative-environment-iglu-competition-neurips2021/9851,JuliaKiseleva,0,721,"Created: Sep 9, 2021 2:41 pm"
+Understanding what went wrong in attention,https://discuss.huggingface.co/t/understanding-what-went-wrong-in-attention/386,prajjwal1,5,1.6k,"Created: Jul 20, 2020 5:27 am
+Latest: Jul 31, 2020 2:19 pm"
+New: Distributed GPU Platform,https://discuss.huggingface.co/t/new-distributed-gpu-platform/59932,botch,2,630,"Created: Oct 25, 2023 11:11 pm
+Latest: Nov 8, 2023 1:00 pm"
+[Suggestions and Guidance]Finetuning Bert models for Next word Prediction,https://discuss.huggingface.co/t/suggestions-and-guidance-finetuning-bert-models-for-next-word-prediction/14043,sumba,4,4.8k,"Created: Jan 24, 2022 11:15 am
+Latest: Jan 26, 2022 3:11 pm"
+What are some recommended pretrained models for extracting semantic feature on single sentence?,https://discuss.huggingface.co/t/what-are-some-recommended-pretrained-models-for-extracting-semantic-feature-on-single-sentence/2698,zuujhyt,4,1.5k,"Created: Dec 8, 2020 2:32 pm
+Latest: Dec 14, 2020 3:57 am"
+Why are segment and position embeddings so large?,https://discuss.huggingface.co/t/why-are-segment-and-position-embeddings-so-large/254,BramVanroy,2,1.5k,"Created: Jul 13, 2020 3:40 pm
+Latest: Aug 2, 2020 11:59 am"
+Shortformer: Better Language Modeling using Shorter Inputs,https://discuss.huggingface.co/t/shortformer-better-language-modeling-using-shorter-inputs/3007,FL33TW00D,0,467,"Created: Dec 31, 2020 10:02 am"
+Similarity search with combined image and text?,https://discuss.huggingface.co/t/similarity-search-with-combined-image-and-text/19168,neo-benjamin,6,3.1k,"Created: Jun 14, 2022 11:36 pm
+Latest: Jun 24, 2022 4:35 am"
+Coral USB Edge TPU coprocessor,https://discuss.huggingface.co/t/coral-usb-edge-tpu-coprocessor/80941,tazbytes,0,452,"Created: Apr 9, 2024 6:30 pm"
+Seq2Seq Distillation: Methodology Questions,https://discuss.huggingface.co/t/seq2seq-distillation-methodology-questions/1270,sshleifer,7,2.7k,"Created: Sep 27, 2020 6:17 pm
+Latest: Aug 7, 2023 4:12 pm"
+Dealing with Imbalanced Datasets?,https://discuss.huggingface.co/t/dealing-with-imbalanced-datasets/4328,aguarius,1,5.3k,"Created: Mar 11, 2021 9:18 pm
+Latest: Mar 11, 2021 10:05 pm"
+"Using transformers (BERT, RoBERTa) without embedding layer",https://discuss.huggingface.co/t/using-transformers-bert-roberta-without-embedding-layer/2807,tueboesen,8,4.1k,"Created: Dec 13, 2020 6:16 pm
+Latest: Dec 16, 2020 9:00 pm"
+How to get the probabilities of each class when we use T5 or Flan,https://discuss.huggingface.co/t/how-to-get-the-probabilities-of-each-class-when-we-use-t5-or-flan/70326,SaraAmd,0,384,"Created: Jan 23, 2024 10:18 pm"
+Pre-training with Lamb optimizer,https://discuss.huggingface.co/t/pre-training-with-lamb-optimizer/1647,vblagoje,7,4.2k,"Created: Oct 20, 2020 9:12 am
+Latest: Dec 28, 2020 5:24 pm"
+Carrying Gradients Through Generate,https://discuss.huggingface.co/t/carrying-gradients-through-generate/301,chrisdoyleIE,5,2.6k,"Created: Jul 15, 2020 11:45 am
+Latest: Jan 29, 2023 10:57 pm"
+"Extracting information from bills, tax statements, etc: What ML model to use?",https://discuss.huggingface.co/t/extracting-information-from-bills-tax-statements-etc-what-ml-model-to-use/16641,anoldmaninthesea,3,3.1k,"Created: Apr 9, 2022 10:40 am
+Latest: Aug 28, 2024 1:07 pm"
+Evaluation metrics for BERT-like LMs,https://discuss.huggingface.co/t/evaluation-metrics-for-bert-like-lms/1256,vblagoje,4,4.5k,"Created: Sep 24, 2020 8:16 pm
+Latest: Dec 6, 2024 12:03 pm"
+GPT-2 in DNA data,https://discuss.huggingface.co/t/gpt-2-in-dna-data/22753,mdelas,1,1.3k,"Created: Sep 8, 2022 11:11 am
+Latest: Aug 6, 2023 2:37 am"
+Strategies for Enhancing LLM’s Understanding of a Complex Novel for Improved Question Answering,https://discuss.huggingface.co/t/strategies-for-enhancing-llms-understanding-of-a-complex-novel-for-improved-question-answering/69763,Adidev20,1,1.3k,"Created: Jan 19, 2024 10:48 am
+Latest: Jan 19, 2024 10:54 am"
+How to correctly cite Hugging Face Transformer model_doc,https://discuss.huggingface.co/t/how-to-correctly-cite-hugging-face-transformer-model-doc/50185,Ficht,1,7.1k,"Created: Aug 9, 2023 8:20 pm
+Latest: Oct 25, 2023 10:28 am"
+Few-shot learning vs Fine-Tuning,https://discuss.huggingface.co/t/few-shot-learning-vs-fine-tuning/41024,0mij,0,1.8k,"Created: May 26, 2023 12:40 am"
+State of the art technique for initializing Embedding Matrix?,https://discuss.huggingface.co/t/state-of-the-art-technique-for-initializing-embedding-matrix/326,kushaj,3,4.9k,"Created: Jul 16, 2020 5:55 pm
+Latest: Jul 19, 2020 12:18 pm"
+`nan` training loss but eval loss does improve over time,https://discuss.huggingface.co/t/nan-training-loss-but-eval-loss-does-improve-over-time/4521,jjdv,5,3.9k,"Created: Mar 17, 2021 7:53 pm
+Latest: Oct 10, 2022 10:43 am"
+Modern NLP for “Economics of Innovation” (Open Research Project using Patent Data),https://discuss.huggingface.co/t/modern-nlp-for-economics-of-innovation-open-research-project-using-patent-data/235,anthonyfuller,4,753,"Created: Jul 12, 2020 3:40 pm
+Latest: Jul 14, 2020 4:39 pm"
+Open source psychology project using HF sentence transformers,https://discuss.huggingface.co/t/open-source-psychology-project-using-hf-sentence-transformers/73174,woodthom,6,357,"Created: Feb 14, 2024 2:28 pm
+Latest: Jan 3, 2025 12:54 pm"
+Combinatorial Optimization with LLMs/Transformers,https://discuss.huggingface.co/t/combinatorial-optimization-with-llms-transformers/39623,wlakinsson,7,1.9k,"Created: May 12, 2023 9:30 am
+Latest: Feb 8, 2025 9:25 pm"
+Text similarity not by cosine similarity,https://discuss.huggingface.co/t/text-similarity-not-by-cosine-similarity/8766,yanagar25,3,4.6k,"Created: Jul 28, 2021 1:06 pm
+Latest: Apr 12, 2022 5:52 am"
+Encoder-Decoder vs Decoder Only Architecture Models,https://discuss.huggingface.co/t/encoder-decoder-vs-decoder-only-architecture-models/28075,sisilmet2000,0,1.5k,"Created: Dec 18, 2022 7:27 pm"
+Question about maximum number of tokens,https://discuss.huggingface.co/t/question-about-maximum-number-of-tokens/3544,sudarshan85,1,5.9k,"Created: Feb 8, 2021 11:47 pm
+Latest: Feb 9, 2021 9:01 am"
+Continue pre-training GPT2,https://discuss.huggingface.co/t/continue-pre-training-gpt2/34692,IdoAmit198,1,556,"Created: Mar 26, 2023 7:29 am
+Latest: Mar 12, 2025 6:16 am"
+How I fine-tune BART for summarization using large texts?,https://discuss.huggingface.co/t/how-i-fine-tune-bart-for-summarization-using-large-texts/1266,thiagocmoreira,3,3.9k,"Created: Sep 27, 2020 4:02 am
+Latest: Sep 28, 2020 6:15 am"
+Is there a open source implementation of “Deep Learning Based Page Layout Analyze”?,https://discuss.huggingface.co/t/is-there-a-open-source-implementation-of-deep-learning-based-page-layout-analyze/19557,neo-benjamin,5,1.8k,"Created: Jun 24, 2022 2:47 am
+Latest: May 21, 2024 10:38 am"
+Implementing a custom Attention Transformer,https://discuss.huggingface.co/t/implementing-a-custom-attention-transformer/9702,iakarshu,5,3.1k,"Created: Sep 3, 2021 4:54 am
+Latest: Sep 6, 2021 10:14 am"
+LLM for autism research,https://discuss.huggingface.co/t/llm-for-autism-research/48795,monorange,4,1.0k,"Created: Jul 31, 2023 10:15 am
+Latest: Jul 13, 2024 9:33 am"
+Improving performance of Wav2Vec2 fine tuning with word piece vocabulary,https://discuss.huggingface.co/t/improving-performance-of-wav2vec2-fine-tuning-with-word-piece-vocabulary/6292,SamuelAzran,5,2.9k,"Created: May 21, 2021 1:31 pm
+Latest: Oct 27, 2021 3:02 am"
+LayoutLMv3 paper review and fine tuning code,https://discuss.huggingface.co/t/layoutlmv3-paper-review-and-fine-tuning-code/19495,moma1820,0,1.2k,"Created: Jun 23, 2022 9:13 am"
+Understanding Technical Drawings,https://discuss.huggingface.co/t/understanding-technical-drawings/78903,Fireche,2,395,"Created: Mar 27, 2024 9:38 am
+Latest: Jan 22, 2025 9:21 am"
+"A complete survey on ChatGPT: One Small Step for Generative AI, One Giant Leap for AGI",https://discuss.huggingface.co/t/a-complete-survey-on-chatgpt-one-small-step-for-generative-ai-one-giant-leap-for-agi/35607,lch934007581,0,1.2k,"Created: Apr 5, 2023 5:04 am"
+A criticism of instruction fine-tuning datasets,https://discuss.huggingface.co/t/a-criticism-of-instruction-fine-tuning-datasets/43757,NewsSoup,2,2.1k,"Created: Jun 19, 2023 9:01 am
+Latest: Jun 20, 2023 7:52 am"
+Masked Language Model Scoring,https://discuss.huggingface.co/t/masked-language-model-scoring/5541,david-waterworth,5,2.6k,"Created: Apr 16, 2021 3:56 am
+Latest: Jun 15, 2023 9:33 pm"
+Language model to search an answer in a huge collection of (unrelated) paragraphs,https://discuss.huggingface.co/t/language-model-to-search-an-answer-in-a-huge-collection-of-unrelated-paragraphs/2210,billconan,4,1.5k,"Created: Nov 25, 2020 6:59 pm
+Latest: Jul 6, 2021 12:40 pm"
+Task-specific fine-tuning of GPT2,https://discuss.huggingface.co/t/task-specific-fine-tuning-of-gpt2/5700,danyaljj,0,1.0k,"Created: Apr 22, 2021 7:37 pm
+Latest: Apr 22, 2021 11:09 pm"
+Model that can generate both text and image as output,https://discuss.huggingface.co/t/model-that-can-generate-both-text-and-image-as-output/132209,BibhutiPadhi,5,424,"Created: Dec 19, 2024 6:29 am
+Latest: Dec 31, 2024 12:15 am"
+Is there an easy way to apply layer-wise decaying learning rate in huggingface trainer for RobertaMaskedForLM?,https://discuss.huggingface.co/t/is-there-an-easy-way-to-apply-layer-wise-decaying-learning-rate-in-huggingface-trainer-for-robertamaskedforlm/1599,abhi1nandy2,3,2.9k,"Created: Oct 17, 2020 9:31 am
+Latest: Apr 5, 2022 9:01 am"
+Attention mask and token ids,https://discuss.huggingface.co/t/attention-mask-and-token-ids/15243,bhavinmoriya,1,2.2k,"Created: Mar 1, 2022 11:23 pm
+Latest: Oct 18, 2022 2:37 pm"
+Open API standard for open-source LLMs,https://discuss.huggingface.co/t/open-api-standard-for-open-source-llms/45241,imone,0,863,"Created: Jul 1, 2023 9:47 am"
+Free Access for Masters Dissertation,https://discuss.huggingface.co/t/free-access-for-masters-dissertation/71211,johnrellis,1,609,"Created: Jan 30, 2024 4:07 pm
+Latest: Feb 2, 2024 8:06 pm"
+About the encoder and generator used in the RAG model,https://discuss.huggingface.co/t/about-the-encoder-and-generator-used-in-the-rag-model/2959,zuujhyt,2,848,"Created: Dec 25, 2020 9:25 am
+Latest: Dec 25, 2020 6:08 pm"
+Debiasing models by HEX projection,https://discuss.huggingface.co/t/debiasing-models-by-hex-projection/473,prajjwal1,1,519,"Created: Jul 25, 2020 4:47 pm
+Latest: Jul 28, 2020 5:53 am"
+The Tree Oil Painting: AI Unlocks a 10-Year Art Mystery,https://discuss.huggingface.co/t/the-tree-oil-painting-ai-unlocks-a-10-year-art-mystery/146071,HaruthaiAi,0,23,"Created: Mar 17, 2025 5:42 am"
+Profiling all layers of a model,https://discuss.huggingface.co/t/profiling-all-layers-of-a-model/70694,cristobalo,0,720,"Created: Jan 26, 2024 9:04 am"
+Incorporating structural information in a Transformer?,https://discuss.huggingface.co/t/incorporating-structural-information-in-a-transformer/16554,neo-benjamin,0,717,"Created: Apr 6, 2022 7:50 pm"
+Can you use both copy mechanism and BPE for a NMT task?,https://discuss.huggingface.co/t/can-you-use-both-copy-mechanism-and-bpe-for-a-nmt-task/16531,neo-benjamin,0,712,"Created: Apr 6, 2022 11:44 am"
+Meta Persona an abstract adaptive neural construct,https://discuss.huggingface.co/t/meta-persona-an-abstract-adaptive-neural-construct/2208,cubytes,0,710,"Created: Nov 25, 2020 6:27 pm"
+EFFECTIVE PROMPTING - ReACT & GRAPHS,https://discuss.huggingface.co/t/effective-prompting-react-graphs/108302,LeroyDyer,2,229,"Created: Sep 24, 2024 5:57 am
+Latest: Oct 2, 2024 6:39 am"
+Transformer for Abstractive Summarization for Chats Based on Performance,https://discuss.huggingface.co/t/transformer-for-abstractive-summarization-for-chats-based-on-performance/731,anant0308,3,1.9k,"Created: Aug 17, 2020 1:01 pm
+Latest: Oct 9, 2020 3:06 pm"
+Resources on interpretability of wav2vec-style speech models,https://discuss.huggingface.co/t/resources-on-interpretability-of-wav2vec-style-speech-models/23050,arsenious,0,631,"Created: Sep 12, 2022 11:53 pm"
+Different response from different UI’s,https://discuss.huggingface.co/t/different-response-from-different-uis/115192,marvinsnell,3,169,"Created: Nov 2, 2024 3:28 pm
+Latest: Mar 6, 2025 2:10 am"
+Extracting Training Data from GPT-2 (+ Differential Privacy),https://discuss.huggingface.co/t/extracting-training-data-from-gpt-2-differential-privacy/6596,n2cholas,2,1.9k,"Created: Jun 6, 2021 6:12 am
+Latest: Nov 9, 2023 3:43 am"
+Embeddings from the Decoder only model,https://discuss.huggingface.co/t/embeddings-from-the-decoder-only-model/107497,manojkumar427,4,825,"Created: Sep 20, 2024 1:36 pm
+Latest: Oct 8, 2024 8:09 am"
+Collaborative Training Experiment Round 2 with Yandex and HuggingFace,https://discuss.huggingface.co/t/collaborative-training-experiment-round-2-with-yandex-and-huggingface/9674,tanmoyio,0,565,"Created: Sep 1, 2021 4:17 pm"
+Best way to infer continuously with Transformer?,https://discuss.huggingface.co/t/best-way-to-infer-continuously-with-transformer/8690,treeofknowledge,0,557,"Created: Jul 26, 2021 12:11 pm"
+[Help needed] Extending Trainer for Meta learning,https://discuss.huggingface.co/t/help-needed-extending-trainer-for-meta-learning/635,prajjwal1,3,1.6k,"Created: Aug 8, 2020 11:31 am
+Latest: Oct 19, 2021 3:23 pm"
+Can we access attention component and feed-forward component of a Bert layer?,https://discuss.huggingface.co/t/can-we-access-attention-component-and-feed-forward-component-of-a-bert-layer/22549,neeraj1909,2,966,"Created: Sep 5, 2022 8:01 am
+Latest: Sep 23, 2024 10:06 am"
+Analysis of attention map,https://discuss.huggingface.co/t/analysis-of-attention-map/112812,allenwang37,2,167,"Created: Oct 19, 2024 1:29 pm
+Latest: Oct 24, 2024 12:54 am"
+Why do the commit histories of Hugging Face’s datasets and models appear recent? Weren’t these datasets and models uploaded a while ago?,https://discuss.huggingface.co/t/why-do-the-commit-histories-of-hugging-faces-datasets-and-models-appear-recent-werent-these-datasets-and-models-uploaded-a-while-ago/16595,Elang89,2,939,"Created: Apr 7, 2022 6:32 pm
+Latest: Apr 8, 2022 3:50 pm"
+Finetuning for fp16 compatibility,https://discuss.huggingface.co/t/finetuning-for-fp16-compatibility/977,sshleifer,2,1.7k,"Created: Sep 3, 2020 5:26 pm
+Latest: Jun 17, 2021 10:33 am"
+(Research/Personal) Projects Ideas,https://discuss.huggingface.co/t/research-personal-projects-ideas/71651,Upmind,2,1.7k,"Created: Feb 2, 2024 9:26 pm
+Latest: Nov 29, 2024 1:02 pm"
+Is there a way to split a news article into subtopic,https://discuss.huggingface.co/t/is-there-a-way-to-split-a-news-article-into-subtopic/23436,abdulmatinomotoso,4,1.3k,"Created: Sep 21, 2022 10:53 am
+Latest: Sep 22, 2022 2:23 pm"
+"Multilingual token, phrase and sentence representations for text similarity",https://discuss.huggingface.co/t/multilingual-token-phrase-and-sentence-representations-for-text-similarity/3167,BramVanroy,0,489,"Created: Jan 13, 2021 8:17 am
+Latest: Jan 13, 2021 8:17 am"
+Seeking Hugging Face Users for Casual Chat About AI Model Openness,https://discuss.huggingface.co/t/seeking-hugging-face-users-for-casual-chat-about-ai-model-openness/143407,FabianFle,5,112,"Created: Feb 28, 2025 12:40 pm
+Latest: Mar 4, 2025 4:16 pm"
+Token merging for fast LLM inference,https://discuss.huggingface.co/t/token-merging-for-fast-llm-inference/82202,samchain,0,476,"Created: Apr 17, 2024 9:54 am
+Latest: Apr 17, 2024 11:16 am"
+Generating Synthetic Data for Machine Translation of Dialects,https://discuss.huggingface.co/t/generating-synthetic-data-for-machine-translation-of-dialects/12753,sparkles,2,1.5k,"Created: Dec 13, 2021 2:03 am
+Latest: Oct 2, 2024 6:04 pm"
+Interest in Contributing PEFT Educational Resources - Seeking Community Input,https://discuss.huggingface.co/t/interest-in-contributing-peft-educational-resources-seeking-community-input/131143,bird-of-paradise,2,47,"Created: Dec 15, 2024 2:42 am
+Latest: Dec 15, 2024 4:06 pm"
+Looking for help to use AI (LLM) for a Systematic Literature Review in Soil Biodiversity/agroecology Research,https://discuss.huggingface.co/t/looking-for-help-to-use-ai-llm-for-a-systematic-literature-review-in-soil-biodiversity-agroecology-research/137879,LyaVermeire,4,113,"Created: Jan 29, 2025 12:05 pm
+Latest: Feb 1, 2025 1:31 am"
+Best practices for estimating FLOPs-per-token with real datasets?,https://discuss.huggingface.co/t/best-practices-for-estimating-flops-per-token-with-real-datasets/23394,lewtun,1,1.8k,"Created: Sep 20, 2022 12:40 pm
+Latest: Sep 20, 2022 1:44 pm"
+Have you submitted feedback about ChatGPT?,https://discuss.huggingface.co/t/have-you-submitted-feedback-about-chatgpt/36421,nedcpr,4,612,"Created: Apr 13, 2023 7:00 am
+Latest: Jun 27, 2023 7:17 am"
+Zero shot classification for automated electrocardiogram reports,https://discuss.huggingface.co/t/zero-shot-classification-for-automated-electrocardiogram-reports/21594,aksankaran,3,1.2k,"Created: Aug 13, 2022 5:53 pm
+Latest: Aug 26, 2022 6:31 pm"
+Theme Extraction from Text,https://discuss.huggingface.co/t/theme-extraction-from-text/67372,jeewankarmakar,1,1.7k,"Created: Dec 29, 2023 9:06 am
+Latest: Dec 29, 2023 4:27 pm"
+Web Search Implementation with LLM,https://discuss.huggingface.co/t/web-search-implementation-with-llm/111379,MadhuP,1,941,"Created: Oct 11, 2024 11:35 am
+Latest: Oct 11, 2024 12:04 pm"
+Model or Dataset available for classifying a grammatical sentence?,https://discuss.huggingface.co/t/model-or-dataset-available-for-classifying-a-grammatical-sentence/3423,emadg,1,1.6k,"Created: Jan 28, 2021 7:38 pm
+Latest: Feb 3, 2021 6:33 am"
+How does the vocabulary size count towards total parameter size of a model?,https://discuss.huggingface.co/t/how-does-the-vocabulary-size-count-towards-total-parameter-size-of-a-model/13833,ehalit,0,2.3k,"Created: Jan 18, 2022 7:28 am"
+Deepseek v3 analysis,https://discuss.huggingface.co/t/deepseek-v3-analysis/141490,f0ster,0,73,"Created: Feb 18, 2025 2:15 am"
+Why are embedding / pooler layers excluded from pruning comparisons?,https://discuss.huggingface.co/t/why-are-embedding-pooler-layers-excluded-from-pruning-comparisons/3580,lewtun,7,784,"Created: Feb 10, 2021 12:27 pm
+Latest: Feb 16, 2021 9:10 pm"
+Print All Tokens Over a Certain Probability Threshold,https://discuss.huggingface.co/t/print-all-tokens-over-a-certain-probability-threshold/329,zanderbush,3,1.1k,"Created: Jul 16, 2020 8:12 pm
+Latest: Jul 21, 2020 4:44 pm"
+Is causal language modeling (CLM) vs masked language modeling (MLM) a common distinction in NLP research?,https://discuss.huggingface.co/t/is-causal-language-modeling-clm-vs-masked-language-modeling-mlm-a-common-distinction-in-nlp-research/5665,ComfortEagle,0,2.2k,"Created: Apr 21, 2021 2:30 pm"
+LayoutLM for extraction of information from tables,https://discuss.huggingface.co/t/layoutlm-for-extraction-of-information-from-tables/7464,ujjayants,1,1.5k,"Created: Jun 27, 2021 3:43 pm
+Latest: Sep 29, 2022 7:23 am"
+Retrieving Meta Data on Models for Innovation Research,https://discuss.huggingface.co/t/retrieving-meta-data-on-models-for-innovation-research/128646,FabianFle,0,67,"Created: Dec 1, 2024 3:06 am"
+Conversational Search and Analysis of Collections of Letters and Comments,https://discuss.huggingface.co/t/conversational-search-and-analysis-of-collections-of-letters-and-comments/44463,AdamSobieski,3,594,"Created: Jun 25, 2023 9:38 am
+Latest: Feb 3, 2024 2:57 am"
+Train from scratch vs further pretraining/fine tuning with MLM and NSP,https://discuss.huggingface.co/t/train-from-scratch-vs-further-pretraining-fine-tuning-with-mlm-and-nsp/39327,kasticrunch,1,1.5k,"Created: May 9, 2023 9:02 pm
+Latest: Aug 28, 2023 10:54 am"
+Improving Key-Value Pair Extraction with LayoutLM and LiLT on Custom OCR Dataset,https://discuss.huggingface.co/t/improving-key-value-pair-extraction-with-layoutlm-and-lilt-on-custom-ocr-dataset/135483,rushabhGod,2,121,"Created: Jan 13, 2025 10:24 am
+Latest: Feb 21, 2025 9:00 pm"
+Large Language Models and Conversational User Interfaces for Interactive Fiction and other Videogames,https://discuss.huggingface.co/t/large-language-models-and-conversational-user-interfaces-for-interactive-fiction-and-other-videogames/45390,AdamSobieski,2,661,"Created: Jul 2, 2023 7:46 pm
+Latest: Sep 24, 2024 9:00 pm"
+How to download all the docs?,https://discuss.huggingface.co/t/how-to-download-all-the-docs/51669,Imran1,4,908,"Created: Aug 22, 2023 11:53 am
+Latest: Aug 23, 2023 7:52 am"
+Detection Transformer (DETR) for text detection in documents,https://discuss.huggingface.co/t/detection-transformer-detr-for-text-detection-in-documents/10396,Felix92,0,2.0k,"Created: Sep 29, 2021 2:51 pm
+Latest: Sep 29, 2021 3:01 pm"
+"Building a custom Squad 2.0 style dataset, is it worth it?",https://discuss.huggingface.co/t/building-a-custom-squad-2-0-style-dataset-is-it-worth-it/398,swayson,3,993,"Created: Jul 20, 2020 3:04 pm
+Latest: Jul 20, 2020 4:06 pm"
+Classification Heads in BERT and DistilBERT for Sequence Classification,https://discuss.huggingface.co/t/classification-heads-in-bert-and-distilbert-for-sequence-classification/6146,valkyrie,2,1.1k,"Created: May 12, 2021 4:16 pm
+Latest: May 13, 2021 9:28 am"
+Relative Position Representation/Encoding for Transformer,https://discuss.huggingface.co/t/relative-position-representation-encoding-for-transformer/15018,kevin998x,0,1.9k,"Created: Feb 22, 2022 8:45 am"
+Fine tuning gpt-neo via ppo,https://discuss.huggingface.co/t/fine-tuning-gpt-neo-via-ppo/7938,arcco96,1,1.3k,"Created: Jul 2, 2021 8:49 pm
+Latest: Jun 11, 2023 11:16 am"
+Integration with Public-sector Data Portals,https://discuss.huggingface.co/t/integration-with-public-sector-data-portals/40079,AdamSobieski,0,338,"Created: May 16, 2023 4:03 pm
+Latest: May 16, 2023 4:03 pm"
+Text to Text Transformer - T5,https://discuss.huggingface.co/t/text-to-text-transformer-t5/3008,dkamalakar,2,1.1k,"Created: Dec 31, 2020 1:53 pm
+Latest: Jan 4, 2021 8:06 pm"
+Language model gradients sensitive to target value/length,https://discuss.huggingface.co/t/language-model-gradients-sensitive-to-target-value-length/43543,rasgaard,0,337,"Created: Jun 16, 2023 5:00 pm"
+Feeding a Knowledge Base into Transformer model,https://discuss.huggingface.co/t/feeding-a-knowledge-base-into-transformer-model/13150,ShivamArya,1,1.3k,"Created: Dec 27, 2021 9:31 am
+Latest: May 2, 2023 2:48 am"
+Resume Training / Finetune a language model and further finetune a classifier,https://discuss.huggingface.co/t/resume-training-finetune-a-language-model-and-further-finetune-a-classifier/1616,pentagroom,1,1.2k,"Created: Oct 19, 2020 12:51 am
+Latest: Oct 19, 2020 3:15 pm"
+[Call for Participation] GermEval2024 GerMS-Detect - Sexism Detection in German Online News Fora @Konvens 2024,https://discuss.huggingface.co/t/call-for-participation-germeval2024-germs-detect-sexism-detection-in-german-online-news-fora-konvens-2024/82657,johann-petrak,0,312,"Created: Apr 19, 2024 2:45 pm"
+LLM for analysing JSON data,https://discuss.huggingface.co/t/llm-for-analysing-json-data/130407,happibara5,1,220,"Created: Dec 10, 2024 2:53 pm
+Latest: Dec 12, 2024 11:44 am"
+Debugging the RAG question encoder,https://discuss.huggingface.co/t/debugging-the-rag-question-encoder/3550,dzorlu,2,566,"Created: Feb 9, 2021 5:21 am
+Latest: Feb 10, 2021 5:55 am"
+Finetuning German BERT for QA on biomedical domain,https://discuss.huggingface.co/t/finetuning-german-bert-for-qa-on-biomedical-domain/500,suchanda,2,1.0k,"Created: Jul 28, 2020 9:01 am
+Latest: Jan 30, 2022 6:36 am"
+How do i choose a optimal LLM for Pentesting,https://discuss.huggingface.co/t/how-do-i-choose-a-optimal-llm-for-pentesting/65420,Patacka,2,1.0k,"Created: Dec 11, 2023 6:54 pm
+Latest: Dec 13, 2023 1:16 pm"
+Address extraction and formated using Places API (Google Maps API),https://discuss.huggingface.co/t/address-extraction-and-formated-using-places-api-google-maps-api/7998,lacle,0,1.7k,"Created: Jul 4, 2021 2:25 pm"
+Fine Tuning LLM,https://discuss.huggingface.co/t/fine-tuning-llm/50940,Shreyanshv6,0,1.7k,"Created: Aug 16, 2023 10:51 am"
+Inference optimization with HPC,https://discuss.huggingface.co/t/inference-optimization-with-hpc/68207,SebasGecko,2,541,"Created: Jan 7, 2024 1:05 am
+Latest: Jan 8, 2024 12:58 am"
+A Survey to Understand Challenges of Deploying Text Classification,https://discuss.huggingface.co/t/a-survey-to-understand-challenges-of-deploying-text-classification/14345,leix328,2,942,"Created: Feb 2, 2022 6:36 pm
+Latest: Feb 8, 2022 7:51 pm"
+LayoutLMV3 information extraction from invoice,https://discuss.huggingface.co/t/layoutlmv3-information-extraction-from-invoice/63800,kaniam,2,901,"Created: Nov 28, 2023 6:14 am
+Latest: Sep 22, 2024 12:58 pm"
+Understanding where model weights are stored for research project on AI openness,https://discuss.huggingface.co/t/understanding-where-model-weights-are-stored-for-research-project-on-ai-openness/137095,FabianFle,3,138,"Created: Jan 24, 2025 1:50 am
+Latest: Jan 31, 2025 11:56 am"
+What does the datacenter infrastructure of HF look like?,https://discuss.huggingface.co/t/what-does-the-datacenter-infrastructure-of-hf-look-like/79046,kevinchan4007,0,272,"Created: Mar 28, 2024 2:44 am"
+How find idea for academic thesis?,https://discuss.huggingface.co/t/how-find-idea-for-academic-thesis/14933,MahdiA,2,877,"Created: Feb 19, 2022 9:57 pm
+Latest: Feb 19, 2022 10:36 pm"
+What is Q* algorithm?,https://discuss.huggingface.co/t/what-is-q-algorithm/63518,bijinpanicker,0,269,"Created: Nov 25, 2023 7:06 pm"
+"BART question, it seems that pretraining is not work for a small model?",https://discuss.huggingface.co/t/bart-question-it-seems-that-pretraining-is-not-work-for-a-small-model/511,guotong1988,6,559,"Created: Jul 29, 2020 8:15 am
+Latest: Aug 3, 2020 3:10 am"
+Domain-specific word similarity problem,https://discuss.huggingface.co/t/domain-specific-word-similarity-problem/29071,vikasssss,2,843,"Created: Jan 6, 2023 12:56 pm
+Latest: Jul 19, 2023 12:59 am"
+Ionic vs. React Native vs. Flutter,https://discuss.huggingface.co/t/ionic-vs-react-native-vs-flutter/128132,megoyaw3,1,180,"Created: Nov 27, 2024 1:52 pm
+Latest: Feb 26, 2025 9:00 am"
+Exploring contexts of occurrence of particular words in large datasets,https://discuss.huggingface.co/t/exploring-contexts-of-occurrence-of-particular-words-in-large-datasets/22119,nanom,2,810,"Created: Aug 25, 2022 11:55 pm
+Latest: Oct 19, 2022 5:27 pm"
+GRPO Trainer for VLM?,https://discuss.huggingface.co/t/grpo-trainer-for-vlm/145117,SabaPivot,2,83,"Created: Mar 11, 2025 12:52 am
+Latest: Mar 11, 2025 7:46 am"
+How to add your paper to your models or datasets metadata?,https://discuss.huggingface.co/t/how-to-add-your-paper-to-your-models-or-datasets-metadata/60337,SaiedAlshahrani,2,799,"Created: Oct 29, 2023 7:11 pm
+Latest: Oct 30, 2023 8:47 pm"
+New Paper: Masked Autoencoders Are Scalable Vision Learners,https://discuss.huggingface.co/t/new-paper-masked-autoencoders-are-scalable-vision-learners/11673,carbocation,0,1.4k,"Created: Nov 14, 2021 1:55 am
+Latest: Nov 14, 2021 1:55 am"
+Tool to support psychological therapists,https://discuss.huggingface.co/t/tool-to-support-psychological-therapists/85056,therapistsfriend,0,242,"Created: May 3, 2024 7:11 pm
+Latest: Jul 2, 2024 10:41 am"
+BORT: Optimal Subarchitecture Extraction for BERT,https://discuss.huggingface.co/t/bort-optimal-subarchitecture-extraction-for-bert/2562,FL33TW00D,1,539,"Created: Dec 4, 2020 6:34 pm
+Latest: Dec 5, 2020 4:22 am"
+Abstractive summarization ensemble,https://discuss.huggingface.co/t/abstractive-summarization-ensemble/19987,silvia-casola,1,951,"Created: Jul 4, 2022 9:13 pm
+Latest: Aug 31, 2022 12:26 pm"
+Best way to deploy a SLM/LLM model. Best library and approach?,https://discuss.huggingface.co/t/best-way-to-deploy-a-slm-llm-model-best-library-and-approach/138523,aakashnakarmi,6,280,"Created: Feb 2, 2025 6:27 am
+Latest: Mar 11, 2025 5:05 am"
+Adding learnable coefficients for multi-objective losses?,https://discuss.huggingface.co/t/adding-learnable-coefficients-for-multi-objective-losses/2191,facehugger2020,2,752,"Created: Nov 24, 2020 8:11 pm
+Latest: Nov 25, 2020 6:27 pm"
+How to train relation extraction?,https://discuss.huggingface.co/t/how-to-train-relation-extraction/24280,dwisaji,0,1.3k,"Created: Oct 11, 2022 3:33 pm"
+Don’t Stop Pretraining BART,https://discuss.huggingface.co/t/dont-stop-pretraining-bart/2986,Erpa,1,899,"Created: Dec 28, 2020 8:25 pm
+Latest: Dec 29, 2020 6:35 am"
+Text generation using SetFit,https://discuss.huggingface.co/t/text-generation-using-setfit/24538,Imran1,1,880,"Created: Oct 17, 2022 3:24 am
+Latest: Aug 27, 2024 4:55 pm"
+Integrated gradients for explainability of VLMs,https://discuss.huggingface.co/t/integrated-gradients-for-explainability-of-vlms/138805,nicokossmann,0,40,"Created: Feb 3, 2025 7:47 pm"
+Models for Document Image Annotation Without OCR,https://discuss.huggingface.co/t/models-for-document-image-annotation-without-ocr/129604,PaulSpirin,1,154,"Created: Dec 6, 2024 3:40 pm
+Latest: Dec 12, 2024 9:45 am"
+PPO using TRL: optimal strategy for reward calculation?,https://discuss.huggingface.co/t/ppo-using-trl-optimal-strategy-for-reward-calculation/65988,BayesRulez,1,856,"Created: Dec 15, 2023 8:52 pm
+Latest: Dec 20, 2023 9:17 am"
+What are some popular datasets for domain adaptation in NLP,https://discuss.huggingface.co/t/what-are-some-popular-datasets-for-domain-adaptation-in-nlp/1931,zuujhyt,1,470,"Created: Nov 7, 2020 5:30 pm
+Latest: Nov 12, 2020 1:13 pm"
+Bert for audio classification,https://discuss.huggingface.co/t/bert-for-audio-classification/17179,aclifton314,0,1.1k,"Created: Apr 25, 2022 10:30 pm"
+Compute metric on Dev,https://discuss.huggingface.co/t/compute-metric-on-dev/16836,MaryaAI,1,797,"Created: Apr 14, 2022 2:52 pm
+Latest: Apr 15, 2022 10:15 am"
+Community interested in developing open source AI assistant(s)?,https://discuss.huggingface.co/t/community-interested-in-developing-open-source-ai-assistant-s/134470,khromalabs,3,56,"Created: Jan 6, 2025 11:09 am
+Latest: Jan 6, 2025 1:38 pm"
+Source Code Vulnerability Analysis GPT2,https://discuss.huggingface.co/t/source-code-vulnerability-analysis-gpt2/47832,AIdrive,1,444,"Created: Jul 23, 2023 5:18 pm
+Latest: Jul 23, 2023 7:04 pm"
+Call for Participation: SemEval 2022 Task 2 Multilingual Idiomaticity Detection and Sentence Embedding,https://discuss.huggingface.co/t/call-for-participation-semeval-2022-task-2-multilingual-idiomaticity-detection-and-sentence-embedding/10514,harish,1,784,"Created: Oct 4, 2021 7:47 pm
+Latest: Jul 14, 2024 4:37 am"
+Do We Still Need Dimensionality Reduction for LLM Text Embeddings?,https://discuss.huggingface.co/t/do-we-still-need-dimensionality-reduction-for-llm-text-embeddings/98924,phamnam,1,783,"Created: Jul 23, 2024 10:07 am
+Latest: Aug 20, 2024 2:50 am"
+How does BERT actually answer questions?,https://discuss.huggingface.co/t/how-does-bert-actually-answer-questions/4287,theudster,1,780,"Created: Mar 10, 2021 3:30 pm
+Latest: Mar 11, 2021 8:30 pm"
+Zero-shot and distillation - Improved distilled model over teacher model,https://discuss.huggingface.co/t/zero-shot-and-distillation-improved-distilled-model-over-teacher-model/4621,mathbouchard,0,1.1k,"Created: Mar 18, 2021 5:53 pm"
+Open-Source LLM Models for Data Extraction Tasks,https://discuss.huggingface.co/t/open-source-llm-models-for-data-extraction-tasks/108344,bubbleMilkTea,0,190,"Created: Sep 24, 2024 9:40 am"
+Very slow training (>5mins per batch) - code review request,https://discuss.huggingface.co/t/very-slow-training-5mins-per-batch-code-review-request/58087,PeteBleackley,2,602,"Created: Oct 10, 2023 8:39 pm
+Latest: Oct 11, 2023 6:32 am"
+Cost Effective LLM - For Small Guys,https://discuss.huggingface.co/t/cost-effective-llm-for-small-guys/37963,udayteki,0,1.0k,"Created: Apr 27, 2023 10:17 pm
+Latest: Apr 28, 2023 12:59 am"
+Optuna with a fine-tuned model,https://discuss.huggingface.co/t/optuna-with-a-fine-tuned-model/18113,MaryaAI,1,717,"Created: May 18, 2022 5:58 pm
+Latest: May 19, 2022 11:35 am"
+Composition Training/Validation Split of AutoTrain,https://discuss.huggingface.co/t/composition-training-validation-split-of-autotrain/26328,ropodo,0,984,"Created: Nov 18, 2022 7:04 pm
+Latest: Nov 18, 2022 7:26 pm"
+Working on Low Resource Machine Translation,https://discuss.huggingface.co/t/working-on-low-resource-machine-translation/41526,yash-srivastava19,2,547,"Created: May 30, 2023 5:47 pm
+Latest: Jun 27, 2023 7:14 am"
+TRL loss blowing up,https://discuss.huggingface.co/t/trl-loss-blowing-up/33821,RajSang,2,545,"Created: Mar 15, 2023 1:37 am
+Latest: Mar 16, 2023 12:30 am"
+Finetuning on a recent topic/domain,https://discuss.huggingface.co/t/finetuning-on-a-recent-topic-domain/40067,Alex21j,2,542,"Created: May 16, 2023 12:51 pm
+Latest: May 25, 2023 11:49 am"
+Small LMs to prototype architecture experiments on,https://discuss.huggingface.co/t/small-lms-to-prototype-architecture-experiments-on/137438,zohaib-khan5040,2,54,"Created: Jan 26, 2025 5:45 pm
+Latest: Jan 27, 2025 5:25 pm"
+"Is it reasonableto pretrain by masking certain dimensions of each vector, rather than the individual token?",https://discuss.huggingface.co/t/is-it-reasonableto-pretrain-by-masking-certain-dimensions-of-each-vector-rather-than-the-individual-token/290,Weilin,3,459,"Created: Jul 15, 2020 3:11 am
+Latest: Jul 21, 2020 7:52 pm"
+Muti-Task Model - OCR + Object Detection,https://discuss.huggingface.co/t/muti-task-model-ocr-object-detection/42554,HoussemBettaibi,0,917,"Created: Jun 8, 2023 2:51 pm"
+Fail to claim paper authorship,https://discuss.huggingface.co/t/fail-to-claim-paper-authorship/94177,BestWishYsh,6,344,"Created: Jun 26, 2024 10:28 am
+Latest: Sep 13, 2024 6:04 pm"
+Suggestions for an open source tagging tool to build custom LayoutLMv2 datasets,https://discuss.huggingface.co/t/suggestions-for-an-open-source-tagging-tool-to-build-custom-layoutlmv2-datasets/14103,nasheed,0,908,"Created: Jan 25, 2022 4:36 pm"
+Introduce Our New Paper “OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use”,https://discuss.huggingface.co/t/introduce-our-new-paper-os-agents-a-survey-on-mllm-based-agents-for-general-computing-devices-use/133963,OSAgentSurvey,1,169,"Created: Jan 2, 2025 10:06 am
+Latest: Mar 21, 2025 1:53 pm"
+Obtaining BERT-base from BERT-large,https://discuss.huggingface.co/t/obtaining-bert-base-from-bert-large/1288,prajjwal1,3,449,"Created: Sep 29, 2020 3:31 am
+Latest: Oct 2, 2020 10:53 am"
+LLM for cyberbullying intervention - profanity issues,https://discuss.huggingface.co/t/llm-for-cyberbullying-intervention-profanity-issues/57108,kate-wood,2,508,"Created: Oct 2, 2023 1:05 pm
+Latest: Oct 2, 2023 5:24 pm"
+Dynamic Programming for Byte-level BPE,https://discuss.huggingface.co/t/dynamic-programming-for-byte-level-bpe/17376,kevin998x,0,872,"Created: May 1, 2022 2:58 am"
+Keypoint Detection Accuracy is Very Low,https://discuss.huggingface.co/t/keypoint-detection-accuracy-is-very-low/22483,Karric,0,869,"Created: Sep 3, 2022 12:16 pm
+Latest: Sep 3, 2022 12:16 pm"
+What would be the best image-to-text model for a lot of images?,https://discuss.huggingface.co/t/what-would-be-the-best-image-to-text-model-for-a-lot-of-images/61570,Jorvan,0,843,"Created: Nov 8, 2023 7:44 pm"
+AANN: Agents As Neural Networks,https://discuss.huggingface.co/t/aann-agents-as-neural-networks/144794,Jjhygcyjn,0,28,"Created: Mar 8, 2025 7:37 pm"
+Projected gradient descent on autoregressive models,https://discuss.huggingface.co/t/projected-gradient-descent-on-autoregressive-models/16975,Dusan,0,822,"Created: Apr 19, 2022 2:22 pm"
+Incremental decoding with T5,https://discuss.huggingface.co/t/incremental-decoding-with-t5/26930,deathcrush,0,814,"Created: Nov 29, 2022 12:36 pm
+Latest: Nov 29, 2022 1:33 pm"
+Extractive oracle,https://discuss.huggingface.co/t/extractive-oracle/14548,silvia-casola,0,811,"Created: Feb 9, 2022 12:37 pm"
+Question Answering model on mathematical domain for the greek language,https://discuss.huggingface.co/t/question-answering-model-on-mathematical-domain-for-the-greek-language/14300,Geo,0,810,"Created: Feb 1, 2022 1:33 pm
+Latest: Feb 1, 2022 1:45 pm"
+Video Classification,https://discuss.huggingface.co/t/video-classification/17995,Isabella,0,809,"Created: May 16, 2022 10:43 am"
+Get gaierror when trying to access HF Token for login,https://discuss.huggingface.co/t/get-gaierror-when-trying-to-access-hf-token-for-login/128870,happibara5,2,83,"Created: Dec 2, 2024 3:50 pm
+Latest: Dec 9, 2024 11:33 am"
+Graph2graph network for geometric shapes,https://discuss.huggingface.co/t/graph2graph-network-for-geometric-shapes/18609,yogeshkulkarni,0,803,"Created: Jun 1, 2022 10:27 am"
+Cross Lingual Transfer Learning ( XNLI ),https://discuss.huggingface.co/t/cross-lingual-transfer-learning-xnli/24383,ankitkupadhyay,0,802,"Created: Oct 13, 2022 11:58 am
+Latest: Oct 13, 2022 11:58 am"
+PEGASUS model overfitting,https://discuss.huggingface.co/t/pegasus-model-overfitting/6246,theprincedrip,2,463,"Created: May 19, 2021 7:05 am
+Latest: May 19, 2021 12:12 pm"
+Open Source AI and Law,https://discuss.huggingface.co/t/open-source-ai-and-law/86086,Semih68,0,142,"Created: May 10, 2024 8:50 am"
+Own AI deploy webapp,https://discuss.huggingface.co/t/own-ai-deploy-webapp/17247,Martiking,0,796,"Created: Apr 27, 2022 11:40 am"
+Ideas for product improvement,https://discuss.huggingface.co/t/ideas-for-product-improvement/110525,doodle131,1,56,"Created: Oct 7, 2024 1:21 am
+Latest: Oct 10, 2024 10:39 am"
+LSTM Encoder-Decoder not working,https://discuss.huggingface.co/t/lstm-encoder-decoder-not-working/18697,AfonsoSousa,0,791,"Created: Jun 3, 2022 5:15 pm"
+Project: retrofitting recursive fractal semantic space to Mistral7b,https://discuss.huggingface.co/t/project-retrofitting-recursive-fractal-semantic-space-to-mistral7b/141495,GeomerticallyOpposed,0,25,"Created: Feb 18, 2025 2:44 am"
+ConformerCTC for streaming,https://discuss.huggingface.co/t/conformerctc-for-streaming/27480,pfjf2,1,559,"Created: Dec 8, 2022 7:03 pm
+Latest: Dec 12, 2022 10:19 am"
+Converting Test Case Description into Test case Steps,https://discuss.huggingface.co/t/converting-test-case-description-into-test-case-steps/15332,Yogendra,0,777,"Created: Mar 4, 2022 2:43 am
+Latest: Mar 4, 2022 2:43 am"
+Seeking Advice on Building a Custom Virtual Try-On Model Using Pre-Existing Models,https://discuss.huggingface.co/t/seeking-advice-on-building-a-custom-virtual-try-on-model-using-pre-existing-models/128946,4833R11Y45,0,139,"Created: Dec 3, 2024 12:01 am"
+Any study of failures of nlp models vs schoolchildren on QA or POS?,https://discuss.huggingface.co/t/any-study-of-failures-of-nlp-models-vs-schoolchildren-on-qa-or-pos/5051,cedpsam,1,544,"Created: Mar 24, 2021 11:06 am
+Latest: Mar 26, 2024 9:19 am"
+XLSR-53: To group tokens or not to group tokens,https://discuss.huggingface.co/t/xlsr-53-to-group-tokens-or-not-to-group-tokens/4522,jjdv,1,540,"Created: Mar 17, 2021 7:59 pm
+Latest: Mar 18, 2021 6:57 am"
+Minimize number of transformers checkpoints for serving muliple client,https://discuss.huggingface.co/t/minimize-number-of-transformers-checkpoints-for-serving-muliple-client/29733,ykacer,3,380,"Created: Jan 16, 2023 7:28 am
+Latest: Mar 9, 2023 3:14 pm"
+"Machine Unlearning: A Novel Framework to Unlearning, Privacy and Defending Against Inference Attacks",https://discuss.huggingface.co/t/machine-unlearning-a-novel-framework-to-unlearning-privacy-and-defending-against-inference-attacks/53161,Severian,0,746,"Created: Sep 1, 2023 3:32 pm"
+How to get embedding to each n-grams from a sentence using BERT?,https://discuss.huggingface.co/t/how-to-get-embedding-to-each-n-grams-from-a-sentence-using-bert/21562,celsofranssa,0,745,"Created: Aug 12, 2022 2:44 pm"
+Conversational QA pretrained model?,https://discuss.huggingface.co/t/conversational-qa-pretrained-model/26441,sadafthegreekgod,0,744,"Created: Nov 21, 2022 10:52 am"
+Best Pre-training Strategy,https://discuss.huggingface.co/t/best-pre-training-strategy/15307,ahmedoumar,0,744,"Created: Mar 3, 2022 12:09 pm"
+Conversational Budget Analytics,https://discuss.huggingface.co/t/conversational-budget-analytics/33730,AdamSobieski,1,517,"Created: Mar 13, 2023 11:51 pm
+Latest: Mar 19, 2023 6:45 am"
+Let’s Make an Ethics Chat Bot that’s Not Racist!,https://discuss.huggingface.co/t/lets-make-an-ethics-chat-bot-thats-not-racist/11905,joshbachynski,0,731,"Created: Nov 16, 2021 7:32 pm"
+Ideas for scoring coding assignments,https://discuss.huggingface.co/t/ideas-for-scoring-coding-assignments/17862,Ahmedgr,0,725,"Created: May 12, 2022 10:18 am"
+Aggregate encoder states in encoder-decoder models for long sequences?,https://discuss.huggingface.co/t/aggregate-encoder-states-in-encoder-decoder-models-for-long-sequences/16625,marksverdhei,0,723,"Created: Apr 8, 2022 6:39 pm
+Latest: Apr 8, 2022 6:44 pm"
+DeBerta Paper Explained and Dissected,https://discuss.huggingface.co/t/deberta-paper-explained-and-dissected/20158,MrKnowNothing,0,719,"Created: Jul 8, 2022 5:29 pm"
+The discussion is about entity recognition and corefrence resolution,https://discuss.huggingface.co/t/the-discussion-is-about-entity-recognition-and-corefrence-resolution/16068,Anorak,0,717,"Created: Mar 25, 2022 10:54 am"
+Re-learning the World with AI’s Unbiased Perspective,https://discuss.huggingface.co/t/re-learning-the-world-with-ais-unbiased-perspective/70592,kanoj,2,404,"Created: Jan 25, 2024 2:43 pm
+Latest: Mar 30, 2024 6:06 am"
+Get text generation in particular format,https://discuss.huggingface.co/t/get-text-generation-in-particular-format/82313,vivek9840,5,285,"Created: Apr 17, 2024 11:48 pm
+Latest: Apr 18, 2024 9:45 am"
+Technical Skill classification model,https://discuss.huggingface.co/t/technical-skill-classification-model/18487,ankitkupadhyay,0,697,"Created: May 29, 2022 5:34 pm"
+Pegasus Paraphrase Fine Tuning dataset,https://discuss.huggingface.co/t/pegasus-paraphrase-fine-tuning-dataset/18531,deathcrush,0,694,"Created: May 30, 2022 4:01 pm"
+Using OPTForSequenceClassification,https://discuss.huggingface.co/t/using-optforsequenceclassification/22340,tnavin,0,685,"Created: Aug 31, 2022 9:54 am"
+Steps to train T5 on collections of tags,https://discuss.huggingface.co/t/steps-to-train-t5-on-collections-of-tags/18600,Mindpixel,0,673,"Created: Jun 1, 2022 7:58 am"
+Importance of sentinel token placement in T5?,https://discuss.huggingface.co/t/importance-of-sentinel-token-placement-in-t5/40061,rasgaard,0,672,"Created: May 16, 2023 11:59 am
+Latest: May 17, 2023 5:58 am"
+"Bertology-like Analysis for BART, T5?",https://discuss.huggingface.co/t/bertology-like-analysis-for-bart-t5/941,gtellex,0,667,"Created: Aug 31, 2020 7:55 am"
+Few shot automatic moderation,https://discuss.huggingface.co/t/few-shot-automatic-moderation/12102,cedpsam,0,666,"Created: Nov 20, 2021 2:59 pm"
+Hyperparameter for distil bert,https://discuss.huggingface.co/t/hyperparameter-for-distil-bert/1624,olenet,0,664,"Created: Oct 19, 2020 11:30 am"
+Summarization for downstream task,https://discuss.huggingface.co/t/summarization-for-downstream-task/10011,silvia-casola,0,656,"Created: Sep 15, 2021 8:56 am"
+Help me in developing a thesis app Please,https://discuss.huggingface.co/t/help-me-in-developing-a-thesis-app-please/96191,DGREATEJ5,0,115,"Created: Jul 8, 2024 4:11 pm"
+Help me with my PhD research on voice dataset documentation by completing this survey,https://discuss.huggingface.co/t/help-me-with-my-phd-research-on-voice-dataset-documentation-by-completing-this-survey/37751,KathyReid,1,448,"Created: Apr 26, 2023 4:07 am
+Latest: May 13, 2023 4:05 am"
+Process Reward Model compatibility with PPOTrainer,https://discuss.huggingface.co/t/process-reward-model-compatibility-with-ppotrainer/113648,anki08,0,113,"Created: Oct 23, 2024 6:13 pm"
+Attaching TF models to CNN features,https://discuss.huggingface.co/t/attaching-tf-models-to-cnn-features/391,surajp,1,445,"Created: Jul 20, 2020 8:43 am
+Latest: Jul 24, 2020 6:59 pm"
+RoBERTa trained on NSP,https://discuss.huggingface.co/t/roberta-trained-on-nsp/3133,prajjwal1,0,629,"Created: Jan 12, 2021 3:58 am
+Latest: Jan 28, 2021 3:25 pm"
+Gradio is more than UI?,https://discuss.huggingface.co/t/gradio-is-more-than-ui/114715,SakatZebra,4,87,"Created: Oct 30, 2024 1:27 pm
+Latest: Oct 31, 2024 5:27 pm"
+Public Research Survey,https://discuss.huggingface.co/t/public-research-survey/20979,cflo123,0,603,"Created: Jul 28, 2022 10:26 pm"
+Looking for OCR post-processing for Visual Document Understanding,https://discuss.huggingface.co/t/looking-for-ocr-post-processing-for-visual-document-understanding/65937,frhrdr,0,599,"Created: Dec 15, 2023 10:28 am"
+BERT from scratch without self-supervised learning,https://discuss.huggingface.co/t/bert-from-scratch-without-self-supervised-learning/24397,aclifton314,0,599,"Created: Oct 13, 2022 5:12 pm"
+Introducing The AGI Framework: Open-Source Modular Architecture for Artificial General Intelligence Development,https://discuss.huggingface.co/t/introducing-the-agi-framework-open-source-modular-architecture-for-artificial-general-intelligence-development/137675,AGI-Framework,0,106,"Created: Jan 28, 2025 6:44 am"
+Choosing Benchmarks for Fine-Tuned Models in Emotion Analysis,https://discuss.huggingface.co/t/choosing-benchmarks-for-fine-tuned-models-in-emotion-analysis/127106,pavol58,0,106,"Created: Nov 23, 2024 8:10 pm"
+Looking for researchers and members of AI development teams,https://discuss.huggingface.co/t/looking-for-researchers-and-members-of-ai-development-teams/103034,wildercb,0,105,"Created: Aug 19, 2024 7:32 pm"
+Metadata of NLP datasets,https://discuss.huggingface.co/t/metadata-of-nlp-datasets/25603,Dipti,0,590,"Created: Nov 5, 2022 7:51 pm"
+Summary Decoding params,https://discuss.huggingface.co/t/summary-decoding-params/19711,lizush23,0,590,"Created: Jun 28, 2022 7:45 am"
+Problem in understanding the test phase in Few-shot learning,https://discuss.huggingface.co/t/problem-in-understanding-the-test-phase-in-few-shot-learning/24231,Moryodu,0,581,"Created: Oct 10, 2022 3:20 pm"
+Vulnerability in Safetensors conversion space,https://discuss.huggingface.co/t/vulnerability-in-safetensors-conversion-space/76509,rajasekar,0,579,"Created: Mar 8, 2024 9:48 am"
+AI model for Bitcoin blockchain data analysis,https://discuss.huggingface.co/t/ai-model-for-bitcoin-blockchain-data-analysis/47527,Chanblock,0,573,"Created: Jul 20, 2023 9:33 pm"
+Handle number on ASR,https://discuss.huggingface.co/t/handle-number-on-asr/44181,khady,1,400,"Created: Jun 22, 2023 12:21 pm
+Latest: Jul 6, 2023 8:35 am"
+Seeking Guidance on Training a Model for Generating Gregorian Chant Music,https://discuss.huggingface.co/t/seeking-guidance-on-training-a-model-for-generating-gregorian-chant-music/131700,Martim-Ramos-Neural,2,58,"Created: Dec 16, 2024 12:05 pm
+Latest: Dec 16, 2024 2:30 pm"
+Research on Hyperparameters for Fine Tuning,https://discuss.huggingface.co/t/research-on-hyperparameters-for-fine-tuning/73938,Pekka10,2,325,"Created: Feb 20, 2024 8:58 am
+Latest: Feb 26, 2024 2:56 pm"
+Civic Technology Community Group,https://discuss.huggingface.co/t/civic-technology-community-group/37472,AdamSobieski,1,397,"Created: Apr 23, 2023 8:25 am
+Latest: Apr 25, 2023 10:25 pm"
+Does anyone need an extra pair of hands?,https://discuss.huggingface.co/t/does-anyone-need-an-extra-pair-of-hands/58476,Pawlu,1,396,"Created: Oct 13, 2023 4:29 pm
+Latest: Oct 14, 2023 9:36 am"
+Load/save HF block sparse model,https://discuss.huggingface.co/t/load-save-hf-block-sparse-model/1646,vblagoje,1,394,"Created: Oct 20, 2020 9:07 am
+Latest: Oct 21, 2020 1:47 pm"
+Swapping out self-attention layer in BERT,https://discuss.huggingface.co/t/swapping-out-self-attention-layer-in-bert/29398,sidkk86,0,554,"Created: Jan 11, 2023 7:44 pm
+Latest: Jan 11, 2023 7:50 pm"
+User query intent recognition techniques,https://discuss.huggingface.co/t/user-query-intent-recognition-techniques/52954,NinadJagtap,0,552,"Created: Aug 31, 2023 11:21 am"
+I’d like to understand on how to train a neural net with agents and evolution,https://discuss.huggingface.co/t/id-like-to-understand-on-how-to-train-a-neural-net-with-agents-and-evolution/25334,PeterB123A,0,545,"Created: Nov 1, 2022 2:04 pm"
+I have a project Skin Lens Please can you fill the form,https://discuss.huggingface.co/t/i-have-a-project-skin-lens-please-can-you-fill-the-form/108980,ronnys,1,68,"Created: Sep 27, 2024 8:33 am
+Latest: Nov 20, 2024 7:41 pm"
+How does an API work?,https://discuss.huggingface.co/t/how-does-an-api-work/121828,riddhi810,4,136,"Created: Nov 15, 2024 5:07 am
+Latest: Nov 15, 2024 10:05 am"
+PyMo: proof of concept,https://discuss.huggingface.co/t/pymo-proof-of-concept/137303,rchfpge,2,55,"Created: Jan 25, 2025 5:24 pm
+Latest: Jan 29, 2025 4:47 am"
+"QARAC: Question Answering, Reasoning and Consitency",https://discuss.huggingface.co/t/qarac-question-answering-reasoning-and-consitency/52161,PeteBleackley,2,306,"Created: Aug 25, 2023 12:58 pm
+Latest: Aug 27, 2023 10:37 am"
+Generating coherent related text with generative model (GPT2 etc.),https://discuss.huggingface.co/t/generating-coherent-related-text-with-generative-model-gpt2-etc/3417,prajjwal1,0,521,"Created: Jan 28, 2021 3:32 pm"
+Explaining medical diagnosis,https://discuss.huggingface.co/t/explaining-medical-diagnosis/24664,misza222,0,520,"Created: Oct 19, 2022 11:59 am"
+Project Description,https://discuss.huggingface.co/t/project-description/6444,dsno800,1,366,"Created: May 28, 2021 9:33 am
+Latest: May 29, 2021 4:25 am"
+Empathetic Generative AI,https://discuss.huggingface.co/t/empathetic-generative-ai/77290,anywhichway,1,361,"Created: Mar 13, 2024 3:37 pm
+Latest: Apr 30, 2024 2:00 pm"
+About Paper Claim,https://discuss.huggingface.co/t/about-paper-claim/96881,zwq2018,3,255,"Created: Jul 11, 2024 6:55 pm
+Latest: Aug 22, 2024 3:03 am"
+10_000 samples & 10_000 labels,https://discuss.huggingface.co/t/10-000-samples-10-000-labels/8868,ahmedoumar,0,508,"Created: Jul 31, 2021 9:57 am"
+Modification of self attention in BERT without pretraining,https://discuss.huggingface.co/t/modification-of-self-attention-in-bert-without-pretraining/40357,M-a-j-a,1,359,"Created: May 19, 2023 8:58 am
+Latest: Jun 15, 2023 9:21 pm"
+Classification problem difficulty when going from 3 classes to 5 classes?,https://discuss.huggingface.co/t/classification-problem-difficulty-when-going-from-3-classes-to-5-classes/3037,facehugger2020,1,359,"Created: Jan 3, 2021 11:55 pm
+Latest: Jan 11, 2021 8:22 pm"
+Using Transformers(?) for Tibetan-English Translation,https://discuss.huggingface.co/t/using-transformers-for-tibetan-english-translation/44078,koernergb,0,503,"Created: Jun 21, 2023 4:21 pm"

@@ -1,0 +1,2402 @@
+[
+    {
+        "Topic": "ELECTRA training reimplementation and discussion",
+        "Link": "https://discuss.huggingface.co/t/electra-training-reimplementation-and-discussion/1004",
+        "Owner": "RichardWang",
+        "Reply Count": "14",
+        "View Count": "6.6k",
+        "Activity Date": "Created: Sep 6, 2020 9:38 am\nLatest: Sep 17, 2023 1:08 am"
+    },
+    {
+        "Topic": "Hugging Face Reads - 01/2021 - Sparsity and Pruning",
+        "Link": "https://discuss.huggingface.co/t/hugging-face-reads-01-2021-sparsity-and-pruning/3144",
+        "Owner": "yjernite",
+        "Reply Count": "13",
+        "View Count": "7.5k",
+        "Activity Date": "Created: Jan 12, 2021 2:36 pm\nLatest: Mar 8, 2021 5:47 pm"
+    },
+    {
+        "Topic": "ASR spell correction",
+        "Link": "https://discuss.huggingface.co/t/asr-spell-correction/5103",
+        "Owner": "flozi00",
+        "Reply Count": "29",
+        "View Count": "8.6k",
+        "Activity Date": "Created: Mar 25, 2021 9:59 pm\nLatest: Apr 24, 2024 11:48 am"
+    },
+    {
+        "Topic": "Guide: The best way to calculate the perplexity of fixed-length models",
+        "Link": "https://discuss.huggingface.co/t/guide-the-best-way-to-calculate-the-perplexity-of-fixed-length-models/193",
+        "Owner": "joeddav",
+        "Reply Count": "9",
+        "View Count": "9.2k",
+        "Activity Date": "Created: Jul 10, 2020 5:07 pm\nLatest: Dec 16, 2021 3:36 am"
+    },
+    {
+        "Topic": "Significance of the [CLS] token",
+        "Link": "https://discuss.huggingface.co/t/significance-of-the-cls-token/3180",
+        "Owner": "sudarshan85",
+        "Reply Count": "16",
+        "View Count": "26.9k",
+        "Activity Date": "Created: Jan 13, 2021 2:04 pm\nLatest: Sep 13, 2024 8:01 am"
+    },
+    {
+        "Topic": "Pre-Train BERT (from scratch)",
+        "Link": "https://discuss.huggingface.co/t/pre-train-bert-from-scratch/1245",
+        "Owner": "prajjwal1",
+        "Reply Count": "43",
+        "View Count": "18.8k",
+        "Activity Date": "Created: Sep 24, 2020 1:01 pm\nLatest: Jun 27, 2022 2:08 pm"
+    },
+    {
+        "Topic": "Forward-Forward algorithm by Geoffrey Hinton",
+        "Link": "https://discuss.huggingface.co/t/forward-forward-algorithm-by-geoffrey-hinton/30656",
+        "Owner": "fraktall",
+        "Reply Count": "10",
+        "View Count": "4.8k",
+        "Activity Date": "Created: Jan 29, 2023 1:21 am\nLatest: Jun 17, 2023 3:23 pm"
+    },
+    {
+        "Topic": "GPT2 for QA Pair Generation",
+        "Link": "https://discuss.huggingface.co/t/gpt2-for-qa-pair-generation/759",
+        "Owner": "aclifton314",
+        "Reply Count": "9",
+        "View Count": "8.6k",
+        "Activity Date": "Created: Aug 18, 2020 9:59 pm\nLatest: Mar 23, 2022 5:27 pm"
+    },
+    {
+        "Topic": "Copying mechanism for transformer",
+        "Link": "https://discuss.huggingface.co/t/copying-mechanism-for-transformer/5025",
+        "Owner": "lifelongeek",
+        "Reply Count": "9",
+        "View Count": "6.4k",
+        "Activity Date": "Created: Mar 24, 2021 2:39 am\nLatest: Feb 23, 2024 4:23 am"
+    },
+    {
+        "Topic": "EMNLP Picks from the Hugging Face Science Team",
+        "Link": "https://discuss.huggingface.co/t/emnlp-picks-from-the-hugging-face-science-team/2424",
+        "Owner": "joeddav",
+        "Reply Count": "1",
+        "View Count": "4.1k",
+        "Activity Date": "Created: Dec 2, 2020 3:01 pm\nLatest: Dec 2, 2020 4:37 pm"
+    },
+    {
+        "Topic": "Bart-base rouge scores",
+        "Link": "https://discuss.huggingface.co/t/bart-base-rouge-scores/683",
+        "Owner": "sshleifer",
+        "Reply Count": "11",
+        "View Count": "1.7k",
+        "Activity Date": "Created: Aug 11, 2020 7:00 pm\nLatest: Oct 27, 2020 4:56 pm"
+    },
+    {
+        "Topic": "FDA Label Document Embedding",
+        "Link": "https://discuss.huggingface.co/t/fda-label-document-embedding/3654",
+        "Owner": "FL33TW00D",
+        "Reply Count": "9",
+        "View Count": "1.5k",
+        "Activity Date": "Created: Feb 15, 2021 10:01 pm\nLatest: Feb 19, 2021 10:30 pm"
+    },
+    {
+        "Topic": "Science Tuesday: MARGE",
+        "Link": "https://discuss.huggingface.co/t/science-tuesday-marge/685",
+        "Owner": "sshleifer",
+        "Reply Count": "7",
+        "View Count": "3.7k",
+        "Activity Date": "Created: Aug 11, 2020 10:51 pm\nLatest: Feb 8, 2021 10:52 pm"
+    },
+    {
+        "Topic": "Does quantization compress the model weights?",
+        "Link": "https://discuss.huggingface.co/t/does-quantization-compress-the-model-weights/108109",
+        "Owner": "neeraj1909",
+        "Reply Count": "16",
+        "View Count": "311",
+        "Activity Date": "Created: Sep 23, 2024 10:23 am\nLatest: Sep 25, 2024 3:31 pm"
+    },
+    {
+        "Topic": "Fine-tuned MLM based RoBERTa not improving performance",
+        "Link": "https://discuss.huggingface.co/t/fine-tuned-mlm-based-roberta-not-improving-performance/36913",
+        "Owner": "sachinkalsi",
+        "Reply Count": "2",
+        "View Count": "937",
+        "Activity Date": "Created: Apr 18, 2023 4:27 am\nLatest: Apr 20, 2023 4:17 pm"
+    },
+    {
+        "Topic": "ICLR 2020 highlights - Yacine",
+        "Link": "https://discuss.huggingface.co/t/iclr-2020-highlights-yacine/37",
+        "Owner": "yjernite",
+        "Reply Count": "1",
+        "View Count": "1.7k",
+        "Activity Date": "Created: Jul 7, 2020 5:44 pm\nLatest: Jul 11, 2020 11:59 pm"
+    },
+    {
+        "Topic": "Collaborative Training Experiment of an Albert Model for Bengali",
+        "Link": "https://discuss.huggingface.co/t/collaborative-training-experiment-of-an-albert-model-for-bengali/5991",
+        "Owner": "tanmoyio",
+        "Reply Count": "1",
+        "View Count": "1.3k",
+        "Activity Date": "Created: May 5, 2021 6:15 am\nLatest: May 6, 2021 9:43 am"
+    },
+    {
+        "Topic": "Multi-GPU Machine Setup Guide and QnA",
+        "Link": "https://discuss.huggingface.co/t/multi-gpu-machine-setup-guide-and-qna/5891",
+        "Owner": "boris",
+        "Reply Count": "6",
+        "View Count": "6.4k",
+        "Activity Date": "Created: Apr 30, 2021 7:51 pm\nLatest: May 13, 2023 12:03 pm"
+    },
+    {
+        "Topic": "Why are huge batch sizes used for pretraining and small ones for finetuning?",
+        "Link": "https://discuss.huggingface.co/t/why-are-huge-batch-sizes-used-for-pretraining-and-small-ones-for-finetuning/10836",
+        "Owner": "BramVanroy",
+        "Reply Count": "3",
+        "View Count": "9.8k",
+        "Activity Date": "Created: Oct 17, 2021 12:10 am\nLatest: Jan 10, 2023 3:11 pm"
+    },
+    {
+        "Topic": "Online/streaming speech recognition",
+        "Link": "https://discuss.huggingface.co/t/online-streaming-speech-recognition/4456",
+        "Owner": "arkadyark",
+        "Reply Count": "2",
+        "View Count": "3.0k",
+        "Activity Date": "Created: Mar 17, 2021 12:22 am\nLatest: Oct 26, 2022 8:19 am"
+    },
+    {
+        "Topic": "ACL 2020 highlights - Yacine",
+        "Link": "https://discuss.huggingface.co/t/acl-2020-highlights-yacine/186",
+        "Owner": "yjernite",
+        "Reply Count": "0",
+        "View Count": "1.4k",
+        "Activity Date": "Created: Jul 10, 2020 3:55 pm"
+    },
+    {
+        "Topic": "ACL 2020 - Some personal highlights - Victor",
+        "Link": "https://discuss.huggingface.co/t/acl-2020-some-personal-highlights-victor/202",
+        "Owner": "VictorSanh",
+        "Reply Count": "4",
+        "View Count": "1.4k",
+        "Activity Date": "Created: Jul 10, 2020 6:46 pm\nLatest: Jul 14, 2020 2:24 pm"
+    },
+    {
+        "Topic": "Paper Notes: Deepspeed Mixture of Experts",
+        "Link": "https://discuss.huggingface.co/t/paper-notes-deepspeed-mixture-of-experts/13908",
+        "Owner": "sshleifer",
+        "Reply Count": "2",
+        "View Count": "2.2k",
+        "Activity Date": "Created: Jan 19, 2022 9:19 pm\nLatest: Jan 20, 2022 4:42 pm"
+    },
+    {
+        "Topic": "From Crypto Mining to LLM Fine-tuning: Unlocking Large Language Model Fine-tuning through Collaborative Compute Pools",
+        "Link": "https://discuss.huggingface.co/t/from-crypto-mining-to-llm-fine-tuning-unlocking-large-language-model-fine-tuning-through-collaborative-compute-pools/66982",
+        "Owner": "ash001",
+        "Reply Count": "3",
+        "View Count": "1.8k",
+        "Activity Date": "Created: Dec 25, 2023 4:03 pm\nLatest: Jan 26, 2025 5:40 am"
+    },
+    {
+        "Topic": "The (hidden) meaning behind the embedding of the padding token?",
+        "Link": "https://discuss.huggingface.co/t/the-hidden-meaning-behind-the-embedding-of-the-padding-token/3212",
+        "Owner": "KennethEnevoldsen",
+        "Reply Count": "2",
+        "View Count": "6.1k",
+        "Activity Date": "Created: Jan 15, 2021 9:22 am\nLatest: Jul 14, 2021 11:13 am"
+    },
+    {
+        "Topic": "Using Google’s Gemini for scientific literature",
+        "Link": "https://discuss.huggingface.co/t/using-googles-gemini-for-scientific-literature/65804",
+        "Owner": "grey-neutral",
+        "Reply Count": "0",
+        "View Count": "1.4k",
+        "Activity Date": "Created: Dec 14, 2023 10:08 am"
+    },
+    {
+        "Topic": "ACL 2020 highlights – Canwen",
+        "Link": "https://discuss.huggingface.co/t/acl-2020-highlights-canwen/183",
+        "Owner": "canwenxu",
+        "Reply Count": "1",
+        "View Count": "913",
+        "Activity Date": "Created: Jul 10, 2020 2:25 pm\nLatest: Jul 10, 2020 5:01 pm"
+    },
+    {
+        "Topic": "Rust applications",
+        "Link": "https://discuss.huggingface.co/t/rust-applications/23060",
+        "Owner": "saied",
+        "Reply Count": "6",
+        "View Count": "4.8k",
+        "Activity Date": "Created: Sep 13, 2022 5:54 am\nLatest: Nov 21, 2023 10:33 pm"
+    },
+    {
+        "Topic": "ACL 2020 highlights – Joe",
+        "Link": "https://discuss.huggingface.co/t/acl-2020-highlights-joe/188",
+        "Owner": "joeddav",
+        "Reply Count": "3",
+        "View Count": "1.6k",
+        "Activity Date": "Created: Jul 10, 2020 4:08 pm\nLatest: Jul 30, 2020 5:57 am"
+    },
+    {
+        "Topic": "Adding features to a pretrained language model",
+        "Link": "https://discuss.huggingface.co/t/adding-features-to-a-pretrained-language-model/770",
+        "Owner": "BramVanroy",
+        "Reply Count": "3",
+        "View Count": "3.9k",
+        "Activity Date": "Created: Aug 19, 2020 3:58 pm\nLatest: Oct 28, 2020 8:24 pm"
+    },
+    {
+        "Topic": "Grouphug: multi-task, multi-dataset training with transformers/datasets",
+        "Link": "https://discuss.huggingface.co/t/grouphug-multi-task-multi-dataset-training-with-transformers-datasets/19177",
+        "Owner": "Sanderbaduk",
+        "Reply Count": "0",
+        "View Count": "2.4k",
+        "Activity Date": "Created: Jun 15, 2022 7:26 am"
+    },
+    {
+        "Topic": "Paper Discussion: Weight Poisoning Attacks on Pre-trained Models",
+        "Link": "https://discuss.huggingface.co/t/paper-discussion-weight-poisoning-attacks-on-pre-trained-models/129",
+        "Owner": "joeddav",
+        "Reply Count": "0",
+        "View Count": "1.0k",
+        "Activity Date": "Created: Jul 8, 2020 8:19 pm"
+    },
+    {
+        "Topic": "Question about loss calculation on LLM finetuning",
+        "Link": "https://discuss.huggingface.co/t/question-about-loss-calculation-on-llm-finetuning/46825",
+        "Owner": "imone",
+        "Reply Count": "0",
+        "View Count": "6.9k",
+        "Activity Date": "Created: Jul 14, 2023 1:06 pm"
+    },
+    {
+        "Topic": "What does it mean to prime a GPT model?",
+        "Link": "https://discuss.huggingface.co/t/what-does-it-mean-to-prime-a-gpt-model/446",
+        "Owner": "radek",
+        "Reply Count": "5",
+        "View Count": "4.1k",
+        "Activity Date": "Created: Jul 23, 2020 4:17 pm\nLatest: Jul 27, 2020 2:47 pm"
+    },
+    {
+        "Topic": "Adding domain knowledge in LLMs via fine tuning",
+        "Link": "https://discuss.huggingface.co/t/adding-domain-knowledge-in-llms-via-fine-tuning/43811",
+        "Owner": "xander71988",
+        "Reply Count": "2",
+        "View Count": "5.2k",
+        "Activity Date": "Created: Jun 19, 2023 3:41 pm\nLatest: Jul 23, 2023 6:19 pm"
+    },
+    {
+        "Topic": "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity",
+        "Link": "https://discuss.huggingface.co/t/switch-transformers-scaling-to-trillion-parameter-models-with-simple-and-efficient-sparsity/3137",
+        "Owner": "FL33TW00D",
+        "Reply Count": "1",
+        "View Count": "1.6k",
+        "Activity Date": "Created: Jan 12, 2021 8:13 am\nLatest: Jan 20, 2021 7:45 pm"
+    },
+    {
+        "Topic": "Not all BLEU scores were created equal",
+        "Link": "https://discuss.huggingface.co/t/not-all-bleu-scores-were-created-equal/1154",
+        "Owner": "stas",
+        "Reply Count": "0",
+        "View Count": "312",
+        "Activity Date": "Created: Sep 15, 2020 11:45 pm\nLatest: Sep 15, 2020 11:45 pm"
+    },
+    {
+        "Topic": "Citing/Crediting Language Models",
+        "Link": "https://discuss.huggingface.co/t/citing-crediting-language-models/8877",
+        "Owner": "Secret",
+        "Reply Count": "6",
+        "View Count": "14.4k",
+        "Activity Date": "Created: Jul 31, 2021 4:51 pm\nLatest: Jan 30, 2025 4:30 am"
+    },
+    {
+        "Topic": "Confidence Scores / Self-Training for Wav2Vec2 / CTC models",
+        "Link": "https://discuss.huggingface.co/t/confidence-scores-self-training-for-wav2vec2-ctc-models/17050",
+        "Owner": "patrickvonplaten",
+        "Reply Count": "1",
+        "View Count": "3.6k",
+        "Activity Date": "Created: Apr 21, 2022 10:57 am\nLatest: Apr 21, 2022 11:14 am"
+    },
+    {
+        "Topic": "Discovery of Unsafe Models on Hugging Face Platform",
+        "Link": "https://discuss.huggingface.co/t/discovery-of-unsafe-models-on-hugging-face-platform/51036",
+        "Owner": "Raytsang",
+        "Reply Count": "0",
+        "View Count": "1.5k",
+        "Activity Date": "Created: Aug 17, 2023 1:09 am"
+    },
+    {
+        "Topic": "What can transformers learn without position encoding?",
+        "Link": "https://discuss.huggingface.co/t/what-can-transformers-learn-without-position-encoding/6554",
+        "Owner": "thecity2",
+        "Reply Count": "1",
+        "View Count": "3.0k",
+        "Activity Date": "Created: Jun 3, 2021 3:52 pm\nLatest: Jun 10, 2021 8:18 am"
+    },
+    {
+        "Topic": "How to use T5 for sentence embedding?",
+        "Link": "https://discuss.huggingface.co/t/how-to-use-t5-for-sentence-embedding/1097",
+        "Owner": "banucool",
+        "Reply Count": "6",
+        "View Count": "15.8k",
+        "Activity Date": "Created: Sep 12, 2020 12:11 pm\nLatest: May 27, 2023 2:25 am"
+    },
+    {
+        "Topic": "How to fine tune fine tune GitHub Copilot?",
+        "Link": "https://discuss.huggingface.co/t/how-to-fine-tune-fine-tune-github-copilot/18889",
+        "Owner": "neo-benjamin",
+        "Reply Count": "3",
+        "View Count": "3.6k",
+        "Activity Date": "Created: Jun 9, 2022 4:26 am\nLatest: Jun 24, 2022 1:40 pm"
+    },
+    {
+        "Topic": "Confidence Scores / Self-Training for Wav2Vec2 / CTC models With LM (PyCTCDecode)",
+        "Link": "https://discuss.huggingface.co/t/confidence-scores-self-training-for-wav2vec2-ctc-models-with-lm-pyctcdecode/17052",
+        "Owner": "patrickvonplaten",
+        "Reply Count": "1",
+        "View Count": "2.8k",
+        "Activity Date": "Created: Apr 21, 2022 11:13 am\nLatest: Apr 21, 2022 1:35 pm"
+    },
+    {
+        "Topic": "More expressive attention with negative weights",
+        "Link": "https://discuss.huggingface.co/t/more-expressive-attention-with-negative-weights/119667",
+        "Owner": "AngLv",
+        "Reply Count": "1",
+        "View Count": "279",
+        "Activity Date": "Created: Nov 14, 2024 8:06 am\nLatest: Nov 14, 2024 8:53 am"
+    },
+    {
+        "Topic": "Understanding FLOPs-per-token estimates from OpenAI’s scaling laws",
+        "Link": "https://discuss.huggingface.co/t/understanding-flops-per-token-estimates-from-openais-scaling-laws/23133",
+        "Owner": "lewtun",
+        "Reply Count": "6",
+        "View Count": "14.4k",
+        "Activity Date": "Created: Sep 14, 2022 1:19 pm\nLatest: Sep 20, 2023 3:41 pm"
+    },
+    {
+        "Topic": "Looking for a Translation Model for English to 100+ Languages, Comparable to DeepL or Google, for Local Deployment",
+        "Link": "https://discuss.huggingface.co/t/looking-for-a-translation-model-for-english-to-100-languages-comparable-to-deepl-or-google-for-local-deployment/55065",
+        "Owner": "Miroslaw",
+        "Reply Count": "4",
+        "View Count": "17.0k",
+        "Activity Date": "Created: Sep 14, 2023 9:02 pm\nLatest: Sep 6, 2024 12:58 pm"
+    },
+    {
+        "Topic": "Using mixup on RoBERTa",
+        "Link": "https://discuss.huggingface.co/t/using-mixup-on-roberta/306",
+        "Owner": "franborjavalero",
+        "Reply Count": "7",
+        "View Count": "2.3k",
+        "Activity Date": "Created: Jul 15, 2020 1:44 pm\nLatest: Dec 18, 2024 3:06 pm"
+    },
+    {
+        "Topic": "XLSR-Wav2Vec2 with punctuation",
+        "Link": "https://discuss.huggingface.co/t/xlsr-wav2vec2-with-punctuation/5775",
+        "Owner": "boris",
+        "Reply Count": "1",
+        "View Count": "1.4k",
+        "Activity Date": "Created: Apr 26, 2021 2:07 pm\nLatest: Oct 12, 2022 5:24 pm"
+    },
+    {
+        "Topic": "A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?",
+        "Link": "https://discuss.huggingface.co/t/a-complete-survey-on-generative-ai-aigc-is-chatgpt-from-gpt-4-to-gpt-5-all-you-need/35606",
+        "Owner": "lch934007581",
+        "Reply Count": "3",
+        "View Count": "3.0k",
+        "Activity Date": "Created: Apr 5, 2023 4:54 am\nLatest: Sep 23, 2024 3:09 pm"
+    },
+    {
+        "Topic": "How can I replicate the research paper?",
+        "Link": "https://discuss.huggingface.co/t/how-can-i-replicate-the-research-paper/66616",
+        "Owner": "JaiSurya",
+        "Reply Count": "1",
+        "View Count": "638",
+        "Activity Date": "Created: Dec 21, 2023 1:00 pm\nLatest: Dec 22, 2023 5:57 pm"
+    },
+    {
+        "Topic": "Text to Speech Alignment with Transformers",
+        "Link": "https://discuss.huggingface.co/t/text-to-speech-alignment-with-transformers/16166",
+        "Owner": "simonschoe",
+        "Reply Count": "2",
+        "View Count": "5.1k",
+        "Activity Date": "Created: Mar 28, 2022 2:00 pm\nLatest: Apr 20, 2022 7:17 am"
+    },
+    {
+        "Topic": "New seq2seq tool: search hparam space with run_eval.py",
+        "Link": "https://discuss.huggingface.co/t/new-seq2seq-tool-search-hparam-space-with-run-eval-py/1166",
+        "Owner": "stas",
+        "Reply Count": "5",
+        "View Count": "347",
+        "Activity Date": "Created: Sep 16, 2020 8:21 pm\nLatest: Sep 17, 2020 12:11 pm"
+    },
+    {
+        "Topic": "Merry Christmas & We have released “Awesome-Neuro-Symbolic-Learning-with-LLM”",
+        "Link": "https://discuss.huggingface.co/t/merry-christmas-we-have-released-awesome-neuro-symbolic-learning-with-llm/133045",
+        "Owner": "Guolz",
+        "Reply Count": "0",
+        "View Count": "84",
+        "Activity Date": "Created: Dec 26, 2024 2:00 am"
+    },
+    {
+        "Topic": "Using NLP for People On Low Income in the UK",
+        "Link": "https://discuss.huggingface.co/t/using-nlp-for-people-on-low-income-in-the-uk/10268",
+        "Owner": "woisme",
+        "Reply Count": "0",
+        "View Count": "836",
+        "Activity Date": "Created: Sep 24, 2021 8:46 am\nLatest: Sep 27, 2023 10:19 pm"
+    },
+    {
+        "Topic": "Translation model to 100+ Languages",
+        "Link": "https://discuss.huggingface.co/t/translation-model-to-100-languages/109193",
+        "Owner": "Danny28",
+        "Reply Count": "4",
+        "View Count": "1.1k",
+        "Activity Date": "Created: Sep 28, 2024 5:32 pm\nLatest: Jan 25, 2025 5:07 pm"
+    },
+    {
+        "Topic": "[Call for participation] Interactive Grounded Language Understanding in a Collaborative Environment (IGLU) Competition@NeurIPS2021",
+        "Link": "https://discuss.huggingface.co/t/call-for-participation-interactive-grounded-language-understanding-in-a-collaborative-environment-iglu-competition-neurips2021/9851",
+        "Owner": "JuliaKiseleva",
+        "Reply Count": "0",
+        "View Count": "721",
+        "Activity Date": "Created: Sep 9, 2021 2:41 pm"
+    },
+    {
+        "Topic": "Understanding what went wrong in attention",
+        "Link": "https://discuss.huggingface.co/t/understanding-what-went-wrong-in-attention/386",
+        "Owner": "prajjwal1",
+        "Reply Count": "5",
+        "View Count": "1.6k",
+        "Activity Date": "Created: Jul 20, 2020 5:27 am\nLatest: Jul 31, 2020 2:19 pm"
+    },
+    {
+        "Topic": "New: Distributed GPU Platform",
+        "Link": "https://discuss.huggingface.co/t/new-distributed-gpu-platform/59932",
+        "Owner": "botch",
+        "Reply Count": "2",
+        "View Count": "630",
+        "Activity Date": "Created: Oct 25, 2023 11:11 pm\nLatest: Nov 8, 2023 1:00 pm"
+    },
+    {
+        "Topic": "[Suggestions and Guidance]Finetuning Bert models for Next word Prediction",
+        "Link": "https://discuss.huggingface.co/t/suggestions-and-guidance-finetuning-bert-models-for-next-word-prediction/14043",
+        "Owner": "sumba",
+        "Reply Count": "4",
+        "View Count": "4.8k",
+        "Activity Date": "Created: Jan 24, 2022 11:15 am\nLatest: Jan 26, 2022 3:11 pm"
+    },
+    {
+        "Topic": "What are some recommended pretrained models for extracting semantic feature on single sentence?",
+        "Link": "https://discuss.huggingface.co/t/what-are-some-recommended-pretrained-models-for-extracting-semantic-feature-on-single-sentence/2698",
+        "Owner": "zuujhyt",
+        "Reply Count": "4",
+        "View Count": "1.5k",
+        "Activity Date": "Created: Dec 8, 2020 2:32 pm\nLatest: Dec 14, 2020 3:57 am"
+    },
+    {
+        "Topic": "Why are segment and position embeddings so large?",
+        "Link": "https://discuss.huggingface.co/t/why-are-segment-and-position-embeddings-so-large/254",
+        "Owner": "BramVanroy",
+        "Reply Count": "2",
+        "View Count": "1.5k",
+        "Activity Date": "Created: Jul 13, 2020 3:40 pm\nLatest: Aug 2, 2020 11:59 am"
+    },
+    {
+        "Topic": "Shortformer: Better Language Modeling using Shorter Inputs",
+        "Link": "https://discuss.huggingface.co/t/shortformer-better-language-modeling-using-shorter-inputs/3007",
+        "Owner": "FL33TW00D",
+        "Reply Count": "0",
+        "View Count": "467",
+        "Activity Date": "Created: Dec 31, 2020 10:02 am"
+    },
+    {
+        "Topic": "Similarity search with combined image and text?",
+        "Link": "https://discuss.huggingface.co/t/similarity-search-with-combined-image-and-text/19168",
+        "Owner": "neo-benjamin",
+        "Reply Count": "6",
+        "View Count": "3.1k",
+        "Activity Date": "Created: Jun 14, 2022 11:36 pm\nLatest: Jun 24, 2022 4:35 am"
+    },
+    {
+        "Topic": "Coral USB Edge TPU coprocessor",
+        "Link": "https://discuss.huggingface.co/t/coral-usb-edge-tpu-coprocessor/80941",
+        "Owner": "tazbytes",
+        "Reply Count": "0",
+        "View Count": "452",
+        "Activity Date": "Created: Apr 9, 2024 6:30 pm"
+    },
+    {
+        "Topic": "Seq2Seq Distillation: Methodology Questions",
+        "Link": "https://discuss.huggingface.co/t/seq2seq-distillation-methodology-questions/1270",
+        "Owner": "sshleifer",
+        "Reply Count": "7",
+        "View Count": "2.7k",
+        "Activity Date": "Created: Sep 27, 2020 6:17 pm\nLatest: Aug 7, 2023 4:12 pm"
+    },
+    {
+        "Topic": "Dealing with Imbalanced Datasets?",
+        "Link": "https://discuss.huggingface.co/t/dealing-with-imbalanced-datasets/4328",
+        "Owner": "aguarius",
+        "Reply Count": "1",
+        "View Count": "5.3k",
+        "Activity Date": "Created: Mar 11, 2021 9:18 pm\nLatest: Mar 11, 2021 10:05 pm"
+    },
+    {
+        "Topic": "Using transformers (BERT, RoBERTa) without embedding layer",
+        "Link": "https://discuss.huggingface.co/t/using-transformers-bert-roberta-without-embedding-layer/2807",
+        "Owner": "tueboesen",
+        "Reply Count": "8",
+        "View Count": "4.1k",
+        "Activity Date": "Created: Dec 13, 2020 6:16 pm\nLatest: Dec 16, 2020 9:00 pm"
+    },
+    {
+        "Topic": "How to get the probabilities of each class when we use T5 or Flan",
+        "Link": "https://discuss.huggingface.co/t/how-to-get-the-probabilities-of-each-class-when-we-use-t5-or-flan/70326",
+        "Owner": "SaraAmd",
+        "Reply Count": "0",
+        "View Count": "384",
+        "Activity Date": "Created: Jan 23, 2024 10:18 pm"
+    },
+    {
+        "Topic": "Pre-training with Lamb optimizer",
+        "Link": "https://discuss.huggingface.co/t/pre-training-with-lamb-optimizer/1647",
+        "Owner": "vblagoje",
+        "Reply Count": "7",
+        "View Count": "4.2k",
+        "Activity Date": "Created: Oct 20, 2020 9:12 am\nLatest: Dec 28, 2020 5:24 pm"
+    },
+    {
+        "Topic": "Carrying Gradients Through Generate",
+        "Link": "https://discuss.huggingface.co/t/carrying-gradients-through-generate/301",
+        "Owner": "chrisdoyleIE",
+        "Reply Count": "5",
+        "View Count": "2.6k",
+        "Activity Date": "Created: Jul 15, 2020 11:45 am\nLatest: Jan 29, 2023 10:57 pm"
+    },
+    {
+        "Topic": "Extracting information from bills, tax statements, etc: What ML model to use?",
+        "Link": "https://discuss.huggingface.co/t/extracting-information-from-bills-tax-statements-etc-what-ml-model-to-use/16641",
+        "Owner": "anoldmaninthesea",
+        "Reply Count": "3",
+        "View Count": "3.1k",
+        "Activity Date": "Created: Apr 9, 2022 10:40 am\nLatest: Aug 28, 2024 1:07 pm"
+    },
+    {
+        "Topic": "Evaluation metrics for BERT-like LMs",
+        "Link": "https://discuss.huggingface.co/t/evaluation-metrics-for-bert-like-lms/1256",
+        "Owner": "vblagoje",
+        "Reply Count": "4",
+        "View Count": "4.5k",
+        "Activity Date": "Created: Sep 24, 2020 8:16 pm\nLatest: Dec 6, 2024 12:03 pm"
+    },
+    {
+        "Topic": "GPT-2 in DNA data",
+        "Link": "https://discuss.huggingface.co/t/gpt-2-in-dna-data/22753",
+        "Owner": "mdelas",
+        "Reply Count": "1",
+        "View Count": "1.3k",
+        "Activity Date": "Created: Sep 8, 2022 11:11 am\nLatest: Aug 6, 2023 2:37 am"
+    },
+    {
+        "Topic": "Strategies for Enhancing LLM’s Understanding of a Complex Novel for Improved Question Answering",
+        "Link": "https://discuss.huggingface.co/t/strategies-for-enhancing-llms-understanding-of-a-complex-novel-for-improved-question-answering/69763",
+        "Owner": "Adidev20",
+        "Reply Count": "1",
+        "View Count": "1.3k",
+        "Activity Date": "Created: Jan 19, 2024 10:48 am\nLatest: Jan 19, 2024 10:54 am"
+    },
+    {
+        "Topic": "How to correctly cite Hugging Face Transformer model_doc",
+        "Link": "https://discuss.huggingface.co/t/how-to-correctly-cite-hugging-face-transformer-model-doc/50185",
+        "Owner": "Ficht",
+        "Reply Count": "1",
+        "View Count": "7.1k",
+        "Activity Date": "Created: Aug 9, 2023 8:20 pm\nLatest: Oct 25, 2023 10:28 am"
+    },
+    {
+        "Topic": "Few-shot learning vs Fine-Tuning",
+        "Link": "https://discuss.huggingface.co/t/few-shot-learning-vs-fine-tuning/41024",
+        "Owner": "0mij",
+        "Reply Count": "0",
+        "View Count": "1.8k",
+        "Activity Date": "Created: May 26, 2023 12:40 am"
+    },
+    {
+        "Topic": "State of the art technique for initializing Embedding Matrix?",
+        "Link": "https://discuss.huggingface.co/t/state-of-the-art-technique-for-initializing-embedding-matrix/326",
+        "Owner": "kushaj",
+        "Reply Count": "3",
+        "View Count": "4.9k",
+        "Activity Date": "Created: Jul 16, 2020 5:55 pm\nLatest: Jul 19, 2020 12:18 pm"
+    },
+    {
+        "Topic": "`nan` training loss but eval loss does improve over time",
+        "Link": "https://discuss.huggingface.co/t/nan-training-loss-but-eval-loss-does-improve-over-time/4521",
+        "Owner": "jjdv",
+        "Reply Count": "5",
+        "View Count": "3.9k",
+        "Activity Date": "Created: Mar 17, 2021 7:53 pm\nLatest: Oct 10, 2022 10:43 am"
+    },
+    {
+        "Topic": "Modern NLP for “Economics of Innovation” (Open Research Project using Patent Data)",
+        "Link": "https://discuss.huggingface.co/t/modern-nlp-for-economics-of-innovation-open-research-project-using-patent-data/235",
+        "Owner": "anthonyfuller",
+        "Reply Count": "4",
+        "View Count": "753",
+        "Activity Date": "Created: Jul 12, 2020 3:40 pm\nLatest: Jul 14, 2020 4:39 pm"
+    },
+    {
+        "Topic": "Open source psychology project using HF sentence transformers",
+        "Link": "https://discuss.huggingface.co/t/open-source-psychology-project-using-hf-sentence-transformers/73174",
+        "Owner": "woodthom",
+        "Reply Count": "6",
+        "View Count": "357",
+        "Activity Date": "Created: Feb 14, 2024 2:28 pm\nLatest: Jan 3, 2025 12:54 pm"
+    },
+    {
+        "Topic": "Combinatorial Optimization with LLMs/Transformers",
+        "Link": "https://discuss.huggingface.co/t/combinatorial-optimization-with-llms-transformers/39623",
+        "Owner": "wlakinsson",
+        "Reply Count": "7",
+        "View Count": "1.9k",
+        "Activity Date": "Created: May 12, 2023 9:30 am\nLatest: Feb 8, 2025 9:25 pm"
+    },
+    {
+        "Topic": "Text similarity not by cosine similarity",
+        "Link": "https://discuss.huggingface.co/t/text-similarity-not-by-cosine-similarity/8766",
+        "Owner": "yanagar25",
+        "Reply Count": "3",
+        "View Count": "4.6k",
+        "Activity Date": "Created: Jul 28, 2021 1:06 pm\nLatest: Apr 12, 2022 5:52 am"
+    },
+    {
+        "Topic": "Encoder-Decoder vs Decoder Only Architecture Models",
+        "Link": "https://discuss.huggingface.co/t/encoder-decoder-vs-decoder-only-architecture-models/28075",
+        "Owner": "sisilmet2000",
+        "Reply Count": "0",
+        "View Count": "1.5k",
+        "Activity Date": "Created: Dec 18, 2022 7:27 pm"
+    },
+    {
+        "Topic": "Question about maximum number of tokens",
+        "Link": "https://discuss.huggingface.co/t/question-about-maximum-number-of-tokens/3544",
+        "Owner": "sudarshan85",
+        "Reply Count": "1",
+        "View Count": "5.9k",
+        "Activity Date": "Created: Feb 8, 2021 11:47 pm\nLatest: Feb 9, 2021 9:01 am"
+    },
+    {
+        "Topic": "Continue pre-training GPT2",
+        "Link": "https://discuss.huggingface.co/t/continue-pre-training-gpt2/34692",
+        "Owner": "IdoAmit198",
+        "Reply Count": "1",
+        "View Count": "556",
+        "Activity Date": "Created: Mar 26, 2023 7:29 am\nLatest: Mar 12, 2025 6:16 am"
+    },
+    {
+        "Topic": "How I fine-tune BART for summarization using large texts?",
+        "Link": "https://discuss.huggingface.co/t/how-i-fine-tune-bart-for-summarization-using-large-texts/1266",
+        "Owner": "thiagocmoreira",
+        "Reply Count": "3",
+        "View Count": "3.9k",
+        "Activity Date": "Created: Sep 27, 2020 4:02 am\nLatest: Sep 28, 2020 6:15 am"
+    },
+    {
+        "Topic": "Is there a open source implementation of “Deep Learning Based Page Layout Analyze”?",
+        "Link": "https://discuss.huggingface.co/t/is-there-a-open-source-implementation-of-deep-learning-based-page-layout-analyze/19557",
+        "Owner": "neo-benjamin",
+        "Reply Count": "5",
+        "View Count": "1.8k",
+        "Activity Date": "Created: Jun 24, 2022 2:47 am\nLatest: May 21, 2024 10:38 am"
+    },
+    {
+        "Topic": "Implementing a custom Attention Transformer",
+        "Link": "https://discuss.huggingface.co/t/implementing-a-custom-attention-transformer/9702",
+        "Owner": "iakarshu",
+        "Reply Count": "5",
+        "View Count": "3.1k",
+        "Activity Date": "Created: Sep 3, 2021 4:54 am\nLatest: Sep 6, 2021 10:14 am"
+    },
+    {
+        "Topic": "LLM for autism research",
+        "Link": "https://discuss.huggingface.co/t/llm-for-autism-research/48795",
+        "Owner": "monorange",
+        "Reply Count": "4",
+        "View Count": "1.0k",
+        "Activity Date": "Created: Jul 31, 2023 10:15 am\nLatest: Jul 13, 2024 9:33 am"
+    },
+    {
+        "Topic": "Improving performance of Wav2Vec2 fine tuning with word piece vocabulary",
+        "Link": "https://discuss.huggingface.co/t/improving-performance-of-wav2vec2-fine-tuning-with-word-piece-vocabulary/6292",
+        "Owner": "SamuelAzran",
+        "Reply Count": "5",
+        "View Count": "2.9k",
+        "Activity Date": "Created: May 21, 2021 1:31 pm\nLatest: Oct 27, 2021 3:02 am"
+    },
+    {
+        "Topic": "LayoutLMv3 paper review and fine tuning code",
+        "Link": "https://discuss.huggingface.co/t/layoutlmv3-paper-review-and-fine-tuning-code/19495",
+        "Owner": "moma1820",
+        "Reply Count": "0",
+        "View Count": "1.2k",
+        "Activity Date": "Created: Jun 23, 2022 9:13 am"
+    },
+    {
+        "Topic": "Understanding Technical Drawings",
+        "Link": "https://discuss.huggingface.co/t/understanding-technical-drawings/78903",
+        "Owner": "Fireche",
+        "Reply Count": "2",
+        "View Count": "395",
+        "Activity Date": "Created: Mar 27, 2024 9:38 am\nLatest: Jan 22, 2025 9:21 am"
+    },
+    {
+        "Topic": "A complete survey on ChatGPT: One Small Step for Generative AI, One Giant Leap for AGI",
+        "Link": "https://discuss.huggingface.co/t/a-complete-survey-on-chatgpt-one-small-step-for-generative-ai-one-giant-leap-for-agi/35607",
+        "Owner": "lch934007581",
+        "Reply Count": "0",
+        "View Count": "1.2k",
+        "Activity Date": "Created: Apr 5, 2023 5:04 am"
+    },
+    {
+        "Topic": "A criticism of instruction fine-tuning datasets",
+        "Link": "https://discuss.huggingface.co/t/a-criticism-of-instruction-fine-tuning-datasets/43757",
+        "Owner": "NewsSoup",
+        "Reply Count": "2",
+        "View Count": "2.1k",
+        "Activity Date": "Created: Jun 19, 2023 9:01 am\nLatest: Jun 20, 2023 7:52 am"
+    },
+    {
+        "Topic": "Masked Language Model Scoring",
+        "Link": "https://discuss.huggingface.co/t/masked-language-model-scoring/5541",
+        "Owner": "david-waterworth",
+        "Reply Count": "5",
+        "View Count": "2.6k",
+        "Activity Date": "Created: Apr 16, 2021 3:56 am\nLatest: Jun 15, 2023 9:33 pm"
+    },
+    {
+        "Topic": "Language model to search an answer in a huge collection of (unrelated) paragraphs",
+        "Link": "https://discuss.huggingface.co/t/language-model-to-search-an-answer-in-a-huge-collection-of-unrelated-paragraphs/2210",
+        "Owner": "billconan",
+        "Reply Count": "4",
+        "View Count": "1.5k",
+        "Activity Date": "Created: Nov 25, 2020 6:59 pm\nLatest: Jul 6, 2021 12:40 pm"
+    },
+    {
+        "Topic": "Task-specific fine-tuning of GPT2",
+        "Link": "https://discuss.huggingface.co/t/task-specific-fine-tuning-of-gpt2/5700",
+        "Owner": "danyaljj",
+        "Reply Count": "0",
+        "View Count": "1.0k",
+        "Activity Date": "Created: Apr 22, 2021 7:37 pm\nLatest: Apr 22, 2021 11:09 pm"
+    },
+    {
+        "Topic": "Model that can generate both text and image as output",
+        "Link": "https://discuss.huggingface.co/t/model-that-can-generate-both-text-and-image-as-output/132209",
+        "Owner": "BibhutiPadhi",
+        "Reply Count": "5",
+        "View Count": "424",
+        "Activity Date": "Created: Dec 19, 2024 6:29 am\nLatest: Dec 31, 2024 12:15 am"
+    },
+    {
+        "Topic": "Is there an easy way to apply layer-wise decaying learning rate in huggingface trainer for RobertaMaskedForLM?",
+        "Link": "https://discuss.huggingface.co/t/is-there-an-easy-way-to-apply-layer-wise-decaying-learning-rate-in-huggingface-trainer-for-robertamaskedforlm/1599",
+        "Owner": "abhi1nandy2",
+        "Reply Count": "3",
+        "View Count": "2.9k",
+        "Activity Date": "Created: Oct 17, 2020 9:31 am\nLatest: Apr 5, 2022 9:01 am"
+    },
+    {
+        "Topic": "Attention mask and token ids",
+        "Link": "https://discuss.huggingface.co/t/attention-mask-and-token-ids/15243",
+        "Owner": "bhavinmoriya",
+        "Reply Count": "1",
+        "View Count": "2.2k",
+        "Activity Date": "Created: Mar 1, 2022 11:23 pm\nLatest: Oct 18, 2022 2:37 pm"
+    },
+    {
+        "Topic": "Open API standard for open-source LLMs",
+        "Link": "https://discuss.huggingface.co/t/open-api-standard-for-open-source-llms/45241",
+        "Owner": "imone",
+        "Reply Count": "0",
+        "View Count": "863",
+        "Activity Date": "Created: Jul 1, 2023 9:47 am"
+    },
+    {
+        "Topic": "Free Access for Masters Dissertation",
+        "Link": "https://discuss.huggingface.co/t/free-access-for-masters-dissertation/71211",
+        "Owner": "johnrellis",
+        "Reply Count": "1",
+        "View Count": "609",
+        "Activity Date": "Created: Jan 30, 2024 4:07 pm\nLatest: Feb 2, 2024 8:06 pm"
+    },
+    {
+        "Topic": "About the encoder and generator used in the RAG model",
+        "Link": "https://discuss.huggingface.co/t/about-the-encoder-and-generator-used-in-the-rag-model/2959",
+        "Owner": "zuujhyt",
+        "Reply Count": "2",
+        "View Count": "848",
+        "Activity Date": "Created: Dec 25, 2020 9:25 am\nLatest: Dec 25, 2020 6:08 pm"
+    },
+    {
+        "Topic": "Debiasing models by HEX projection",
+        "Link": "https://discuss.huggingface.co/t/debiasing-models-by-hex-projection/473",
+        "Owner": "prajjwal1",
+        "Reply Count": "1",
+        "View Count": "519",
+        "Activity Date": "Created: Jul 25, 2020 4:47 pm\nLatest: Jul 28, 2020 5:53 am"
+    },
+    {
+        "Topic": "The Tree Oil Painting: AI Unlocks a 10-Year Art Mystery",
+        "Link": "https://discuss.huggingface.co/t/the-tree-oil-painting-ai-unlocks-a-10-year-art-mystery/146071",
+        "Owner": "HaruthaiAi",
+        "Reply Count": "0",
+        "View Count": "23",
+        "Activity Date": "Created: Mar 17, 2025 5:42 am"
+    },
+    {
+        "Topic": "Profiling all layers of a model",
+        "Link": "https://discuss.huggingface.co/t/profiling-all-layers-of-a-model/70694",
+        "Owner": "cristobalo",
+        "Reply Count": "0",
+        "View Count": "720",
+        "Activity Date": "Created: Jan 26, 2024 9:04 am"
+    },
+    {
+        "Topic": "Incorporating structural information in a Transformer?",
+        "Link": "https://discuss.huggingface.co/t/incorporating-structural-information-in-a-transformer/16554",
+        "Owner": "neo-benjamin",
+        "Reply Count": "0",
+        "View Count": "717",
+        "Activity Date": "Created: Apr 6, 2022 7:50 pm"
+    },
+    {
+        "Topic": "Can you use both copy mechanism and BPE for a NMT task?",
+        "Link": "https://discuss.huggingface.co/t/can-you-use-both-copy-mechanism-and-bpe-for-a-nmt-task/16531",
+        "Owner": "neo-benjamin",
+        "Reply Count": "0",
+        "View Count": "712",
+        "Activity Date": "Created: Apr 6, 2022 11:44 am"
+    },
+    {
+        "Topic": "Meta Persona an abstract adaptive neural construct",
+        "Link": "https://discuss.huggingface.co/t/meta-persona-an-abstract-adaptive-neural-construct/2208",
+        "Owner": "cubytes",
+        "Reply Count": "0",
+        "View Count": "710",
+        "Activity Date": "Created: Nov 25, 2020 6:27 pm"
+    },
+    {
+        "Topic": "EFFECTIVE PROMPTING - ReACT & GRAPHS",
+        "Link": "https://discuss.huggingface.co/t/effective-prompting-react-graphs/108302",
+        "Owner": "LeroyDyer",
+        "Reply Count": "2",
+        "View Count": "229",
+        "Activity Date": "Created: Sep 24, 2024 5:57 am\nLatest: Oct 2, 2024 6:39 am"
+    },
+    {
+        "Topic": "Transformer for Abstractive Summarization for Chats Based on Performance",
+        "Link": "https://discuss.huggingface.co/t/transformer-for-abstractive-summarization-for-chats-based-on-performance/731",
+        "Owner": "anant0308",
+        "Reply Count": "3",
+        "View Count": "1.9k",
+        "Activity Date": "Created: Aug 17, 2020 1:01 pm\nLatest: Oct 9, 2020 3:06 pm"
+    },
+    {
+        "Topic": "Resources on interpretability of wav2vec-style speech models",
+        "Link": "https://discuss.huggingface.co/t/resources-on-interpretability-of-wav2vec-style-speech-models/23050",
+        "Owner": "arsenious",
+        "Reply Count": "0",
+        "View Count": "631",
+        "Activity Date": "Created: Sep 12, 2022 11:53 pm"
+    },
+    {
+        "Topic": "Different response from different UI’s",
+        "Link": "https://discuss.huggingface.co/t/different-response-from-different-uis/115192",
+        "Owner": "marvinsnell",
+        "Reply Count": "3",
+        "View Count": "169",
+        "Activity Date": "Created: Nov 2, 2024 3:28 pm\nLatest: Mar 6, 2025 2:10 am"
+    },
+    {
+        "Topic": "Extracting Training Data from GPT-2 (+ Differential Privacy)",
+        "Link": "https://discuss.huggingface.co/t/extracting-training-data-from-gpt-2-differential-privacy/6596",
+        "Owner": "n2cholas",
+        "Reply Count": "2",
+        "View Count": "1.9k",
+        "Activity Date": "Created: Jun 6, 2021 6:12 am\nLatest: Nov 9, 2023 3:43 am"
+    },
+    {
+        "Topic": "Embeddings from the Decoder only model",
+        "Link": "https://discuss.huggingface.co/t/embeddings-from-the-decoder-only-model/107497",
+        "Owner": "manojkumar427",
+        "Reply Count": "4",
+        "View Count": "825",
+        "Activity Date": "Created: Sep 20, 2024 1:36 pm\nLatest: Oct 8, 2024 8:09 am"
+    },
+    {
+        "Topic": "Collaborative Training Experiment Round 2 with Yandex and HuggingFace",
+        "Link": "https://discuss.huggingface.co/t/collaborative-training-experiment-round-2-with-yandex-and-huggingface/9674",
+        "Owner": "tanmoyio",
+        "Reply Count": "0",
+        "View Count": "565",
+        "Activity Date": "Created: Sep 1, 2021 4:17 pm"
+    },
+    {
+        "Topic": "Best way to infer continuously with Transformer?",
+        "Link": "https://discuss.huggingface.co/t/best-way-to-infer-continuously-with-transformer/8690",
+        "Owner": "treeofknowledge",
+        "Reply Count": "0",
+        "View Count": "557",
+        "Activity Date": "Created: Jul 26, 2021 12:11 pm"
+    },
+    {
+        "Topic": "[Help needed] Extending Trainer for Meta learning",
+        "Link": "https://discuss.huggingface.co/t/help-needed-extending-trainer-for-meta-learning/635",
+        "Owner": "prajjwal1",
+        "Reply Count": "3",
+        "View Count": "1.6k",
+        "Activity Date": "Created: Aug 8, 2020 11:31 am\nLatest: Oct 19, 2021 3:23 pm"
+    },
+    {
+        "Topic": "Can we access attention component and feed-forward component of a Bert layer?",
+        "Link": "https://discuss.huggingface.co/t/can-we-access-attention-component-and-feed-forward-component-of-a-bert-layer/22549",
+        "Owner": "neeraj1909",
+        "Reply Count": "2",
+        "View Count": "966",
+        "Activity Date": "Created: Sep 5, 2022 8:01 am\nLatest: Sep 23, 2024 10:06 am"
+    },
+    {
+        "Topic": "Analysis of attention map",
+        "Link": "https://discuss.huggingface.co/t/analysis-of-attention-map/112812",
+        "Owner": "allenwang37",
+        "Reply Count": "2",
+        "View Count": "167",
+        "Activity Date": "Created: Oct 19, 2024 1:29 pm\nLatest: Oct 24, 2024 12:54 am"
+    },
+    {
+        "Topic": "Why do the commit histories of Hugging Face’s datasets and models appear recent? Weren’t these datasets and models uploaded a while ago?",
+        "Link": "https://discuss.huggingface.co/t/why-do-the-commit-histories-of-hugging-faces-datasets-and-models-appear-recent-werent-these-datasets-and-models-uploaded-a-while-ago/16595",
+        "Owner": "Elang89",
+        "Reply Count": "2",
+        "View Count": "939",
+        "Activity Date": "Created: Apr 7, 2022 6:32 pm\nLatest: Apr 8, 2022 3:50 pm"
+    },
+    {
+        "Topic": "Finetuning for fp16 compatibility",
+        "Link": "https://discuss.huggingface.co/t/finetuning-for-fp16-compatibility/977",
+        "Owner": "sshleifer",
+        "Reply Count": "2",
+        "View Count": "1.7k",
+        "Activity Date": "Created: Sep 3, 2020 5:26 pm\nLatest: Jun 17, 2021 10:33 am"
+    },
+    {
+        "Topic": "(Research/Personal) Projects Ideas",
+        "Link": "https://discuss.huggingface.co/t/research-personal-projects-ideas/71651",
+        "Owner": "Upmind",
+        "Reply Count": "2",
+        "View Count": "1.7k",
+        "Activity Date": "Created: Feb 2, 2024 9:26 pm\nLatest: Nov 29, 2024 1:02 pm"
+    },
+    {
+        "Topic": "Is there a way to split a news article into subtopic",
+        "Link": "https://discuss.huggingface.co/t/is-there-a-way-to-split-a-news-article-into-subtopic/23436",
+        "Owner": "abdulmatinomotoso",
+        "Reply Count": "4",
+        "View Count": "1.3k",
+        "Activity Date": "Created: Sep 21, 2022 10:53 am\nLatest: Sep 22, 2022 2:23 pm"
+    },
+    {
+        "Topic": "Multilingual token, phrase and sentence representations for text similarity",
+        "Link": "https://discuss.huggingface.co/t/multilingual-token-phrase-and-sentence-representations-for-text-similarity/3167",
+        "Owner": "BramVanroy",
+        "Reply Count": "0",
+        "View Count": "489",
+        "Activity Date": "Created: Jan 13, 2021 8:17 am\nLatest: Jan 13, 2021 8:17 am"
+    },
+    {
+        "Topic": "Seeking Hugging Face Users for Casual Chat About AI Model Openness",
+        "Link": "https://discuss.huggingface.co/t/seeking-hugging-face-users-for-casual-chat-about-ai-model-openness/143407",
+        "Owner": "FabianFle",
+        "Reply Count": "5",
+        "View Count": "112",
+        "Activity Date": "Created: Feb 28, 2025 12:40 pm\nLatest: Mar 4, 2025 4:16 pm"
+    },
+    {
+        "Topic": "Token merging for fast LLM inference",
+        "Link": "https://discuss.huggingface.co/t/token-merging-for-fast-llm-inference/82202",
+        "Owner": "samchain",
+        "Reply Count": "0",
+        "View Count": "476",
+        "Activity Date": "Created: Apr 17, 2024 9:54 am\nLatest: Apr 17, 2024 11:16 am"
+    },
+    {
+        "Topic": "Generating Synthetic Data for Machine Translation of Dialects",
+        "Link": "https://discuss.huggingface.co/t/generating-synthetic-data-for-machine-translation-of-dialects/12753",
+        "Owner": "sparkles",
+        "Reply Count": "2",
+        "View Count": "1.5k",
+        "Activity Date": "Created: Dec 13, 2021 2:03 am\nLatest: Oct 2, 2024 6:04 pm"
+    },
+    {
+        "Topic": "Interest in Contributing PEFT Educational Resources - Seeking Community Input",
+        "Link": "https://discuss.huggingface.co/t/interest-in-contributing-peft-educational-resources-seeking-community-input/131143",
+        "Owner": "bird-of-paradise",
+        "Reply Count": "2",
+        "View Count": "47",
+        "Activity Date": "Created: Dec 15, 2024 2:42 am\nLatest: Dec 15, 2024 4:06 pm"
+    },
+    {
+        "Topic": "Looking for help to use AI (LLM) for a Systematic Literature Review in Soil Biodiversity/agroecology Research",
+        "Link": "https://discuss.huggingface.co/t/looking-for-help-to-use-ai-llm-for-a-systematic-literature-review-in-soil-biodiversity-agroecology-research/137879",
+        "Owner": "LyaVermeire",
+        "Reply Count": "4",
+        "View Count": "113",
+        "Activity Date": "Created: Jan 29, 2025 12:05 pm\nLatest: Feb 1, 2025 1:31 am"
+    },
+    {
+        "Topic": "Best practices for estimating FLOPs-per-token with real datasets?",
+        "Link": "https://discuss.huggingface.co/t/best-practices-for-estimating-flops-per-token-with-real-datasets/23394",
+        "Owner": "lewtun",
+        "Reply Count": "1",
+        "View Count": "1.8k",
+        "Activity Date": "Created: Sep 20, 2022 12:40 pm\nLatest: Sep 20, 2022 1:44 pm"
+    },
+    {
+        "Topic": "Have you submitted feedback about ChatGPT?",
+        "Link": "https://discuss.huggingface.co/t/have-you-submitted-feedback-about-chatgpt/36421",
+        "Owner": "nedcpr",
+        "Reply Count": "4",
+        "View Count": "612",
+        "Activity Date": "Created: Apr 13, 2023 7:00 am\nLatest: Jun 27, 2023 7:17 am"
+    },
+    {
+        "Topic": "Zero shot classification for automated electrocardiogram reports",
+        "Link": "https://discuss.huggingface.co/t/zero-shot-classification-for-automated-electrocardiogram-reports/21594",
+        "Owner": "aksankaran",
+        "Reply Count": "3",
+        "View Count": "1.2k",
+        "Activity Date": "Created: Aug 13, 2022 5:53 pm\nLatest: Aug 26, 2022 6:31 pm"
+    },
+    {
+        "Topic": "Theme Extraction from Text",
+        "Link": "https://discuss.huggingface.co/t/theme-extraction-from-text/67372",
+        "Owner": "jeewankarmakar",
+        "Reply Count": "1",
+        "View Count": "1.7k",
+        "Activity Date": "Created: Dec 29, 2023 9:06 am\nLatest: Dec 29, 2023 4:27 pm"
+    },
+    {
+        "Topic": "Web Search Implementation with LLM",
+        "Link": "https://discuss.huggingface.co/t/web-search-implementation-with-llm/111379",
+        "Owner": "MadhuP",
+        "Reply Count": "1",
+        "View Count": "941",
+        "Activity Date": "Created: Oct 11, 2024 11:35 am\nLatest: Oct 11, 2024 12:04 pm"
+    },
+    {
+        "Topic": "Model or Dataset available for classifying a grammatical sentence?",
+        "Link": "https://discuss.huggingface.co/t/model-or-dataset-available-for-classifying-a-grammatical-sentence/3423",
+        "Owner": "emadg",
+        "Reply Count": "1",
+        "View Count": "1.6k",
+        "Activity Date": "Created: Jan 28, 2021 7:38 pm\nLatest: Feb 3, 2021 6:33 am"
+    },
+    {
+        "Topic": "How does the vocabulary size count towards total parameter size of a model?",
+        "Link": "https://discuss.huggingface.co/t/how-does-the-vocabulary-size-count-towards-total-parameter-size-of-a-model/13833",
+        "Owner": "ehalit",
+        "Reply Count": "0",
+        "View Count": "2.3k",
+        "Activity Date": "Created: Jan 18, 2022 7:28 am"
+    },
+    {
+        "Topic": "Deepseek v3 analysis",
+        "Link": "https://discuss.huggingface.co/t/deepseek-v3-analysis/141490",
+        "Owner": "f0ster",
+        "Reply Count": "0",
+        "View Count": "73",
+        "Activity Date": "Created: Feb 18, 2025 2:15 am"
+    },
+    {
+        "Topic": "Why are embedding / pooler layers excluded from pruning comparisons?",
+        "Link": "https://discuss.huggingface.co/t/why-are-embedding-pooler-layers-excluded-from-pruning-comparisons/3580",
+        "Owner": "lewtun",
+        "Reply Count": "7",
+        "View Count": "784",
+        "Activity Date": "Created: Feb 10, 2021 12:27 pm\nLatest: Feb 16, 2021 9:10 pm"
+    },
+    {
+        "Topic": "Print All Tokens Over a Certain Probability Threshold",
+        "Link": "https://discuss.huggingface.co/t/print-all-tokens-over-a-certain-probability-threshold/329",
+        "Owner": "zanderbush",
+        "Reply Count": "3",
+        "View Count": "1.1k",
+        "Activity Date": "Created: Jul 16, 2020 8:12 pm\nLatest: Jul 21, 2020 4:44 pm"
+    },
+    {
+        "Topic": "Is causal language modeling (CLM) vs masked language modeling (MLM) a common distinction in NLP research?",
+        "Link": "https://discuss.huggingface.co/t/is-causal-language-modeling-clm-vs-masked-language-modeling-mlm-a-common-distinction-in-nlp-research/5665",
+        "Owner": "ComfortEagle",
+        "Reply Count": "0",
+        "View Count": "2.2k",
+        "Activity Date": "Created: Apr 21, 2021 2:30 pm"
+    },
+    {
+        "Topic": "LayoutLM for extraction of information from tables",
+        "Link": "https://discuss.huggingface.co/t/layoutlm-for-extraction-of-information-from-tables/7464",
+        "Owner": "ujjayants",
+        "Reply Count": "1",
+        "View Count": "1.5k",
+        "Activity Date": "Created: Jun 27, 2021 3:43 pm\nLatest: Sep 29, 2022 7:23 am"
+    },
+    {
+        "Topic": "Retrieving Meta Data on Models for Innovation Research",
+        "Link": "https://discuss.huggingface.co/t/retrieving-meta-data-on-models-for-innovation-research/128646",
+        "Owner": "FabianFle",
+        "Reply Count": "0",
+        "View Count": "67",
+        "Activity Date": "Created: Dec 1, 2024 3:06 am"
+    },
+    {
+        "Topic": "Conversational Search and Analysis of Collections of Letters and Comments",
+        "Link": "https://discuss.huggingface.co/t/conversational-search-and-analysis-of-collections-of-letters-and-comments/44463",
+        "Owner": "AdamSobieski",
+        "Reply Count": "3",
+        "View Count": "594",
+        "Activity Date": "Created: Jun 25, 2023 9:38 am\nLatest: Feb 3, 2024 2:57 am"
+    },
+    {
+        "Topic": "Train from scratch vs further pretraining/fine tuning with MLM and NSP",
+        "Link": "https://discuss.huggingface.co/t/train-from-scratch-vs-further-pretraining-fine-tuning-with-mlm-and-nsp/39327",
+        "Owner": "kasticrunch",
+        "Reply Count": "1",
+        "View Count": "1.5k",
+        "Activity Date": "Created: May 9, 2023 9:02 pm\nLatest: Aug 28, 2023 10:54 am"
+    },
+    {
+        "Topic": "Improving Key-Value Pair Extraction with LayoutLM and LiLT on Custom OCR Dataset",
+        "Link": "https://discuss.huggingface.co/t/improving-key-value-pair-extraction-with-layoutlm-and-lilt-on-custom-ocr-dataset/135483",
+        "Owner": "rushabhGod",
+        "Reply Count": "2",
+        "View Count": "121",
+        "Activity Date": "Created: Jan 13, 2025 10:24 am\nLatest: Feb 21, 2025 9:00 pm"
+    },
+    {
+        "Topic": "Large Language Models and Conversational User Interfaces for Interactive Fiction and other Videogames",
+        "Link": "https://discuss.huggingface.co/t/large-language-models-and-conversational-user-interfaces-for-interactive-fiction-and-other-videogames/45390",
+        "Owner": "AdamSobieski",
+        "Reply Count": "2",
+        "View Count": "661",
+        "Activity Date": "Created: Jul 2, 2023 7:46 pm\nLatest: Sep 24, 2024 9:00 pm"
+    },
+    {
+        "Topic": "How to download all the docs?",
+        "Link": "https://discuss.huggingface.co/t/how-to-download-all-the-docs/51669",
+        "Owner": "Imran1",
+        "Reply Count": "4",
+        "View Count": "908",
+        "Activity Date": "Created: Aug 22, 2023 11:53 am\nLatest: Aug 23, 2023 7:52 am"
+    },
+    {
+        "Topic": "Detection Transformer (DETR) for text detection in documents",
+        "Link": "https://discuss.huggingface.co/t/detection-transformer-detr-for-text-detection-in-documents/10396",
+        "Owner": "Felix92",
+        "Reply Count": "0",
+        "View Count": "2.0k",
+        "Activity Date": "Created: Sep 29, 2021 2:51 pm\nLatest: Sep 29, 2021 3:01 pm"
+    },
+    {
+        "Topic": "Building a custom Squad 2.0 style dataset, is it worth it?",
+        "Link": "https://discuss.huggingface.co/t/building-a-custom-squad-2-0-style-dataset-is-it-worth-it/398",
+        "Owner": "swayson",
+        "Reply Count": "3",
+        "View Count": "993",
+        "Activity Date": "Created: Jul 20, 2020 3:04 pm\nLatest: Jul 20, 2020 4:06 pm"
+    },
+    {
+        "Topic": "Classification Heads in BERT and DistilBERT for Sequence Classification",
+        "Link": "https://discuss.huggingface.co/t/classification-heads-in-bert-and-distilbert-for-sequence-classification/6146",
+        "Owner": "valkyrie",
+        "Reply Count": "2",
+        "View Count": "1.1k",
+        "Activity Date": "Created: May 12, 2021 4:16 pm\nLatest: May 13, 2021 9:28 am"
+    },
+    {
+        "Topic": "Relative Position Representation/Encoding for Transformer",
+        "Link": "https://discuss.huggingface.co/t/relative-position-representation-encoding-for-transformer/15018",
+        "Owner": "kevin998x",
+        "Reply Count": "0",
+        "View Count": "1.9k",
+        "Activity Date": "Created: Feb 22, 2022 8:45 am"
+    },
+    {
+        "Topic": "Fine tuning gpt-neo via ppo",
+        "Link": "https://discuss.huggingface.co/t/fine-tuning-gpt-neo-via-ppo/7938",
+        "Owner": "arcco96",
+        "Reply Count": "1",
+        "View Count": "1.3k",
+        "Activity Date": "Created: Jul 2, 2021 8:49 pm\nLatest: Jun 11, 2023 11:16 am"
+    },
+    {
+        "Topic": "Integration with Public-sector Data Portals",
+        "Link": "https://discuss.huggingface.co/t/integration-with-public-sector-data-portals/40079",
+        "Owner": "AdamSobieski",
+        "Reply Count": "0",
+        "View Count": "338",
+        "Activity Date": "Created: May 16, 2023 4:03 pm\nLatest: May 16, 2023 4:03 pm"
+    },
+    {
+        "Topic": "Text to Text Transformer - T5",
+        "Link": "https://discuss.huggingface.co/t/text-to-text-transformer-t5/3008",
+        "Owner": "dkamalakar",
+        "Reply Count": "2",
+        "View Count": "1.1k",
+        "Activity Date": "Created: Dec 31, 2020 1:53 pm\nLatest: Jan 4, 2021 8:06 pm"
+    },
+    {
+        "Topic": "Language model gradients sensitive to target value/length",
+        "Link": "https://discuss.huggingface.co/t/language-model-gradients-sensitive-to-target-value-length/43543",
+        "Owner": "rasgaard",
+        "Reply Count": "0",
+        "View Count": "337",
+        "Activity Date": "Created: Jun 16, 2023 5:00 pm"
+    },
+    {
+        "Topic": "Feeding a Knowledge Base into Transformer model",
+        "Link": "https://discuss.huggingface.co/t/feeding-a-knowledge-base-into-transformer-model/13150",
+        "Owner": "ShivamArya",
+        "Reply Count": "1",
+        "View Count": "1.3k",
+        "Activity Date": "Created: Dec 27, 2021 9:31 am\nLatest: May 2, 2023 2:48 am"
+    },
+    {
+        "Topic": "Resume Training / Finetune a language model and further finetune a classifier",
+        "Link": "https://discuss.huggingface.co/t/resume-training-finetune-a-language-model-and-further-finetune-a-classifier/1616",
+        "Owner": "pentagroom",
+        "Reply Count": "1",
+        "View Count": "1.2k",
+        "Activity Date": "Created: Oct 19, 2020 12:51 am\nLatest: Oct 19, 2020 3:15 pm"
+    },
+    {
+        "Topic": "[Call for Participation] GermEval2024 GerMS-Detect - Sexism Detection in German Online News Fora @Konvens 2024",
+        "Link": "https://discuss.huggingface.co/t/call-for-participation-germeval2024-germs-detect-sexism-detection-in-german-online-news-fora-konvens-2024/82657",
+        "Owner": "johann-petrak",
+        "Reply Count": "0",
+        "View Count": "312",
+        "Activity Date": "Created: Apr 19, 2024 2:45 pm"
+    },
+    {
+        "Topic": "LLM for analysing JSON data",
+        "Link": "https://discuss.huggingface.co/t/llm-for-analysing-json-data/130407",
+        "Owner": "happibara5",
+        "Reply Count": "1",
+        "View Count": "220",
+        "Activity Date": "Created: Dec 10, 2024 2:53 pm\nLatest: Dec 12, 2024 11:44 am"
+    },
+    {
+        "Topic": "Debugging the RAG question encoder",
+        "Link": "https://discuss.huggingface.co/t/debugging-the-rag-question-encoder/3550",
+        "Owner": "dzorlu",
+        "Reply Count": "2",
+        "View Count": "566",
+        "Activity Date": "Created: Feb 9, 2021 5:21 am\nLatest: Feb 10, 2021 5:55 am"
+    },
+    {
+        "Topic": "Finetuning German BERT for QA on biomedical domain",
+        "Link": "https://discuss.huggingface.co/t/finetuning-german-bert-for-qa-on-biomedical-domain/500",
+        "Owner": "suchanda",
+        "Reply Count": "2",
+        "View Count": "1.0k",
+        "Activity Date": "Created: Jul 28, 2020 9:01 am\nLatest: Jan 30, 2022 6:36 am"
+    },
+    {
+        "Topic": "How do i choose a optimal LLM for Pentesting",
+        "Link": "https://discuss.huggingface.co/t/how-do-i-choose-a-optimal-llm-for-pentesting/65420",
+        "Owner": "Patacka",
+        "Reply Count": "2",
+        "View Count": "1.0k",
+        "Activity Date": "Created: Dec 11, 2023 6:54 pm\nLatest: Dec 13, 2023 1:16 pm"
+    },
+    {
+        "Topic": "Address extraction and formated using Places API (Google Maps API)",
+        "Link": "https://discuss.huggingface.co/t/address-extraction-and-formated-using-places-api-google-maps-api/7998",
+        "Owner": "lacle",
+        "Reply Count": "0",
+        "View Count": "1.7k",
+        "Activity Date": "Created: Jul 4, 2021 2:25 pm"
+    },
+    {
+        "Topic": "Fine Tuning LLM",
+        "Link": "https://discuss.huggingface.co/t/fine-tuning-llm/50940",
+        "Owner": "Shreyanshv6",
+        "Reply Count": "0",
+        "View Count": "1.7k",
+        "Activity Date": "Created: Aug 16, 2023 10:51 am"
+    },
+    {
+        "Topic": "Inference optimization with HPC",
+        "Link": "https://discuss.huggingface.co/t/inference-optimization-with-hpc/68207",
+        "Owner": "SebasGecko",
+        "Reply Count": "2",
+        "View Count": "541",
+        "Activity Date": "Created: Jan 7, 2024 1:05 am\nLatest: Jan 8, 2024 12:58 am"
+    },
+    {
+        "Topic": "A Survey to Understand Challenges of Deploying Text Classification",
+        "Link": "https://discuss.huggingface.co/t/a-survey-to-understand-challenges-of-deploying-text-classification/14345",
+        "Owner": "leix328",
+        "Reply Count": "2",
+        "View Count": "942",
+        "Activity Date": "Created: Feb 2, 2022 6:36 pm\nLatest: Feb 8, 2022 7:51 pm"
+    },
+    {
+        "Topic": "LayoutLMV3 information extraction from invoice",
+        "Link": "https://discuss.huggingface.co/t/layoutlmv3-information-extraction-from-invoice/63800",
+        "Owner": "kaniam",
+        "Reply Count": "2",
+        "View Count": "901",
+        "Activity Date": "Created: Nov 28, 2023 6:14 am\nLatest: Sep 22, 2024 12:58 pm"
+    },
+    {
+        "Topic": "Understanding where model weights are stored for research project on AI openness",
+        "Link": "https://discuss.huggingface.co/t/understanding-where-model-weights-are-stored-for-research-project-on-ai-openness/137095",
+        "Owner": "FabianFle",
+        "Reply Count": "3",
+        "View Count": "138",
+        "Activity Date": "Created: Jan 24, 2025 1:50 am\nLatest: Jan 31, 2025 11:56 am"
+    },
+    {
+        "Topic": "What does the datacenter infrastructure of HF look like?",
+        "Link": "https://discuss.huggingface.co/t/what-does-the-datacenter-infrastructure-of-hf-look-like/79046",
+        "Owner": "kevinchan4007",
+        "Reply Count": "0",
+        "View Count": "272",
+        "Activity Date": "Created: Mar 28, 2024 2:44 am"
+    },
+    {
+        "Topic": "How find idea for academic thesis?",
+        "Link": "https://discuss.huggingface.co/t/how-find-idea-for-academic-thesis/14933",
+        "Owner": "MahdiA",
+        "Reply Count": "2",
+        "View Count": "877",
+        "Activity Date": "Created: Feb 19, 2022 9:57 pm\nLatest: Feb 19, 2022 10:36 pm"
+    },
+    {
+        "Topic": "What is Q* algorithm?",
+        "Link": "https://discuss.huggingface.co/t/what-is-q-algorithm/63518",
+        "Owner": "bijinpanicker",
+        "Reply Count": "0",
+        "View Count": "269",
+        "Activity Date": "Created: Nov 25, 2023 7:06 pm"
+    },
+    {
+        "Topic": "BART question, it seems that pretraining is not work for a small model?",
+        "Link": "https://discuss.huggingface.co/t/bart-question-it-seems-that-pretraining-is-not-work-for-a-small-model/511",
+        "Owner": "guotong1988",
+        "Reply Count": "6",
+        "View Count": "559",
+        "Activity Date": "Created: Jul 29, 2020 8:15 am\nLatest: Aug 3, 2020 3:10 am"
+    },
+    {
+        "Topic": "Domain-specific word similarity problem",
+        "Link": "https://discuss.huggingface.co/t/domain-specific-word-similarity-problem/29071",
+        "Owner": "vikasssss",
+        "Reply Count": "2",
+        "View Count": "843",
+        "Activity Date": "Created: Jan 6, 2023 12:56 pm\nLatest: Jul 19, 2023 12:59 am"
+    },
+    {
+        "Topic": "Ionic vs. React Native vs. Flutter",
+        "Link": "https://discuss.huggingface.co/t/ionic-vs-react-native-vs-flutter/128132",
+        "Owner": "megoyaw3",
+        "Reply Count": "1",
+        "View Count": "180",
+        "Activity Date": "Created: Nov 27, 2024 1:52 pm\nLatest: Feb 26, 2025 9:00 am"
+    },
+    {
+        "Topic": "Exploring contexts of occurrence of particular words in large datasets",
+        "Link": "https://discuss.huggingface.co/t/exploring-contexts-of-occurrence-of-particular-words-in-large-datasets/22119",
+        "Owner": "nanom",
+        "Reply Count": "2",
+        "View Count": "810",
+        "Activity Date": "Created: Aug 25, 2022 11:55 pm\nLatest: Oct 19, 2022 5:27 pm"
+    },
+    {
+        "Topic": "GRPO Trainer for VLM?",
+        "Link": "https://discuss.huggingface.co/t/grpo-trainer-for-vlm/145117",
+        "Owner": "SabaPivot",
+        "Reply Count": "2",
+        "View Count": "83",
+        "Activity Date": "Created: Mar 11, 2025 12:52 am\nLatest: Mar 11, 2025 7:46 am"
+    },
+    {
+        "Topic": "How to add your paper to your models or datasets metadata?",
+        "Link": "https://discuss.huggingface.co/t/how-to-add-your-paper-to-your-models-or-datasets-metadata/60337",
+        "Owner": "SaiedAlshahrani",
+        "Reply Count": "2",
+        "View Count": "799",
+        "Activity Date": "Created: Oct 29, 2023 7:11 pm\nLatest: Oct 30, 2023 8:47 pm"
+    },
+    {
+        "Topic": "New Paper: Masked Autoencoders Are Scalable Vision Learners",
+        "Link": "https://discuss.huggingface.co/t/new-paper-masked-autoencoders-are-scalable-vision-learners/11673",
+        "Owner": "carbocation",
+        "Reply Count": "0",
+        "View Count": "1.4k",
+        "Activity Date": "Created: Nov 14, 2021 1:55 am\nLatest: Nov 14, 2021 1:55 am"
+    },
+    {
+        "Topic": "Tool to support psychological therapists",
+        "Link": "https://discuss.huggingface.co/t/tool-to-support-psychological-therapists/85056",
+        "Owner": "therapistsfriend",
+        "Reply Count": "0",
+        "View Count": "242",
+        "Activity Date": "Created: May 3, 2024 7:11 pm\nLatest: Jul 2, 2024 10:41 am"
+    },
+    {
+        "Topic": "BORT: Optimal Subarchitecture Extraction for BERT",
+        "Link": "https://discuss.huggingface.co/t/bort-optimal-subarchitecture-extraction-for-bert/2562",
+        "Owner": "FL33TW00D",
+        "Reply Count": "1",
+        "View Count": "539",
+        "Activity Date": "Created: Dec 4, 2020 6:34 pm\nLatest: Dec 5, 2020 4:22 am"
+    },
+    {
+        "Topic": "Abstractive summarization ensemble",
+        "Link": "https://discuss.huggingface.co/t/abstractive-summarization-ensemble/19987",
+        "Owner": "silvia-casola",
+        "Reply Count": "1",
+        "View Count": "951",
+        "Activity Date": "Created: Jul 4, 2022 9:13 pm\nLatest: Aug 31, 2022 12:26 pm"
+    },
+    {
+        "Topic": "Best way to deploy a SLM/LLM model. Best library and approach?",
+        "Link": "https://discuss.huggingface.co/t/best-way-to-deploy-a-slm-llm-model-best-library-and-approach/138523",
+        "Owner": "aakashnakarmi",
+        "Reply Count": "6",
+        "View Count": "280",
+        "Activity Date": "Created: Feb 2, 2025 6:27 am\nLatest: Mar 11, 2025 5:05 am"
+    },
+    {
+        "Topic": "Adding learnable coefficients for multi-objective losses?",
+        "Link": "https://discuss.huggingface.co/t/adding-learnable-coefficients-for-multi-objective-losses/2191",
+        "Owner": "facehugger2020",
+        "Reply Count": "2",
+        "View Count": "752",
+        "Activity Date": "Created: Nov 24, 2020 8:11 pm\nLatest: Nov 25, 2020 6:27 pm"
+    },
+    {
+        "Topic": "How to train relation extraction?",
+        "Link": "https://discuss.huggingface.co/t/how-to-train-relation-extraction/24280",
+        "Owner": "dwisaji",
+        "Reply Count": "0",
+        "View Count": "1.3k",
+        "Activity Date": "Created: Oct 11, 2022 3:33 pm"
+    },
+    {
+        "Topic": "Don’t Stop Pretraining BART",
+        "Link": "https://discuss.huggingface.co/t/dont-stop-pretraining-bart/2986",
+        "Owner": "Erpa",
+        "Reply Count": "1",
+        "View Count": "899",
+        "Activity Date": "Created: Dec 28, 2020 8:25 pm\nLatest: Dec 29, 2020 6:35 am"
+    },
+    {
+        "Topic": "Text generation using SetFit",
+        "Link": "https://discuss.huggingface.co/t/text-generation-using-setfit/24538",
+        "Owner": "Imran1",
+        "Reply Count": "1",
+        "View Count": "880",
+        "Activity Date": "Created: Oct 17, 2022 3:24 am\nLatest: Aug 27, 2024 4:55 pm"
+    },
+    {
+        "Topic": "Integrated gradients for explainability of VLMs",
+        "Link": "https://discuss.huggingface.co/t/integrated-gradients-for-explainability-of-vlms/138805",
+        "Owner": "nicokossmann",
+        "Reply Count": "0",
+        "View Count": "40",
+        "Activity Date": "Created: Feb 3, 2025 7:47 pm"
+    },
+    {
+        "Topic": "Models for Document Image Annotation Without OCR",
+        "Link": "https://discuss.huggingface.co/t/models-for-document-image-annotation-without-ocr/129604",
+        "Owner": "PaulSpirin",
+        "Reply Count": "1",
+        "View Count": "154",
+        "Activity Date": "Created: Dec 6, 2024 3:40 pm\nLatest: Dec 12, 2024 9:45 am"
+    },
+    {
+        "Topic": "PPO using TRL: optimal strategy for reward calculation?",
+        "Link": "https://discuss.huggingface.co/t/ppo-using-trl-optimal-strategy-for-reward-calculation/65988",
+        "Owner": "BayesRulez",
+        "Reply Count": "1",
+        "View Count": "856",
+        "Activity Date": "Created: Dec 15, 2023 8:52 pm\nLatest: Dec 20, 2023 9:17 am"
+    },
+    {
+        "Topic": "What are some popular datasets for domain adaptation in NLP",
+        "Link": "https://discuss.huggingface.co/t/what-are-some-popular-datasets-for-domain-adaptation-in-nlp/1931",
+        "Owner": "zuujhyt",
+        "Reply Count": "1",
+        "View Count": "470",
+        "Activity Date": "Created: Nov 7, 2020 5:30 pm\nLatest: Nov 12, 2020 1:13 pm"
+    },
+    {
+        "Topic": "Bert for audio classification",
+        "Link": "https://discuss.huggingface.co/t/bert-for-audio-classification/17179",
+        "Owner": "aclifton314",
+        "Reply Count": "0",
+        "View Count": "1.1k",
+        "Activity Date": "Created: Apr 25, 2022 10:30 pm"
+    },
+    {
+        "Topic": "Compute metric on Dev",
+        "Link": "https://discuss.huggingface.co/t/compute-metric-on-dev/16836",
+        "Owner": "MaryaAI",
+        "Reply Count": "1",
+        "View Count": "797",
+        "Activity Date": "Created: Apr 14, 2022 2:52 pm\nLatest: Apr 15, 2022 10:15 am"
+    },
+    {
+        "Topic": "Community interested in developing open source AI assistant(s)?",
+        "Link": "https://discuss.huggingface.co/t/community-interested-in-developing-open-source-ai-assistant-s/134470",
+        "Owner": "khromalabs",
+        "Reply Count": "3",
+        "View Count": "56",
+        "Activity Date": "Created: Jan 6, 2025 11:09 am\nLatest: Jan 6, 2025 1:38 pm"
+    },
+    {
+        "Topic": "Source Code Vulnerability Analysis GPT2",
+        "Link": "https://discuss.huggingface.co/t/source-code-vulnerability-analysis-gpt2/47832",
+        "Owner": "AIdrive",
+        "Reply Count": "1",
+        "View Count": "444",
+        "Activity Date": "Created: Jul 23, 2023 5:18 pm\nLatest: Jul 23, 2023 7:04 pm"
+    },
+    {
+        "Topic": "Call for Participation: SemEval 2022 Task 2 Multilingual Idiomaticity Detection and Sentence Embedding",
+        "Link": "https://discuss.huggingface.co/t/call-for-participation-semeval-2022-task-2-multilingual-idiomaticity-detection-and-sentence-embedding/10514",
+        "Owner": "harish",
+        "Reply Count": "1",
+        "View Count": "784",
+        "Activity Date": "Created: Oct 4, 2021 7:47 pm\nLatest: Jul 14, 2024 4:37 am"
+    },
+    {
+        "Topic": "Do We Still Need Dimensionality Reduction for LLM Text Embeddings?",
+        "Link": "https://discuss.huggingface.co/t/do-we-still-need-dimensionality-reduction-for-llm-text-embeddings/98924",
+        "Owner": "phamnam",
+        "Reply Count": "1",
+        "View Count": "783",
+        "Activity Date": "Created: Jul 23, 2024 10:07 am\nLatest: Aug 20, 2024 2:50 am"
+    },
+    {
+        "Topic": "How does BERT actually answer questions?",
+        "Link": "https://discuss.huggingface.co/t/how-does-bert-actually-answer-questions/4287",
+        "Owner": "theudster",
+        "Reply Count": "1",
+        "View Count": "780",
+        "Activity Date": "Created: Mar 10, 2021 3:30 pm\nLatest: Mar 11, 2021 8:30 pm"
+    },
+    {
+        "Topic": "Zero-shot and distillation - Improved distilled model over teacher model",
+        "Link": "https://discuss.huggingface.co/t/zero-shot-and-distillation-improved-distilled-model-over-teacher-model/4621",
+        "Owner": "mathbouchard",
+        "Reply Count": "0",
+        "View Count": "1.1k",
+        "Activity Date": "Created: Mar 18, 2021 5:53 pm"
+    },
+    {
+        "Topic": "Open-Source LLM Models for Data Extraction Tasks",
+        "Link": "https://discuss.huggingface.co/t/open-source-llm-models-for-data-extraction-tasks/108344",
+        "Owner": "bubbleMilkTea",
+        "Reply Count": "0",
+        "View Count": "190",
+        "Activity Date": "Created: Sep 24, 2024 9:40 am"
+    },
+    {
+        "Topic": "Very slow training (>5mins per batch) - code review request",
+        "Link": "https://discuss.huggingface.co/t/very-slow-training-5mins-per-batch-code-review-request/58087",
+        "Owner": "PeteBleackley",
+        "Reply Count": "2",
+        "View Count": "602",
+        "Activity Date": "Created: Oct 10, 2023 8:39 pm\nLatest: Oct 11, 2023 6:32 am"
+    },
+    {
+        "Topic": "Cost Effective LLM - For Small Guys",
+        "Link": "https://discuss.huggingface.co/t/cost-effective-llm-for-small-guys/37963",
+        "Owner": "udayteki",
+        "Reply Count": "0",
+        "View Count": "1.0k",
+        "Activity Date": "Created: Apr 27, 2023 10:17 pm\nLatest: Apr 28, 2023 12:59 am"
+    },
+    {
+        "Topic": "Optuna with a fine-tuned model",
+        "Link": "https://discuss.huggingface.co/t/optuna-with-a-fine-tuned-model/18113",
+        "Owner": "MaryaAI",
+        "Reply Count": "1",
+        "View Count": "717",
+        "Activity Date": "Created: May 18, 2022 5:58 pm\nLatest: May 19, 2022 11:35 am"
+    },
+    {
+        "Topic": "Composition Training/Validation Split of AutoTrain",
+        "Link": "https://discuss.huggingface.co/t/composition-training-validation-split-of-autotrain/26328",
+        "Owner": "ropodo",
+        "Reply Count": "0",
+        "View Count": "984",
+        "Activity Date": "Created: Nov 18, 2022 7:04 pm\nLatest: Nov 18, 2022 7:26 pm"
+    },
+    {
+        "Topic": "Working on Low Resource Machine Translation",
+        "Link": "https://discuss.huggingface.co/t/working-on-low-resource-machine-translation/41526",
+        "Owner": "yash-srivastava19",
+        "Reply Count": "2",
+        "View Count": "547",
+        "Activity Date": "Created: May 30, 2023 5:47 pm\nLatest: Jun 27, 2023 7:14 am"
+    },
+    {
+        "Topic": "TRL loss blowing up",
+        "Link": "https://discuss.huggingface.co/t/trl-loss-blowing-up/33821",
+        "Owner": "RajSang",
+        "Reply Count": "2",
+        "View Count": "545",
+        "Activity Date": "Created: Mar 15, 2023 1:37 am\nLatest: Mar 16, 2023 12:30 am"
+    },
+    {
+        "Topic": "Finetuning on a recent topic/domain",
+        "Link": "https://discuss.huggingface.co/t/finetuning-on-a-recent-topic-domain/40067",
+        "Owner": "Alex21j",
+        "Reply Count": "2",
+        "View Count": "542",
+        "Activity Date": "Created: May 16, 2023 12:51 pm\nLatest: May 25, 2023 11:49 am"
+    },
+    {
+        "Topic": "Small LMs to prototype architecture experiments on",
+        "Link": "https://discuss.huggingface.co/t/small-lms-to-prototype-architecture-experiments-on/137438",
+        "Owner": "zohaib-khan5040",
+        "Reply Count": "2",
+        "View Count": "54",
+        "Activity Date": "Created: Jan 26, 2025 5:45 pm\nLatest: Jan 27, 2025 5:25 pm"
+    },
+    {
+        "Topic": "Is it reasonableto pretrain by masking certain dimensions of each vector, rather than the individual token?",
+        "Link": "https://discuss.huggingface.co/t/is-it-reasonableto-pretrain-by-masking-certain-dimensions-of-each-vector-rather-than-the-individual-token/290",
+        "Owner": "Weilin",
+        "Reply Count": "3",
+        "View Count": "459",
+        "Activity Date": "Created: Jul 15, 2020 3:11 am\nLatest: Jul 21, 2020 7:52 pm"
+    },
+    {
+        "Topic": "Muti-Task Model - OCR + Object Detection",
+        "Link": "https://discuss.huggingface.co/t/muti-task-model-ocr-object-detection/42554",
+        "Owner": "HoussemBettaibi",
+        "Reply Count": "0",
+        "View Count": "917",
+        "Activity Date": "Created: Jun 8, 2023 2:51 pm"
+    },
+    {
+        "Topic": "Fail to claim paper authorship",
+        "Link": "https://discuss.huggingface.co/t/fail-to-claim-paper-authorship/94177",
+        "Owner": "BestWishYsh",
+        "Reply Count": "6",
+        "View Count": "344",
+        "Activity Date": "Created: Jun 26, 2024 10:28 am\nLatest: Sep 13, 2024 6:04 pm"
+    },
+    {
+        "Topic": "Suggestions for an open source tagging tool to build custom LayoutLMv2 datasets",
+        "Link": "https://discuss.huggingface.co/t/suggestions-for-an-open-source-tagging-tool-to-build-custom-layoutlmv2-datasets/14103",
+        "Owner": "nasheed",
+        "Reply Count": "0",
+        "View Count": "908",
+        "Activity Date": "Created: Jan 25, 2022 4:36 pm"
+    },
+    {
+        "Topic": "Introduce Our New Paper “OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use”",
+        "Link": "https://discuss.huggingface.co/t/introduce-our-new-paper-os-agents-a-survey-on-mllm-based-agents-for-general-computing-devices-use/133963",
+        "Owner": "OSAgentSurvey",
+        "Reply Count": "1",
+        "View Count": "169",
+        "Activity Date": "Created: Jan 2, 2025 10:06 am\nLatest: Mar 21, 2025 1:53 pm"
+    },
+    {
+        "Topic": "Obtaining BERT-base from BERT-large",
+        "Link": "https://discuss.huggingface.co/t/obtaining-bert-base-from-bert-large/1288",
+        "Owner": "prajjwal1",
+        "Reply Count": "3",
+        "View Count": "449",
+        "Activity Date": "Created: Sep 29, 2020 3:31 am\nLatest: Oct 2, 2020 10:53 am"
+    },
+    {
+        "Topic": "LLM for cyberbullying intervention - profanity issues",
+        "Link": "https://discuss.huggingface.co/t/llm-for-cyberbullying-intervention-profanity-issues/57108",
+        "Owner": "kate-wood",
+        "Reply Count": "2",
+        "View Count": "508",
+        "Activity Date": "Created: Oct 2, 2023 1:05 pm\nLatest: Oct 2, 2023 5:24 pm"
+    },
+    {
+        "Topic": "Dynamic Programming for Byte-level BPE",
+        "Link": "https://discuss.huggingface.co/t/dynamic-programming-for-byte-level-bpe/17376",
+        "Owner": "kevin998x",
+        "Reply Count": "0",
+        "View Count": "872",
+        "Activity Date": "Created: May 1, 2022 2:58 am"
+    },
+    {
+        "Topic": "Keypoint Detection Accuracy is Very Low",
+        "Link": "https://discuss.huggingface.co/t/keypoint-detection-accuracy-is-very-low/22483",
+        "Owner": "Karric",
+        "Reply Count": "0",
+        "View Count": "869",
+        "Activity Date": "Created: Sep 3, 2022 12:16 pm\nLatest: Sep 3, 2022 12:16 pm"
+    },
+    {
+        "Topic": "What would be the best image-to-text model for a lot of images?",
+        "Link": "https://discuss.huggingface.co/t/what-would-be-the-best-image-to-text-model-for-a-lot-of-images/61570",
+        "Owner": "Jorvan",
+        "Reply Count": "0",
+        "View Count": "843",
+        "Activity Date": "Created: Nov 8, 2023 7:44 pm"
+    },
+    {
+        "Topic": "AANN: Agents As Neural Networks",
+        "Link": "https://discuss.huggingface.co/t/aann-agents-as-neural-networks/144794",
+        "Owner": "Jjhygcyjn",
+        "Reply Count": "0",
+        "View Count": "28",
+        "Activity Date": "Created: Mar 8, 2025 7:37 pm"
+    },
+    {
+        "Topic": "Projected gradient descent on autoregressive models",
+        "Link": "https://discuss.huggingface.co/t/projected-gradient-descent-on-autoregressive-models/16975",
+        "Owner": "Dusan",
+        "Reply Count": "0",
+        "View Count": "822",
+        "Activity Date": "Created: Apr 19, 2022 2:22 pm"
+    },
+    {
+        "Topic": "Incremental decoding with T5",
+        "Link": "https://discuss.huggingface.co/t/incremental-decoding-with-t5/26930",
+        "Owner": "deathcrush",
+        "Reply Count": "0",
+        "View Count": "814",
+        "Activity Date": "Created: Nov 29, 2022 12:36 pm\nLatest: Nov 29, 2022 1:33 pm"
+    },
+    {
+        "Topic": "Extractive oracle",
+        "Link": "https://discuss.huggingface.co/t/extractive-oracle/14548",
+        "Owner": "silvia-casola",
+        "Reply Count": "0",
+        "View Count": "811",
+        "Activity Date": "Created: Feb 9, 2022 12:37 pm"
+    },
+    {
+        "Topic": "Question Answering model on mathematical domain for the greek language",
+        "Link": "https://discuss.huggingface.co/t/question-answering-model-on-mathematical-domain-for-the-greek-language/14300",
+        "Owner": "Geo",
+        "Reply Count": "0",
+        "View Count": "810",
+        "Activity Date": "Created: Feb 1, 2022 1:33 pm\nLatest: Feb 1, 2022 1:45 pm"
+    },
+    {
+        "Topic": "Video Classification",
+        "Link": "https://discuss.huggingface.co/t/video-classification/17995",
+        "Owner": "Isabella",
+        "Reply Count": "0",
+        "View Count": "809",
+        "Activity Date": "Created: May 16, 2022 10:43 am"
+    },
+    {
+        "Topic": "Get gaierror when trying to access HF Token for login",
+        "Link": "https://discuss.huggingface.co/t/get-gaierror-when-trying-to-access-hf-token-for-login/128870",
+        "Owner": "happibara5",
+        "Reply Count": "2",
+        "View Count": "83",
+        "Activity Date": "Created: Dec 2, 2024 3:50 pm\nLatest: Dec 9, 2024 11:33 am"
+    },
+    {
+        "Topic": "Graph2graph network for geometric shapes",
+        "Link": "https://discuss.huggingface.co/t/graph2graph-network-for-geometric-shapes/18609",
+        "Owner": "yogeshkulkarni",
+        "Reply Count": "0",
+        "View Count": "803",
+        "Activity Date": "Created: Jun 1, 2022 10:27 am"
+    },
+    {
+        "Topic": "Cross Lingual Transfer Learning ( XNLI )",
+        "Link": "https://discuss.huggingface.co/t/cross-lingual-transfer-learning-xnli/24383",
+        "Owner": "ankitkupadhyay",
+        "Reply Count": "0",
+        "View Count": "802",
+        "Activity Date": "Created: Oct 13, 2022 11:58 am\nLatest: Oct 13, 2022 11:58 am"
+    },
+    {
+        "Topic": "PEGASUS model overfitting",
+        "Link": "https://discuss.huggingface.co/t/pegasus-model-overfitting/6246",
+        "Owner": "theprincedrip",
+        "Reply Count": "2",
+        "View Count": "463",
+        "Activity Date": "Created: May 19, 2021 7:05 am\nLatest: May 19, 2021 12:12 pm"
+    },
+    {
+        "Topic": "Open Source AI and Law",
+        "Link": "https://discuss.huggingface.co/t/open-source-ai-and-law/86086",
+        "Owner": "Semih68",
+        "Reply Count": "0",
+        "View Count": "142",
+        "Activity Date": "Created: May 10, 2024 8:50 am"
+    },
+    {
+        "Topic": "Own AI deploy webapp",
+        "Link": "https://discuss.huggingface.co/t/own-ai-deploy-webapp/17247",
+        "Owner": "Martiking",
+        "Reply Count": "0",
+        "View Count": "796",
+        "Activity Date": "Created: Apr 27, 2022 11:40 am"
+    },
+    {
+        "Topic": "Ideas for product improvement",
+        "Link": "https://discuss.huggingface.co/t/ideas-for-product-improvement/110525",
+        "Owner": "doodle131",
+        "Reply Count": "1",
+        "View Count": "56",
+        "Activity Date": "Created: Oct 7, 2024 1:21 am\nLatest: Oct 10, 2024 10:39 am"
+    },
+    {
+        "Topic": "LSTM Encoder-Decoder not working",
+        "Link": "https://discuss.huggingface.co/t/lstm-encoder-decoder-not-working/18697",
+        "Owner": "AfonsoSousa",
+        "Reply Count": "0",
+        "View Count": "791",
+        "Activity Date": "Created: Jun 3, 2022 5:15 pm"
+    },
+    {
+        "Topic": "Project: retrofitting recursive fractal semantic space to Mistral7b",
+        "Link": "https://discuss.huggingface.co/t/project-retrofitting-recursive-fractal-semantic-space-to-mistral7b/141495",
+        "Owner": "GeomerticallyOpposed",
+        "Reply Count": "0",
+        "View Count": "25",
+        "Activity Date": "Created: Feb 18, 2025 2:44 am"
+    },
+    {
+        "Topic": "ConformerCTC for streaming",
+        "Link": "https://discuss.huggingface.co/t/conformerctc-for-streaming/27480",
+        "Owner": "pfjf2",
+        "Reply Count": "1",
+        "View Count": "559",
+        "Activity Date": "Created: Dec 8, 2022 7:03 pm\nLatest: Dec 12, 2022 10:19 am"
+    },
+    {
+        "Topic": "Converting Test Case Description into Test case Steps",
+        "Link": "https://discuss.huggingface.co/t/converting-test-case-description-into-test-case-steps/15332",
+        "Owner": "Yogendra",
+        "Reply Count": "0",
+        "View Count": "777",
+        "Activity Date": "Created: Mar 4, 2022 2:43 am\nLatest: Mar 4, 2022 2:43 am"
+    },
+    {
+        "Topic": "Seeking Advice on Building a Custom Virtual Try-On Model Using Pre-Existing Models",
+        "Link": "https://discuss.huggingface.co/t/seeking-advice-on-building-a-custom-virtual-try-on-model-using-pre-existing-models/128946",
+        "Owner": "4833R11Y45",
+        "Reply Count": "0",
+        "View Count": "139",
+        "Activity Date": "Created: Dec 3, 2024 12:01 am"
+    },
+    {
+        "Topic": "Any study of failures of nlp models vs schoolchildren on QA or POS?",
+        "Link": "https://discuss.huggingface.co/t/any-study-of-failures-of-nlp-models-vs-schoolchildren-on-qa-or-pos/5051",
+        "Owner": "cedpsam",
+        "Reply Count": "1",
+        "View Count": "544",
+        "Activity Date": "Created: Mar 24, 2021 11:06 am\nLatest: Mar 26, 2024 9:19 am"
+    },
+    {
+        "Topic": "XLSR-53: To group tokens or not to group tokens",
+        "Link": "https://discuss.huggingface.co/t/xlsr-53-to-group-tokens-or-not-to-group-tokens/4522",
+        "Owner": "jjdv",
+        "Reply Count": "1",
+        "View Count": "540",
+        "Activity Date": "Created: Mar 17, 2021 7:59 pm\nLatest: Mar 18, 2021 6:57 am"
+    },
+    {
+        "Topic": "Minimize number of transformers checkpoints for serving muliple client",
+        "Link": "https://discuss.huggingface.co/t/minimize-number-of-transformers-checkpoints-for-serving-muliple-client/29733",
+        "Owner": "ykacer",
+        "Reply Count": "3",
+        "View Count": "380",
+        "Activity Date": "Created: Jan 16, 2023 7:28 am\nLatest: Mar 9, 2023 3:14 pm"
+    },
+    {
+        "Topic": "Machine Unlearning: A Novel Framework to Unlearning, Privacy and Defending Against Inference Attacks",
+        "Link": "https://discuss.huggingface.co/t/machine-unlearning-a-novel-framework-to-unlearning-privacy-and-defending-against-inference-attacks/53161",
+        "Owner": "Severian",
+        "Reply Count": "0",
+        "View Count": "746",
+        "Activity Date": "Created: Sep 1, 2023 3:32 pm"
+    },
+    {
+        "Topic": "How to get embedding to each n-grams from a sentence using BERT?",
+        "Link": "https://discuss.huggingface.co/t/how-to-get-embedding-to-each-n-grams-from-a-sentence-using-bert/21562",
+        "Owner": "celsofranssa",
+        "Reply Count": "0",
+        "View Count": "745",
+        "Activity Date": "Created: Aug 12, 2022 2:44 pm"
+    },
+    {
+        "Topic": "Conversational QA pretrained model?",
+        "Link": "https://discuss.huggingface.co/t/conversational-qa-pretrained-model/26441",
+        "Owner": "sadafthegreekgod",
+        "Reply Count": "0",
+        "View Count": "744",
+        "Activity Date": "Created: Nov 21, 2022 10:52 am"
+    },
+    {
+        "Topic": "Best Pre-training Strategy",
+        "Link": "https://discuss.huggingface.co/t/best-pre-training-strategy/15307",
+        "Owner": "ahmedoumar",
+        "Reply Count": "0",
+        "View Count": "744",
+        "Activity Date": "Created: Mar 3, 2022 12:09 pm"
+    },
+    {
+        "Topic": "Conversational Budget Analytics",
+        "Link": "https://discuss.huggingface.co/t/conversational-budget-analytics/33730",
+        "Owner": "AdamSobieski",
+        "Reply Count": "1",
+        "View Count": "517",
+        "Activity Date": "Created: Mar 13, 2023 11:51 pm\nLatest: Mar 19, 2023 6:45 am"
+    },
+    {
+        "Topic": "Let’s Make an Ethics Chat Bot that’s Not Racist!",
+        "Link": "https://discuss.huggingface.co/t/lets-make-an-ethics-chat-bot-thats-not-racist/11905",
+        "Owner": "joshbachynski",
+        "Reply Count": "0",
+        "View Count": "731",
+        "Activity Date": "Created: Nov 16, 2021 7:32 pm"
+    },
+    {
+        "Topic": "Ideas for scoring coding assignments",
+        "Link": "https://discuss.huggingface.co/t/ideas-for-scoring-coding-assignments/17862",
+        "Owner": "Ahmedgr",
+        "Reply Count": "0",
+        "View Count": "725",
+        "Activity Date": "Created: May 12, 2022 10:18 am"
+    },
+    {
+        "Topic": "Aggregate encoder states in encoder-decoder models for long sequences?",
+        "Link": "https://discuss.huggingface.co/t/aggregate-encoder-states-in-encoder-decoder-models-for-long-sequences/16625",
+        "Owner": "marksverdhei",
+        "Reply Count": "0",
+        "View Count": "723",
+        "Activity Date": "Created: Apr 8, 2022 6:39 pm\nLatest: Apr 8, 2022 6:44 pm"
+    },
+    {
+        "Topic": "DeBerta Paper Explained and Dissected",
+        "Link": "https://discuss.huggingface.co/t/deberta-paper-explained-and-dissected/20158",
+        "Owner": "MrKnowNothing",
+        "Reply Count": "0",
+        "View Count": "719",
+        "Activity Date": "Created: Jul 8, 2022 5:29 pm"
+    },
+    {
+        "Topic": "The discussion is about entity recognition and corefrence resolution",
+        "Link": "https://discuss.huggingface.co/t/the-discussion-is-about-entity-recognition-and-corefrence-resolution/16068",
+        "Owner": "Anorak",
+        "Reply Count": "0",
+        "View Count": "717",
+        "Activity Date": "Created: Mar 25, 2022 10:54 am"
+    },
+    {
+        "Topic": "Re-learning the World with AI’s Unbiased Perspective",
+        "Link": "https://discuss.huggingface.co/t/re-learning-the-world-with-ais-unbiased-perspective/70592",
+        "Owner": "kanoj",
+        "Reply Count": "2",
+        "View Count": "404",
+        "Activity Date": "Created: Jan 25, 2024 2:43 pm\nLatest: Mar 30, 2024 6:06 am"
+    },
+    {
+        "Topic": "Get text generation in particular format",
+        "Link": "https://discuss.huggingface.co/t/get-text-generation-in-particular-format/82313",
+        "Owner": "vivek9840",
+        "Reply Count": "5",
+        "View Count": "285",
+        "Activity Date": "Created: Apr 17, 2024 11:48 pm\nLatest: Apr 18, 2024 9:45 am"
+    },
+    {
+        "Topic": "Technical Skill classification model",
+        "Link": "https://discuss.huggingface.co/t/technical-skill-classification-model/18487",
+        "Owner": "ankitkupadhyay",
+        "Reply Count": "0",
+        "View Count": "697",
+        "Activity Date": "Created: May 29, 2022 5:34 pm"
+    },
+    {
+        "Topic": "Pegasus Paraphrase Fine Tuning dataset",
+        "Link": "https://discuss.huggingface.co/t/pegasus-paraphrase-fine-tuning-dataset/18531",
+        "Owner": "deathcrush",
+        "Reply Count": "0",
+        "View Count": "694",
+        "Activity Date": "Created: May 30, 2022 4:01 pm"
+    },
+    {
+        "Topic": "Using OPTForSequenceClassification",
+        "Link": "https://discuss.huggingface.co/t/using-optforsequenceclassification/22340",
+        "Owner": "tnavin",
+        "Reply Count": "0",
+        "View Count": "685",
+        "Activity Date": "Created: Aug 31, 2022 9:54 am"
+    },
+    {
+        "Topic": "Steps to train T5 on collections of tags",
+        "Link": "https://discuss.huggingface.co/t/steps-to-train-t5-on-collections-of-tags/18600",
+        "Owner": "Mindpixel",
+        "Reply Count": "0",
+        "View Count": "673",
+        "Activity Date": "Created: Jun 1, 2022 7:58 am"
+    },
+    {
+        "Topic": "Importance of sentinel token placement in T5?",
+        "Link": "https://discuss.huggingface.co/t/importance-of-sentinel-token-placement-in-t5/40061",
+        "Owner": "rasgaard",
+        "Reply Count": "0",
+        "View Count": "672",
+        "Activity Date": "Created: May 16, 2023 11:59 am\nLatest: May 17, 2023 5:58 am"
+    },
+    {
+        "Topic": "Bertology-like Analysis for BART, T5?",
+        "Link": "https://discuss.huggingface.co/t/bertology-like-analysis-for-bart-t5/941",
+        "Owner": "gtellex",
+        "Reply Count": "0",
+        "View Count": "667",
+        "Activity Date": "Created: Aug 31, 2020 7:55 am"
+    },
+    {
+        "Topic": "Few shot automatic moderation",
+        "Link": "https://discuss.huggingface.co/t/few-shot-automatic-moderation/12102",
+        "Owner": "cedpsam",
+        "Reply Count": "0",
+        "View Count": "666",
+        "Activity Date": "Created: Nov 20, 2021 2:59 pm"
+    },
+    {
+        "Topic": "Hyperparameter for distil bert",
+        "Link": "https://discuss.huggingface.co/t/hyperparameter-for-distil-bert/1624",
+        "Owner": "olenet",
+        "Reply Count": "0",
+        "View Count": "664",
+        "Activity Date": "Created: Oct 19, 2020 11:30 am"
+    },
+    {
+        "Topic": "Summarization for downstream task",
+        "Link": "https://discuss.huggingface.co/t/summarization-for-downstream-task/10011",
+        "Owner": "silvia-casola",
+        "Reply Count": "0",
+        "View Count": "656",
+        "Activity Date": "Created: Sep 15, 2021 8:56 am"
+    },
+    {
+        "Topic": "Help me in developing a thesis app Please",
+        "Link": "https://discuss.huggingface.co/t/help-me-in-developing-a-thesis-app-please/96191",
+        "Owner": "DGREATEJ5",
+        "Reply Count": "0",
+        "View Count": "115",
+        "Activity Date": "Created: Jul 8, 2024 4:11 pm"
+    },
+    {
+        "Topic": "Help me with my PhD research on voice dataset documentation by completing this survey",
+        "Link": "https://discuss.huggingface.co/t/help-me-with-my-phd-research-on-voice-dataset-documentation-by-completing-this-survey/37751",
+        "Owner": "KathyReid",
+        "Reply Count": "1",
+        "View Count": "448",
+        "Activity Date": "Created: Apr 26, 2023 4:07 am\nLatest: May 13, 2023 4:05 am"
+    },
+    {
+        "Topic": "Process Reward Model compatibility with PPOTrainer",
+        "Link": "https://discuss.huggingface.co/t/process-reward-model-compatibility-with-ppotrainer/113648",
+        "Owner": "anki08",
+        "Reply Count": "0",
+        "View Count": "113",
+        "Activity Date": "Created: Oct 23, 2024 6:13 pm"
+    },
+    {
+        "Topic": "Attaching TF models to CNN features",
+        "Link": "https://discuss.huggingface.co/t/attaching-tf-models-to-cnn-features/391",
+        "Owner": "surajp",
+        "Reply Count": "1",
+        "View Count": "445",
+        "Activity Date": "Created: Jul 20, 2020 8:43 am\nLatest: Jul 24, 2020 6:59 pm"
+    },
+    {
+        "Topic": "RoBERTa trained on NSP",
+        "Link": "https://discuss.huggingface.co/t/roberta-trained-on-nsp/3133",
+        "Owner": "prajjwal1",
+        "Reply Count": "0",
+        "View Count": "629",
+        "Activity Date": "Created: Jan 12, 2021 3:58 am\nLatest: Jan 28, 2021 3:25 pm"
+    },
+    {
+        "Topic": "Gradio is more than UI?",
+        "Link": "https://discuss.huggingface.co/t/gradio-is-more-than-ui/114715",
+        "Owner": "SakatZebra",
+        "Reply Count": "4",
+        "View Count": "87",
+        "Activity Date": "Created: Oct 30, 2024 1:27 pm\nLatest: Oct 31, 2024 5:27 pm"
+    },
+    {
+        "Topic": "Public Research Survey",
+        "Link": "https://discuss.huggingface.co/t/public-research-survey/20979",
+        "Owner": "cflo123",
+        "Reply Count": "0",
+        "View Count": "603",
+        "Activity Date": "Created: Jul 28, 2022 10:26 pm"
+    },
+    {
+        "Topic": "Looking for OCR post-processing for Visual Document Understanding",
+        "Link": "https://discuss.huggingface.co/t/looking-for-ocr-post-processing-for-visual-document-understanding/65937",
+        "Owner": "frhrdr",
+        "Reply Count": "0",
+        "View Count": "599",
+        "Activity Date": "Created: Dec 15, 2023 10:28 am"
+    },
+    {
+        "Topic": "BERT from scratch without self-supervised learning",
+        "Link": "https://discuss.huggingface.co/t/bert-from-scratch-without-self-supervised-learning/24397",
+        "Owner": "aclifton314",
+        "Reply Count": "0",
+        "View Count": "599",
+        "Activity Date": "Created: Oct 13, 2022 5:12 pm"
+    },
+    {
+        "Topic": "Introducing The AGI Framework: Open-Source Modular Architecture for Artificial General Intelligence Development",
+        "Link": "https://discuss.huggingface.co/t/introducing-the-agi-framework-open-source-modular-architecture-for-artificial-general-intelligence-development/137675",
+        "Owner": "AGI-Framework",
+        "Reply Count": "0",
+        "View Count": "106",
+        "Activity Date": "Created: Jan 28, 2025 6:44 am"
+    },
+    {
+        "Topic": "Choosing Benchmarks for Fine-Tuned Models in Emotion Analysis",
+        "Link": "https://discuss.huggingface.co/t/choosing-benchmarks-for-fine-tuned-models-in-emotion-analysis/127106",
+        "Owner": "pavol58",
+        "Reply Count": "0",
+        "View Count": "106",
+        "Activity Date": "Created: Nov 23, 2024 8:10 pm"
+    },
+    {
+        "Topic": "Looking for researchers and members of AI development teams",
+        "Link": "https://discuss.huggingface.co/t/looking-for-researchers-and-members-of-ai-development-teams/103034",
+        "Owner": "wildercb",
+        "Reply Count": "0",
+        "View Count": "105",
+        "Activity Date": "Created: Aug 19, 2024 7:32 pm"
+    },
+    {
+        "Topic": "Metadata of NLP datasets",
+        "Link": "https://discuss.huggingface.co/t/metadata-of-nlp-datasets/25603",
+        "Owner": "Dipti",
+        "Reply Count": "0",
+        "View Count": "590",
+        "Activity Date": "Created: Nov 5, 2022 7:51 pm"
+    },
+    {
+        "Topic": "Summary Decoding params",
+        "Link": "https://discuss.huggingface.co/t/summary-decoding-params/19711",
+        "Owner": "lizush23",
+        "Reply Count": "0",
+        "View Count": "590",
+        "Activity Date": "Created: Jun 28, 2022 7:45 am"
+    },
+    {
+        "Topic": "Problem in understanding the test phase in Few-shot learning",
+        "Link": "https://discuss.huggingface.co/t/problem-in-understanding-the-test-phase-in-few-shot-learning/24231",
+        "Owner": "Moryodu",
+        "Reply Count": "0",
+        "View Count": "581",
+        "Activity Date": "Created: Oct 10, 2022 3:20 pm"
+    },
+    {
+        "Topic": "Vulnerability in Safetensors conversion space",
+        "Link": "https://discuss.huggingface.co/t/vulnerability-in-safetensors-conversion-space/76509",
+        "Owner": "rajasekar",
+        "Reply Count": "0",
+        "View Count": "579",
+        "Activity Date": "Created: Mar 8, 2024 9:48 am"
+    },
+    {
+        "Topic": "AI model for Bitcoin blockchain data analysis",
+        "Link": "https://discuss.huggingface.co/t/ai-model-for-bitcoin-blockchain-data-analysis/47527",
+        "Owner": "Chanblock",
+        "Reply Count": "0",
+        "View Count": "573",
+        "Activity Date": "Created: Jul 20, 2023 9:33 pm"
+    },
+    {
+        "Topic": "Handle number on ASR",
+        "Link": "https://discuss.huggingface.co/t/handle-number-on-asr/44181",
+        "Owner": "khady",
+        "Reply Count": "1",
+        "View Count": "400",
+        "Activity Date": "Created: Jun 22, 2023 12:21 pm\nLatest: Jul 6, 2023 8:35 am"
+    },
+    {
+        "Topic": "Seeking Guidance on Training a Model for Generating Gregorian Chant Music",
+        "Link": "https://discuss.huggingface.co/t/seeking-guidance-on-training-a-model-for-generating-gregorian-chant-music/131700",
+        "Owner": "Martim-Ramos-Neural",
+        "Reply Count": "2",
+        "View Count": "58",
+        "Activity Date": "Created: Dec 16, 2024 12:05 pm\nLatest: Dec 16, 2024 2:30 pm"
+    },
+    {
+        "Topic": "Research on Hyperparameters for Fine Tuning",
+        "Link": "https://discuss.huggingface.co/t/research-on-hyperparameters-for-fine-tuning/73938",
+        "Owner": "Pekka10",
+        "Reply Count": "2",
+        "View Count": "325",
+        "Activity Date": "Created: Feb 20, 2024 8:58 am\nLatest: Feb 26, 2024 2:56 pm"
+    },
+    {
+        "Topic": "Civic Technology Community Group",
+        "Link": "https://discuss.huggingface.co/t/civic-technology-community-group/37472",
+        "Owner": "AdamSobieski",
+        "Reply Count": "1",
+        "View Count": "397",
+        "Activity Date": "Created: Apr 23, 2023 8:25 am\nLatest: Apr 25, 2023 10:25 pm"
+    },
+    {
+        "Topic": "Does anyone need an extra pair of hands?",
+        "Link": "https://discuss.huggingface.co/t/does-anyone-need-an-extra-pair-of-hands/58476",
+        "Owner": "Pawlu",
+        "Reply Count": "1",
+        "View Count": "396",
+        "Activity Date": "Created: Oct 13, 2023 4:29 pm\nLatest: Oct 14, 2023 9:36 am"
+    },
+    {
+        "Topic": "Load/save HF block sparse model",
+        "Link": "https://discuss.huggingface.co/t/load-save-hf-block-sparse-model/1646",
+        "Owner": "vblagoje",
+        "Reply Count": "1",
+        "View Count": "394",
+        "Activity Date": "Created: Oct 20, 2020 9:07 am\nLatest: Oct 21, 2020 1:47 pm"
+    },
+    {
+        "Topic": "Swapping out self-attention layer in BERT",
+        "Link": "https://discuss.huggingface.co/t/swapping-out-self-attention-layer-in-bert/29398",
+        "Owner": "sidkk86",
+        "Reply Count": "0",
+        "View Count": "554",
+        "Activity Date": "Created: Jan 11, 2023 7:44 pm\nLatest: Jan 11, 2023 7:50 pm"
+    },
+    {
+        "Topic": "User query intent recognition techniques",
+        "Link": "https://discuss.huggingface.co/t/user-query-intent-recognition-techniques/52954",
+        "Owner": "NinadJagtap",
+        "Reply Count": "0",
+        "View Count": "552",
+        "Activity Date": "Created: Aug 31, 2023 11:21 am"
+    },
+    {
+        "Topic": "I’d like to understand on how to train a neural net with agents and evolution",
+        "Link": "https://discuss.huggingface.co/t/id-like-to-understand-on-how-to-train-a-neural-net-with-agents-and-evolution/25334",
+        "Owner": "PeterB123A",
+        "Reply Count": "0",
+        "View Count": "545",
+        "Activity Date": "Created: Nov 1, 2022 2:04 pm"
+    },
+    {
+        "Topic": "I have a project Skin Lens Please can you fill the form",
+        "Link": "https://discuss.huggingface.co/t/i-have-a-project-skin-lens-please-can-you-fill-the-form/108980",
+        "Owner": "ronnys",
+        "Reply Count": "1",
+        "View Count": "68",
+        "Activity Date": "Created: Sep 27, 2024 8:33 am\nLatest: Nov 20, 2024 7:41 pm"
+    },
+    {
+        "Topic": "How does an API work?",
+        "Link": "https://discuss.huggingface.co/t/how-does-an-api-work/121828",
+        "Owner": "riddhi810",
+        "Reply Count": "4",
+        "View Count": "136",
+        "Activity Date": "Created: Nov 15, 2024 5:07 am\nLatest: Nov 15, 2024 10:05 am"
+    },
+    {
+        "Topic": "PyMo: proof of concept",
+        "Link": "https://discuss.huggingface.co/t/pymo-proof-of-concept/137303",
+        "Owner": "rchfpge",
+        "Reply Count": "2",
+        "View Count": "55",
+        "Activity Date": "Created: Jan 25, 2025 5:24 pm\nLatest: Jan 29, 2025 4:47 am"
+    },
+    {
+        "Topic": "QARAC: Question Answering, Reasoning and Consitency",
+        "Link": "https://discuss.huggingface.co/t/qarac-question-answering-reasoning-and-consitency/52161",
+        "Owner": "PeteBleackley",
+        "Reply Count": "2",
+        "View Count": "306",
+        "Activity Date": "Created: Aug 25, 2023 12:58 pm\nLatest: Aug 27, 2023 10:37 am"
+    },
+    {
+        "Topic": "Generating coherent related text with generative model (GPT2 etc.)",
+        "Link": "https://discuss.huggingface.co/t/generating-coherent-related-text-with-generative-model-gpt2-etc/3417",
+        "Owner": "prajjwal1",
+        "Reply Count": "0",
+        "View Count": "521",
+        "Activity Date": "Created: Jan 28, 2021 3:32 pm"
+    },
+    {
+        "Topic": "Explaining medical diagnosis",
+        "Link": "https://discuss.huggingface.co/t/explaining-medical-diagnosis/24664",
+        "Owner": "misza222",
+        "Reply Count": "0",
+        "View Count": "520",
+        "Activity Date": "Created: Oct 19, 2022 11:59 am"
+    },
+    {
+        "Topic": "Project Description",
+        "Link": "https://discuss.huggingface.co/t/project-description/6444",
+        "Owner": "dsno800",
+        "Reply Count": "1",
+        "View Count": "366",
+        "Activity Date": "Created: May 28, 2021 9:33 am\nLatest: May 29, 2021 4:25 am"
+    },
+    {
+        "Topic": "Empathetic Generative AI",
+        "Link": "https://discuss.huggingface.co/t/empathetic-generative-ai/77290",
+        "Owner": "anywhichway",
+        "Reply Count": "1",
+        "View Count": "361",
+        "Activity Date": "Created: Mar 13, 2024 3:37 pm\nLatest: Apr 30, 2024 2:00 pm"
+    },
+    {
+        "Topic": "About Paper Claim",
+        "Link": "https://discuss.huggingface.co/t/about-paper-claim/96881",
+        "Owner": "zwq2018",
+        "Reply Count": "3",
+        "View Count": "255",
+        "Activity Date": "Created: Jul 11, 2024 6:55 pm\nLatest: Aug 22, 2024 3:03 am"
+    },
+    {
+        "Topic": "10_000 samples & 10_000 labels",
+        "Link": "https://discuss.huggingface.co/t/10-000-samples-10-000-labels/8868",
+        "Owner": "ahmedoumar",
+        "Reply Count": "0",
+        "View Count": "508",
+        "Activity Date": "Created: Jul 31, 2021 9:57 am"
+    },
+    {
+        "Topic": "Modification of self attention in BERT without pretraining",
+        "Link": "https://discuss.huggingface.co/t/modification-of-self-attention-in-bert-without-pretraining/40357",
+        "Owner": "M-a-j-a",
+        "Reply Count": "1",
+        "View Count": "359",
+        "Activity Date": "Created: May 19, 2023 8:58 am\nLatest: Jun 15, 2023 9:21 pm"
+    },
+    {
+        "Topic": "Classification problem difficulty when going from 3 classes to 5 classes?",
+        "Link": "https://discuss.huggingface.co/t/classification-problem-difficulty-when-going-from-3-classes-to-5-classes/3037",
+        "Owner": "facehugger2020",
+        "Reply Count": "1",
+        "View Count": "359",
+        "Activity Date": "Created: Jan 3, 2021 11:55 pm\nLatest: Jan 11, 2021 8:22 pm"
+    },
+    {
+        "Topic": "Using Transformers(?) for Tibetan-English Translation",
+        "Link": "https://discuss.huggingface.co/t/using-transformers-for-tibetan-english-translation/44078",
+        "Owner": "koernergb",
+        "Reply Count": "0",
+        "View Count": "503",
+        "Activity Date": "Created: Jun 21, 2023 4:21 pm"
+    }
+]
