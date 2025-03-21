@@ -1,6 +1,6 @@
 ## Web Scraping Project
 
-This project collects topics and related data from the forum https://discuss.huggingface.co/c/research/7/l/top using Selenium and Python. The data is saved in CSV, JSON and TXT formats. The process steps are as follows:
+This project collects topics and related data from https://discuss.huggingface.co/c/research/7/l/top forum using Selenium and Python in Google Colab environment. Data is saved in CSV, JSON and TXT formats. Process steps are as follows:
 
 - **Browser Setup with Selenium**:
 
