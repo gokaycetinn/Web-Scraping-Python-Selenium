@@ -1,4 +1,4 @@
-# 🕸️ Web Scraping Project – Hugging Face Forum
+# 🔍 Web Scraping Project – Hugging Face Forum
 
 A web scraping project that collects research topics from the [Hugging Face Research Forum](https://discuss.huggingface.co/c/research/7/l/top) using **Selenium** and **Python**, executed in the **Google Colab** environment.
 
