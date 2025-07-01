@@ -1,32 +1,85 @@
-## Web Scraping Project
+# 🕸️ Web Scraping Project – Hugging Face Forum
 
-This project collects topics and related data from https://discuss.huggingface.co/c/research/7/l/top forum using Selenium and Python in Google Colab environment. Data is saved in CSV, JSON and TXT formats. Process steps are as follows:
+A web scraping project that collects research topics from the [Hugging Face Research Forum](https://discuss.huggingface.co/c/research/7/l/top) using **Selenium** and **Python**, executed in the **Google Colab** environment.
 
-- **Browser Setup with Selenium**:
+---
 
-Chrome WebDriver is used to launch the browser and before launching the browser, some options are added to customize the headers and window (headless, incognito, etc.).
-- **Going to the Page**:
+## 🚀 Project Overview
 
-The URL (Hugging Face research forum) specified with the driver.get(url) command is visited.
-Scrolling the Page:
+This script scrapes discussion topics from the forum and extracts the following details:
 
-To load the page content, the page is scrolled at certain intervals (window.scrollTo) and after each scroll, it waits for new content to be loaded. This process is repeated until a certain number of scrolls are made.
-- **Data Collection**:
+- Title  
+- Topic link  
+- Topic owner  
+- Number of replies  
+- Number of views  
+- Date of last activity
 
-Topics in the forum (title, link, owner, number of replies, number of views, event date) are collected from the relevant HTML elements (By.CLASS_NAME, By.XPATH).
+The data is saved in **CSV**, **JSON**, and **TXT** formats.
 
-- **Data Saving**:
+---
 
-The collected data is saved in three different formats:
+## 🔧 Process Steps
 
-- *CSV*: A CSV file is created containing information such as title, link, owner, number of replies, number of views, event date.
+### 1. 🔍 Browser Setup with Selenium
 
-- *JSON*: The same data is saved in JSON format.
+- **Chrome WebDriver** is used to automate the browser.  
+- Options such as **headless mode**, **incognito**, and **custom headers** are set.
 
-- *TXT*: A TXT file is created for each topic, where the title, link, owner, etc. information is written in a text file.
+### 2. 🌐 Navigating to the Page
 
-- **Close the Browser**:
+- The script navigates to the Hugging Face Research Forum using:  
+  ```python
+  driver.get(url)
+  ```
 
-After the process is completed, the browser is closed with the driver.quit() command.
+### 3. 📜 Scrolling the Page
 
-As a result, this code collects the topics in the forum, the number of replies and views, and more, and saves this data as CSV, JSON, and TXT files.
+- To load dynamic content, the page is scrolled multiple times using:
+  ```javascript
+  window.scrollTo(0, document.body.scrollHeight)
+  ```
+- A delay is added between scrolls to allow new content to load.
+- The number of scrolls is limited to avoid over-fetching.
+
+### 4. 📊 Data Collection
+
+- Forum topics are extracted using HTML element selectors like:
+  - `By.CLASS_NAME`
+  - `By.XPATH`
+- Collected fields:
+  - Title  
+  - Link  
+  - Owner  
+  - Replies  
+  - Views  
+  - Last activity date
+
+### 5. 💾 Saving Data
+
+- Data is stored in **three formats**:
+
+  - **CSV** – Tabular format  
+  - **JSON** – Structured, key-value format  
+  - **TXT** – One `.txt` file per topic with detailed content  
+
+### 6. ❎ Closing the Browser
+
+- Once scraping is complete:
+  ```python
+  driver.quit()
+  ```
+
+---
+
+## 📁 Output Files
+
+- `topics.csv`  
+- `topics.json`  
+- `txt_topics/` – Directory with one `.txt` file per topic  
+
+---
+
+## ✅ Summary
+
+This project efficiently collects structured forum data including views and replies and saves them in multiple formats for further analysis or reporting. It showcases dynamic content handling, Selenium automation, and multi-format export.
